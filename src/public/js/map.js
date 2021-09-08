@@ -602,7 +602,7 @@ function setMap(){
     
 
     map.setView([-34.7033363,-58.3953235], 13);
-    L.geoJSON(polygonLanus,{color: '',weight:8}).addTo(map);
+    L.geoJSON(polygonLanus,{color:'red' , fillColor: 'silver', fillOpacity:0.3 , weight:8}).addTo(map);
     L.geoJSON(geojson).addTo(map)
     L.geoJSON(geojson, {
         onEachFeature: onEachFeature
@@ -611,6 +611,7 @@ function setMap(){
     {
         attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
         maxZoom: 18,
+        minZoom: 10,
         id: 'mapbox/streets-v11',
         tileSize: 512,
         zoomOffset: -1,
