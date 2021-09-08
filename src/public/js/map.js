@@ -1,449 +1,7 @@
 // require('dotenv').config()
-const map = L.map('map')
 const paragraph = document.getElementById('paragraph')
-const geojson = {
-    "type": "FeatureCollection",
-    "name": "Instituciones de Salud",
-    "features": [
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Unidad Sanitaria Luís A. Máspero",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Dr. Luís A. Máspero",
-          "height": "75"
-        },
-        "geometry": { "type": "Point", "coordinates": [-58.3957713, -34.7233359] }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Unidad Sanitaria Dr. Nicolás Natiello",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Domingo Martinto",
-          "height": "1198"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.341508930007336, -34.731880335748755]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Unidad Sanitaria Monte Chingolo",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Blanco Encalada",
-          "height": "4393"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.34725557796848, -34.72317726119389]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Unidad Sanitaria Lanús Oeste",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Av. 25 de Mayo",
-          "height": "707"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.40222421359328, -34.7066285360019]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Unidad Sanitaria Miranda Norgreen",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Coronel Murature",
-          "height": "4114"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.43248188990433, -34.699167227905605]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Medicina Preventiva",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Sitio de Montevideo",
-          "height": "1862"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.381433478806464, -34.71145191267291]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Unidad Sanitaria Gral San Martin",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Manuel Corvalan",
-          "height": "2107"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.359573914311355, -34.731480842252054]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Nro 4 Cosme Argerich",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "General Alvear",
-          "height": "4493"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.36203858148272, -34.73779256413436]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Nro 10 Villa Obrera",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Eva Perón",
-          "height": "3168"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.365063072756705, -34.71964448905928]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Nro 14 Barrio Los Ceibos",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Centenario Uruguayo",
-          "height": "2898"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.37337675012812, -34.731751441984635]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Nro 20 Villa Independencia",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Manuel Corvalan",
-          "height": "3168"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.36862184709313, -34.73950932079044]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Villa Barceló",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Felix Alzaga",
-          "height": "4119"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.36451812934693, -34.73473942353314]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Nro 46",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Luís Chorroarin",
-          "height": "1018"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.348228432750595, -34.725638155481704]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Gerli",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Coronel Burelas",
-          "height": "2035"
-        },
-        "geometry": { "type": "Point", "coordinates": [-58.3663876, -34.7016773] }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Nro 48 Villa Porá",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Tte. Coronel Bueras",
-          "height": "3096"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.358064696637626, -34.71037095153304]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Nro 45 Villa Eslovena",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Colon",
-          "height": "2475"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.419920248503345, -34.71737548530704]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Dardo Rocha",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Dardo Rocha ",
-          "height": "3582"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.40946483735108, -34.719500356860905]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Nro 9 El Triángulo",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Coronel Osorio",
-          "height": "2233"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.425365230174805, -34.678090743956474]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Unidad Sanitaria Villa Jardín",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Emilio Castro",
-          "height": "3826"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.43189026525978, -34.67693794755654]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Unidad Sanitaria Valentín Alsina",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Paso de Burgos",
-          "height": "777"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.40998596300496, -34.671578271471205]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Nro 22 La Maquinita",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Presidente Raúl Alfonsín ",
-          "height": "2100"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.371516855506286, -34.7066175966067]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Ramón Carrillo",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Marco Avellaneda",
-          "height": "4860"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.43201937865193, -34.6927029204881]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Arturo Illía",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Emilio Castro",
-          "height": "2792"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.423571298295954, -34.68819469438855]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Juan Giardino",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Molinedo",
-          "height": "3114"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.43411274339787, -34.68513345061614]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Nro 39 Villa Esperanza",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Gobernador Ugarte",
-          "height": "3925"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.41498188338117, -34.7201884743192]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Eva Perón",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Pasaje Eva Perón",
-          "height": "248"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.439149930781376, -34.69615730381363]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Centro de Salud Nro 18 26 de Abril",
-          "public": true,
-          "dependence": "Municipal",
-          "address": "Av. Gral. Pinto",
-          "height": "5140"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.34832284014543, -34.73799999566271]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Unidad de Pronta atención (UPA)",
-          "public": true,
-          "dependence": "Provincial",
-          "address": "Osorio ",
-          "height": "3000"
-        },
-        "geometry": { "type": "Point", "coordinates": [-58.435055, -34.6807824] }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Hospital interzonal de agudos Evita",
-          "public": true,
-          "dependence": "Provincial",
-          "address": "Río de Janeiro",
-          "height": "1910"
-        },
-        "geometry": { "type": "Point", "coordinates": [-58.3998531, -34.6963322] }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Hospital Zonal General Narciso Lopez",
-          "public": true,
-          "dependence": "Provincial",
-          "address": "O ́Higgins",
-          "height": "1333"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.38296764173165, -34.70423069287048]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Hospital Local General de Agudos Dr. Arturo Melo",
-          "public": true,
-          "dependence": "Provincial",
-          "address": "Villa Luján",
-          "height": "3050"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.385230829691, -34.72581556137689]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Hospital Zonal Especializado en Oncología de Lanús",
-          "public": true,
-          "dependence": "Provincial",
-          "address": "Pringles",
-          "height": "1257"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-58.38264167900803, -34.703424827121545]
-        }
-      }
-    ]
-  }
-  const polygonLanus ={
+
+const polygonLanus ={
     "type": "FeatureCollection",
     "name": "lanus",
     "features": [
@@ -584,29 +142,42 @@ const geojson = {
         }
       }
     ]
-  }
-  function onEachFeature(feature, layer) {
-    // does this feature have a property named popupContent?
-    if (feature.properties) {
-        layer.bindPopup(`<h3>${feature.properties.name}</h3><span>Dirección: ${feature.properties.address} ${feature.properties.height}</span>`);
-        // layer.bindPopup(feature.properties.dependence)
-        // layer.bindPopup(feature.properties.address)
-        // layer.bindPopup(feature.properties.height)
-    }
 }
+function onEachFeature(feature, layer) {
+    // does this feature have a property named popupContent?
+  if (feature.properties) {
+        layer.bindPopup(`<h3>${feature.properties.name}</h3><span>Dirección: ${feature.properties.address} ${feature.properties.height}</span>`);
 
+  }
+}
 
 
 function setMap(){
 
-    
+  const mbAttr = `Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>`;
+  const mbUrl = `https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=sk.eyJ1Ijoibmljb2NhcHV0b2NhaSIsImEiOiJja3RhazVpbzcwMzJhMndvNmZpNGJtbWhrIn0.YV17IMSMs1UQFzyqqhRIdA`;
+  
+  const grayscale = L.tileLayer(mbUrl, {id: 'MapID', tileSize: 512, zoomOffset: -1, attribution: mbAttr}),
+    streets   = L.tileLayer(mbUrl, {id: 'MapID', tileSize: 512, zoomOffset: -1, attribution: mbAttr});
 
-    map.setView([-34.7033363,-58.3953235], 13);
-    L.geoJSON(polygonLanus,{color:'red' , fillColor: 'silver', fillOpacity:0.3 , weight:8}).addTo(map);
-    L.geoJSON(geojson).addTo(map)
-    L.geoJSON(geojson, {
-        onEachFeature: onEachFeature
-    }).addTo(map);
+  const map = L.map('map', {
+    center: [-34.7033363,-58.3953235], 
+    zoom: 13, 
+    Layer: [grayscale] 
+  })
+  var healthIcon = L.icon({
+    iconUrl: 'health.png',
+    iconSize: [38, 95],
+    iconAnchor: [22, 94],
+    shadowSize: [68, 95],
+    shadowAnchor: [22, 94]
+});
+    L.geoJSON(polygonLanus,{color:'red' , fillColor: 'silver', fillOpacity:0.3 , weight:3}).addTo(map);
+    // L.geoJSON(health,{icon:healthIcon}).addTo(map)
+    // L.geoJSON(health, {
+    //     onEachFeature: onEachFeature
+    // }).addTo(map);
+    
     L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', 
     {
         attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
@@ -617,6 +188,30 @@ function setMap(){
         zoomOffset: -1,
         accessToken: 'sk.eyJ1Ijoibmljb2NhcHV0b2NhaSIsImEiOiJja3RhazVpbzcwMzJhMndvNmZpNGJtbWhrIn0.YV17IMSMs1UQFzyqqhRIdA'
     }).addTo(map);
+    let health_url = "https://lanusinteligente.divisioncode.com.ar/api/health"
+    fetch(health_url)
+    .then(response =>response.json())
+    .then(data =>{
+      L.geoJSON(data).addTo(map)
+      L.geoJSON(data, {
+        onEachFeature: onEachFeature
+    }).addTo(map);
+    })
+
+
+
+
+    const overLayers ={
+      "Health": health
+    }
+   
+    const baseLayers = {
+      "<span style='color: gray'>Grayscale</span>": grayscale,
+      "Streets": streets
+  };
+
+    L.control.layers(baseLayers).addTo(map)
+
 }
 
 window.onload = setMap()
