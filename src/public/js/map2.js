@@ -1,4 +1,5 @@
-// require('dotenv').config()
+const paragraph = document.getElementById('paragraph')
+
 const polygonLanus ={
     "type": "FeatureCollection",
     "name": "lanus",
@@ -155,7 +156,7 @@ let health_url = "https://lanusinteligente.divisioncode.com.ar/api/health"
 
 
 
-async function setMap(healthData) {
+function setMap(healthData) {
 
   var map = L.map('map', {
     center: [-34.7033363,-58.3953235], 
@@ -183,7 +184,7 @@ async function setMap(healthData) {
 
   var cities = L.layerGroup([quilmes, lomas, avellaneda]);
 
-  await fetch(health_url)
+  fetch(health_url)
   .then(response =>response.json())  
   .then(healthData => {
     var health= L.geoJSON(healthData, {
