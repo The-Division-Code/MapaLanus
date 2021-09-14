@@ -235,7 +235,7 @@ async function setMap() {
       "clubes" : club,
       "Educacion" : education,
       "Salud": health,
-      "Securidad" : security,
+      "Seguridad" : security,
       "Transporte" : transport
     };
 
