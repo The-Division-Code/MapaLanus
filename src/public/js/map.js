@@ -151,11 +151,17 @@ function onEachFeature(feature, layer) {
 var quilmes = L.marker([-34.730302,  -58.268868]).bindPopup('This is Quilmes, CO.'),
     lomas    = L.marker([-34.7572582, -58.4026638]).bindPopup('This is Lomas, CO.'),
     avellaneda    = L.marker([-34.6648394, -58.3628061]).bindPopup('This is Avellaneda, CO.')
-let health_url = "https://lanusinteligente.divisioncode.com.ar/api/health"
 
+let club_url = "https://lanusinteligente.divisioncode.com.ar/api/club";
+let education_url = "https://lanusinteligente.divisioncode.com.ar/api/education";
+let health_url = "https://lanusinteligente.divisioncode.com.ar/api/health";
+let security_url = "https://lanusinteligente.divisioncode.com.ar/api/security";
+let transport_url = "https://lanusinteligente.divisioncode.com.ar/api/transport";
 
+//Si deja de funcionar probar con esto
+// async function setMap(healthData) {
 
-async function setMap(healthData) {
+async function setMap() {
 
   var map = L.map('map', {
     center: [-34.7033363,-58.3953235], 
@@ -182,22 +188,60 @@ async function setMap(healthData) {
     }).addTo(map);
 
   var cities = L.layerGroup([quilmes, lomas, avellaneda]);
+  var fClub = fetch(club_url);
+  var fEducation = fetch(education_url);
+  var fHealth = fetch(health_url)
+  var fSecurity = fetch(security_url);
+  var fTransport = fetch(transport_url);
 
-  await fetch(health_url)
-  .then(response =>response.json())  
-  .then(healthData => {
-    var health= L.geoJSON(healthData, {
-          data: healthData,
-          onEachFeature: onEachFeature,
+  var arr = Promise.all([fClub,fEducation,fHealth,fSecurity,fTransport])
+  .then(async([fcl,fed,fhe,fse,ftr]) =>{
+    var fc = await fcl.json();
+    var fe = await fed.json();
+    var fh = await fhe.json();
+    var fs = await fse.json();
+    var ft = await ftr.json();
+    return[fc,fe,fh,fs,ft]
+  })
+  .then(([clubData, educationData, healthData, securityData, transportData]) =>{
+    
+    var club = L.geoJSON(clubData,{
+      data: clubData,
+      onEachFeature:onEachFeature
     }).addTo(map);
+    
+    var education = L.geoJSON(educationData,{
+      data: educationData,
+      onEachFeature:onEachFeature
+    }).addTo(map);
+
+    var health= L.geoJSON(healthData, {
+      data: healthData,
+      onEachFeature: onEachFeature,
+    }).addTo(map);
+    
+    var security = L.geoJSON(securityData,{
+      data: securityData,
+      onEachFeature: onEachFeature
+    }).addTo(map);
+
+    var transport = L.geoJSON(transportData,{
+      data: transportData,
+      onEachFeature: onEachFeature
+    })
 
     var overLayers ={
       "Ciudades vecinas": cities,
+      "clubes" : club,
+      "Educacion" : education,
       "Salud": health,
-    }
+      "Securidad" : security,
+      "Transporte" : transport
+    };
 
     L.control.layers(overLayers).addTo(map)
   })
+  return arr
 }
 
 window.onload = setMap()
