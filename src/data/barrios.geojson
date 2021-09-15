@@ -1,0 +1,1297 @@
+{
+  "type": "FeatureCollection",
+  "name": "barrios",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Progreso",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.4106159, -34.6736998, 0.0],
+            [-58.421452, -34.6769997, 0.0],
+            [-58.4208298, -34.6816935, 0.0],
+            [-58.4176111, -34.6862634, 0.0],
+            [-58.4169888, -34.6880455, 0.0],
+            [-58.4106588, -34.6858576, 0.0],
+            [-58.4085131, -34.6847284, 0.0],
+            [-58.4043074, -34.6795231, 0.0],
+            [-58.4080839, -34.6766644, 0.0],
+            [-58.4106159, -34.6736998, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Paso de Burgos",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.4168816, -34.6600753, 0.0],
+            [-58.417697, -34.6650524, 0.0],
+            [-58.414607, -34.6653347, 0.0],
+            [-58.4111738, -34.6646994, 0.0],
+            [-58.3983421, -34.6753233, 0.0],
+            [-58.3972263, -34.6746174, 0.0],
+            [-58.3948231, -34.6724645, 0.0],
+            [-58.4065819, -34.6635699, 0.0],
+            [-58.4042645, -34.6613107, 0.0],
+            [-58.4054232, -34.6604989, 0.0],
+            [-58.4076118, -34.6608166, 0.0],
+            [-58.4112167, -34.6595105, 0.0],
+            [-58.4137917, -34.6591928, 0.0],
+            [-58.4168816, -34.6600753, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va Valentín Alsina",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.417697, -34.6650524, 0.0],
+            [-58.417182, -34.6687585, 0.0],
+            [-58.4106159, -34.6736998, 0.0],
+            [-58.4076977, -34.6769468, 0.0],
+            [-58.4043074, -34.6795231, 0.0],
+            [-58.3983421, -34.6753233, 0.0],
+            [-58.4111738, -34.6646994, 0.0],
+            [-58.414607, -34.6653347, 0.0],
+            [-58.417697, -34.6650524, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Constitución",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.4250784, -34.6780055, 0.0],
+            [-58.421452, -34.6769997, 0.0],
+            [-58.4106159, -34.6736998, 0.0],
+            [-58.417182, -34.6687585, 0.0],
+            [-58.417697, -34.6650524, 0.0],
+            [-58.4168816, -34.6600753, 0.0],
+            [-58.4213448, -34.6614872, 0.0],
+            [-58.4250784, -34.6638169, 0.0],
+            [-58.4296703, -34.6690762, 0.0],
+            [-58.4306574, -34.6704351, 0.0],
+            [-58.4250784, -34.6780055, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Jardín",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.4306574, -34.6704351, 0.0],
+            [-58.4391117, -34.6803701, 0.0],
+            [-58.4388542, -34.6815699, 0.0],
+            [-58.4250784, -34.6780055, 0.0],
+            [-58.4306574, -34.6704351, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Spínola",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3972263, -34.6746174, 0.0],
+            [-58.4043074, -34.6795231, 0.0],
+            [-58.4000587, -34.6843226, 0.0],
+            [-58.3976984, -34.6860517, 0.0],
+            [-58.3910465, -34.6806877, 0.0],
+            [-58.3919048, -34.6799113, 0.0],
+            [-58.3972263, -34.6746174, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Fisher",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3910465, -34.6806877, 0.0],
+            [-58.3976984, -34.6860517, 0.0],
+            [-58.3860683, -34.6945558, 0.0],
+            [-58.3831072, -34.6866516, 0.0],
+            [-58.3910465, -34.6806877, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Libertad",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.4043074, -34.6795231, 0.0],
+            [-58.4047794, -34.6800877, 0.0],
+            [-58.4051228, -34.6858753, 0.0],
+            [-58.4046078, -34.6877103, 0.0],
+            [-58.4022045, -34.6898981, 0.0],
+            [-58.3976984, -34.6860517, 0.0],
+            [-58.4000587, -34.6843226, 0.0],
+            [-58.4043074, -34.6795231, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Atlántida",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3976984, -34.6860517, 0.0],
+            [-58.4022045, -34.6898981, 0.0],
+            [-58.3883, -34.7012243, 0.0],
+            [-58.3860683, -34.6945558, 0.0],
+            [-58.3976984, -34.6860517, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. de los Industriales",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.4047794, -34.6800877, 0.0],
+            [-58.4085131, -34.6847284, 0.0],
+            [-58.4106588, -34.6858576, 0.0],
+            [-58.4169888, -34.6880455, 0.0],
+            [-58.4167957, -34.6885924, 0.0],
+            [-58.4136629, -34.6911684, 0.0],
+            [-58.4081697, -34.6961436, 0.0],
+            [-58.4022045, -34.6898981, 0.0],
+            [-58.4046078, -34.6877103, 0.0],
+            [-58.4051228, -34.6858753, 0.0],
+            [-58.4047794, -34.6800877, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Argerich",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.4022045, -34.6898981, 0.0],
+            [-58.4081697, -34.6961436, 0.0],
+            [-58.401432, -34.7015772, 0.0],
+            [-58.3949089, -34.6958966, 0.0],
+            [-58.4022045, -34.6898981, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Angélica",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3831072, -34.6866516, 0.0],
+            [-58.3860683, -34.6945558, 0.0],
+            [-58.380146, -34.6990016, 0.0],
+            [-58.3778715, -34.701295, 0.0],
+            [-58.370018, -34.6953321, 0.0],
+            [-58.3781719, -34.688169, 0.0],
+            [-58.3798027, -34.6895099, 0.0],
+            [-58.3831072, -34.6866516, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Belgrano",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.370018, -34.6953321, 0.0],
+            [-58.3778715, -34.701295, 0.0],
+            [-58.3762836, -34.7029532, 0.0],
+            [-58.3716488, -34.7067282, 0.0],
+            [-58.3687305, -34.7049289, 0.0],
+            [-58.3639669, -34.7005893, 0.0],
+            [-58.370018, -34.6953321, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Sarmiento",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3860254, -34.6946616, 0.0],
+            [-58.3883, -34.7012243, 0.0],
+            [-58.3770132, -34.7110675, 0.0],
+            [-58.3716488, -34.7067282, 0.0],
+            [-58.3766699, -34.702424, 0.0],
+            [-58.380146, -34.6990016, 0.0],
+            [-58.3860254, -34.6946616, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Gral Paz",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3883, -34.7012243, 0.0],
+            [-58.3905315, -34.7075396, 0.0],
+            [-58.3915615, -34.7109264, 0.0],
+            [-58.3832359, -34.7170292, 0.0],
+            [-58.3770132, -34.7110675, 0.0],
+            [-58.3883, -34.7012243, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. de los trabajadores",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3639669, -34.7005893, 0.0],
+            [-58.3687305, -34.7049289, 0.0],
+            [-58.3716488, -34.7067282, 0.0],
+            [-58.3664989, -34.7100797, 0.0],
+            [-58.367486, -34.7109617, 0.0],
+            [-58.3652544, -34.7125844, 0.0],
+            [-58.35783, -34.7179111, 0.0],
+            [-58.350706, -34.7118789, 0.0],
+            [-58.3639669, -34.7005893, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Obrera",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3770132, -34.7110675, 0.0],
+            [-58.3783436, -34.7123022, 0.0],
+            [-58.3633232, -34.7228142, 0.0],
+            [-58.35783, -34.7179111, 0.0],
+            [-58.367486, -34.7109617, 0.0],
+            [-58.3664989, -34.7100797, 0.0],
+            [-58.3716488, -34.7067282, 0.0],
+            [-58.3770132, -34.7110675, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Güemes",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3633232, -34.7228142, 0.0],
+            [-58.3783436, -34.7123022, 0.0],
+            [-58.3832359, -34.7170292, 0.0],
+            [-58.3793736, -34.7197454, 0.0],
+            [-58.3812189, -34.7215091, 0.0],
+            [-58.3704901, -34.7290573, 0.0],
+            [-58.3633232, -34.7228142, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. de la Colón",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3915615, -34.7109264, 0.0],
+            [-58.3921194, -34.7127961, 0.0],
+            [-58.3945656, -34.7357936, 0.0],
+            [-58.3902311, -34.7364989, 0.0],
+            [-58.3901024, -34.7300448, 0.0],
+            [-58.3793736, -34.7197454, 0.0],
+            [-58.3915615, -34.7109264, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Talleres",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3812189, -34.7215091, 0.0],
+            [-58.3901024, -34.7300448, 0.0],
+            [-58.3902311, -34.7364989, 0.0],
+            [-58.3861113, -34.7370632, 0.0],
+            [-58.3814335, -34.7384739, 0.0],
+            [-58.3792125, -34.7363401, 0.0],
+            [-58.3830855, -34.7339947, 0.0],
+            [-58.3747387, -34.7261298, 0.0],
+            [-58.3812189, -34.7215091, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va Higueritas",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.350749, -34.7117731, 0.0],
+            [-58.3633232, -34.7228142, 0.0],
+            [-58.36092, -34.7246484, 0.0],
+            [-58.3597612, -34.7236607, 0.0],
+            [-58.3566713, -34.7261298, 0.0],
+            [-58.3454704, -34.7164648, 0.0],
+            [-58.350749, -34.7117731, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Gral Urquiza",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3454704, -34.7164648, 0.0],
+            [-58.3495474, -34.719816, 0.0],
+            [-58.3463717, -34.728634, 0.0],
+            [-58.3442688, -34.7367811, 0.0],
+            [-58.333497, -34.7270116, 0.0],
+            [-58.3454704, -34.7164648, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Monte Chingolo",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3495474, -34.719816, 0.0],
+            [-58.3603621, -34.7293747, 0.0],
+            [-58.3561993, -34.7325137, 0.0],
+            [-58.3581305, -34.7342771, 0.0],
+            [-58.3572721, -34.7348766, 0.0],
+            [-58.3587742, -34.7362873, 0.0],
+            [-58.3537102, -34.7400256, 0.0],
+            [-58.3475733, -34.7399198, 0.0],
+            [-58.3442688, -34.7367811, 0.0],
+            [-58.3463717, -34.728634, 0.0],
+            [-58.3495474, -34.719816, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Besada",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3633232, -34.7228142, 0.0],
+            [-58.3711767, -34.7296216, 0.0],
+            [-58.3654261, -34.7337128, 0.0],
+            [-58.3632374, -34.7318083, 0.0],
+            [-58.3581734, -34.7356878, 0.0],
+            [-58.3572721, -34.7348766, 0.0],
+            [-58.3581305, -34.7342771, 0.0],
+            [-58.3561993, -34.7325137, 0.0],
+            [-58.3603621, -34.7293747, 0.0],
+            [-58.3566713, -34.7261298, 0.0],
+            [-58.3597612, -34.7236607, 0.0],
+            [-58.36092, -34.7246484, 0.0],
+            [-58.3633232, -34.7228142, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Mauricio",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3830855, -34.7339947, 0.0],
+            [-58.3792125, -34.7363401, 0.0],
+            [-58.3814335, -34.7384739, 0.0],
+            [-58.3803606, -34.7387913, 0.0],
+            [-58.3773994, -34.7412598, 0.0],
+            [-58.3671856, -34.7323726, 0.0],
+            [-58.3711767, -34.7296216, 0.0],
+            [-58.3704901, -34.7290573, 0.0],
+            [-58.3747387, -34.7261298, 0.0],
+            [-58.3830855, -34.7339947, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Independencia",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3773994, -34.7412598, 0.0],
+            [-58.3750391, -34.7429878, 0.0],
+            [-58.3719063, -34.7413304, 0.0],
+            [-58.3667564, -34.7454563, 0.0],
+            [-58.3560705, -34.7400608, 0.0],
+            [-58.3537102, -34.7400256, 0.0],
+            [-58.3587742, -34.7362873, 0.0],
+            [-58.3581734, -34.7356878, 0.0],
+            [-58.3632374, -34.7318083, 0.0],
+            [-58.3654261, -34.7337128, 0.0],
+            [-58.3671856, -34.7323726, 0.0],
+            [-58.3773994, -34.7412598, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lanús",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3949089, -34.6958966, 0.0],
+            [-58.401432, -34.7015772, 0.0],
+            [-58.4016037, -34.7025298, 0.0],
+            [-58.4048653, -34.7059168, 0.0],
+            [-58.3989429, -34.7076455, 0.0],
+            [-58.3907461, -34.7082805, 0.0],
+            [-58.3883, -34.7012243, 0.0],
+            [-58.3949089, -34.6958966, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Pescopaganesa",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3907461, -34.7082805, 0.0],
+            [-58.3989429, -34.7076455, 0.0],
+            [-58.4048653, -34.7059168, 0.0],
+            [-58.4053802, -34.7057757, 0.0],
+            [-58.4071398, -34.7141013, 0.0],
+            [-58.4013462, -34.7148421, 0.0],
+            [-58.3997583, -34.7149127, 0.0],
+            [-58.3923769, -34.7159357, 0.0],
+            [-58.3921194, -34.7127961, 0.0],
+            [-58.3915615, -34.7109264, 0.0],
+            [-58.3907461, -34.7082805, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rdos de Escalada",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3923769, -34.7159357, 0.0],
+            [-58.3997583, -34.7149127, 0.0],
+            [-58.4013462, -34.7148421, 0.0],
+            [-58.4091139, -34.7138544, 0.0],
+            [-58.3971405, -34.7296569, 0.0],
+            [-58.3962822, -34.7299037, 0.0],
+            [-58.3964539, -34.7306444, 0.0],
+            [-58.3943081, -34.7335365, 0.0],
+            [-58.3923769, -34.7159357, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Albariños",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.401432, -34.7015772, 0.0],
+            [-58.4081697, -34.6961436, 0.0],
+            [-58.4157228, -34.704435, 0.0],
+            [-58.4053802, -34.7057757, 0.0],
+            [-58.4048653, -34.7059168, 0.0],
+            [-58.4016037, -34.7025298, 0.0],
+            [-58.401432, -34.7015772, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Arias",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.4071398, -34.7141013, 0.0],
+            [-58.4053802, -34.7057757, 0.0],
+            [-58.4157228, -34.704435, 0.0],
+            [-58.4164524, -34.7053523, 0.0],
+            [-58.4113026, -34.7117025, 0.0],
+            [-58.4105301, -34.7116319, 0.0],
+            [-58.4091139, -34.7138544, 0.0],
+            [-58.4071398, -34.7141013, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Internacional",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.4081697, -34.6961436, 0.0],
+            [-58.4136629, -34.6911684, 0.0],
+            [-58.4229541, -34.6977314, 0.0],
+            [-58.4164524, -34.7053523, 0.0],
+            [-58.4157228, -34.704435, 0.0],
+            [-58.4081697, -34.6961436, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Barracas al Sur",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.4402061, -34.682611, 0.0],
+            [-58.4412146, -34.6827169, 0.0],
+            [-58.4466434, -34.6890688, 0.0],
+            [-58.4453988, -34.690692, 0.0],
+            [-58.4446907, -34.6918918, 0.0],
+            [-58.4372234, -34.7016301, 0.0],
+            [-58.4305501, -34.6981019, 0.0],
+            [-58.439219, -34.6865105, 0.0],
+            [-58.4402061, -34.682611, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Paso Chico",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.4402061, -34.682611, 0.0],
+            [-58.439219, -34.6865105, 0.0],
+            [-58.4341979, -34.6931973, 0.0],
+            [-58.4296489, -34.690939, 0.0],
+            [-58.4367943, -34.6810229, 0.0],
+            [-58.4388542, -34.6815699, 0.0],
+            [-58.4394121, -34.682364, 0.0],
+            [-58.4402061, -34.682611, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. del Valle",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.4312797, -34.6796289, 0.0],
+            [-58.4367943, -34.6810229, 0.0],
+            [-58.4275031, -34.6938678, 0.0],
+            [-58.422761, -34.6913272, 0.0],
+            [-58.4312797, -34.6796289, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Diamante",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.421452, -34.6769997, 0.0],
+            [-58.4250784, -34.6780055, 0.0],
+            [-58.4312797, -34.6796289, 0.0],
+            [-58.422761, -34.6913272, 0.0],
+            [-58.4239626, -34.69198, 0.0],
+            [-58.4209156, -34.6962671, 0.0],
+            [-58.4136629, -34.6911684, 0.0],
+            [-58.4167957, -34.6885924, 0.0],
+            [-58.4169888, -34.6880455, 0.0],
+            [-58.4176111, -34.6862634, 0.0],
+            [-58.4208298, -34.6816935, 0.0],
+            [-58.421452, -34.6769997, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Caraza",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.4372234, -34.7016301, 0.0],
+            [-58.43261, -34.707522, 0.0],
+            [-58.420186, -34.7009421, 0.0],
+            [-58.4229541, -34.6977314, 0.0],
+            [-58.4209156, -34.6962671, 0.0],
+            [-58.4239626, -34.69198, 0.0],
+            [-58.4275031, -34.6938678, 0.0],
+            [-58.4296489, -34.690939, 0.0],
+            [-58.4341979, -34.6931973, 0.0],
+            [-58.4305501, -34.6981019, 0.0],
+            [-58.4372234, -34.7016301, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Edén Argentino",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.43261, -34.707522, 0.0],
+            [-58.4245849, -34.7180522, 0.0],
+            [-58.4161305, -34.7135898, 0.0],
+            [-58.4140921, -34.7162532, 0.0],
+            [-58.4097362, -34.7129019, 0.0],
+            [-58.4105301, -34.7116319, 0.0],
+            [-58.4113026, -34.7117025, 0.0],
+            [-58.4164524, -34.7053523, 0.0],
+            [-58.420186, -34.7009421, 0.0],
+            [-58.43261, -34.707522, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. 1° de mayo",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.4140921, -34.7162532, 0.0],
+            [-58.4161305, -34.7135898, 0.0],
+            [-58.4245849, -34.7180522, 0.0],
+            [-58.4179974, -34.726553, 0.0],
+            [-58.4046936, -34.7196396, 0.0],
+            [-58.4091139, -34.7138544, 0.0],
+            [-58.4097362, -34.7129019, 0.0],
+            [-58.4140921, -34.7162532, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Gral Mansilla",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.3945656, -34.7357936, 0.0],
+            [-58.3943081, -34.7335365, 0.0],
+            [-58.3964539, -34.7306444, 0.0],
+            [-58.3962822, -34.7299037, 0.0],
+            [-58.3971405, -34.7296569, 0.0],
+            [-58.4018397, -34.7321257, 0.0],
+            [-58.4026337, -34.7320023, 0.0],
+            [-58.4051657, -34.728246, 0.0],
+            [-58.4134054, -34.7326195, 0.0],
+            [-58.4132338, -34.732884, 0.0],
+            [-58.3945656, -34.7357936, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Va. Balcarce",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.4179974, -34.726553, 0.0],
+            [-58.4134054, -34.7326195, 0.0],
+            [-58.4051657, -34.728246, 0.0],
+            [-58.4026337, -34.7320023, 0.0],
+            [-58.4018397, -34.7321257, 0.0],
+            [-58.3971405, -34.7296569, 0.0],
+            [-58.4046936, -34.7196396, 0.0],
+            [-58.4179974, -34.726553, 0.0]
+          ]
+        ]
+      }
+    }
+  ]
+}
