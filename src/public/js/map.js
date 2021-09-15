@@ -1,6 +1,3 @@
-window.addEventListener('load',function(){
-  document.querySelector('body').classList.add("loaded")  
-});
 const polygonLanus ={
   "type": "FeatureCollection",
   "name": "lanus",
@@ -145,6 +142,9 @@ const polygonLanus ={
 }
 
 
+window.addEventListener('load',function(){
+  document.querySelector('body').classList.add("loaded")  
+});
 
 function onEachFeature(feature, layer) {
     
@@ -168,7 +168,8 @@ let transport_url = "https://lanusinteligente.divisioncode.com.ar/api/transport"
 // async function setMap(healthData) {
 
 async function setMap() {
-
+  let loader = `<div class="loader-wrapper"></div>`;
+  document.getElementById('map').innerHTML = loader;
   var map = L.map('map', {
     center: [-34.7033363,-58.3953235], 
     zoom: 13, 
@@ -258,9 +259,9 @@ async function setMap() {
     // var baseMap ={
     //   "Polígono" : polygonLanus
     // }
-
     L.control.layers(overLayers, ).addTo(map)
   })
   return arr
+
 }
 window.onload = setMap()
