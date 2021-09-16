@@ -5,7 +5,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Progreso",
+        "name": "Va. Progreso",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -38,7 +38,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Paso de Burgos",
+        "name": "Va. Paso de Burgos",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -75,7 +75,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va Valentín Alsina",
+        "name": "Va Valentín Alsina",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -107,7 +107,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Constitución",
+        "name": "Va. Constitución",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -141,7 +141,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Jardín",
+        "name": "Va. Jardín",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -169,7 +169,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Spínola",
+        "name": "Va. Spínola",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -199,7 +199,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Fisher",
+        "name": "Va. Fisher",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -227,7 +227,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Libertad",
+        "name": "Va. Libertad",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -258,7 +258,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Atlántida",
+        "name": "Va. Atlántida",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -286,7 +286,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. de los Industriales",
+        "name": "Va. de los Industriales",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -320,7 +320,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Argerich",
+        "name": "Va. Argerich",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -348,7 +348,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Angélica",
+        "name": "Va. Angélica",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -379,7 +379,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Belgrano",
+        "name": "Va. Belgrano",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -409,7 +409,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Sarmiento",
+        "name": "Va. Sarmiento",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -439,7 +439,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Gral Paz",
+        "name": "Va. Gral Paz",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -468,7 +468,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. de los trabajadores",
+        "name": "Va. de los trabajadores",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -500,7 +500,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Obrera",
+        "name": "Va. Obrera",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -531,7 +531,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Güemes",
+        "name": "Va. Güemes",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -561,7 +561,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. de la Colón",
+        "name": "Va. de la Colón",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -591,7 +591,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Talleres",
+        "name": "Va. Talleres",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -623,7 +623,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va Higueritas",
+        "name": "Va Higueritas",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -653,7 +653,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Gral Urquiza",
+        "name": "Va. Gral Urquiza",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -682,7 +682,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Monte Chingolo",
+        "name": "Va. Monte Chingolo",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -716,7 +716,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Besada",
+        "name": "Va. Besada",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -752,7 +752,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Mauricio",
+        "name": "Va. Mauricio",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -785,7 +785,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Independencia",
+        "name": "Va. Independencia",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -820,7 +820,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Lanús",
+        "name": "Lanús",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -851,7 +851,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Pescopaganesa",
+        "name": "Va. Pescopaganesa",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -885,7 +885,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Rdos de Escalada",
+        "name": "Rdos de Escalada",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -917,7 +917,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Albariños",
+        "name": "Va. Albariños",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -947,7 +947,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Arias",
+        "name": "Va. Arias",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -978,7 +978,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Internacional",
+        "name": "Va. Internacional",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -1007,7 +1007,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Barracas al Sur",
+        "name": "Va. Barracas al Sur",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -1039,7 +1039,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Paso Chico",
+        "name": "Va. Paso Chico",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -1070,7 +1070,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. del Valle",
+        "name": "Va. del Valle",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -1098,7 +1098,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Diamante",
+        "name": "Va. Diamante",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -1133,7 +1133,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Caraza",
+        "name": "Va. Caraza",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -1167,7 +1167,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Edén Argentino",
+        "name": "Va. Edén Argentino",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -1200,7 +1200,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. 1° de mayo",
+        "name": "Va. 1° de mayo",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -1231,7 +1231,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Gral Mansilla",
+        "name": "Va. Gral Mansilla",
         "description": null,
         "timestamp": null,
         "begin": null,
@@ -1265,7 +1265,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Va. Balcarce",
+        "name": "Va. Balcarce",
         "description": null,
         "timestamp": null,
         "begin": null,
