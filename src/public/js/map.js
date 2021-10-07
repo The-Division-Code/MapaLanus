@@ -146,12 +146,15 @@ async function setMap() {
         var club = L.geoJSON(clubData, {
           data: clubData,
           onEachFeature: onEachFeature,
-        }).addTo(map);
+        }).addTo(map)
 
-        var education = L.geoJSON(educationData, {
-          data: educationData,
+        var initialEducation = L.geoJSON(educationData, {
           onEachFeature: onEachFeature,
-        }).addTo(map);
+          data:educationData
+          // initial: (feature,latlng) =>{
+          //   feature.properties.dependence == "Inicial" ? L.marker(latlng) : ""
+          // }
+        })
 
         // var health= L.geoJSON(healthData, {
         //   data: healthData,
@@ -169,7 +172,7 @@ async function setMap() {
               return L.marker(latlng, { icon: healthIconPrivate });
             }
           },
-        }).addTo(map);
+        })
 
         var security = L.geoJSON(securityData, {
           onEachFeature: onEachFeature,
@@ -185,12 +188,12 @@ async function setMap() {
               //   return L.marker(latlng,{icon: healthIconPrivate});
             }
           },
-        }).addTo(map);
+        })
 
         var transport = L.geoJSON(transportData, {
           data: transportData,
           onEachFeature: onEachFeature,
-        }).addTo(map);
+        })
 
         // var polygonLanus = L.geoJSON(polygonData, {
         //   data: polygonData,
@@ -206,15 +209,15 @@ async function setMap() {
           fillColor: "silver",
           fillOpacity: 0.3,
           weight: 1,
-        }).addTo(map);
+        }).addTo(map)
 
-        var circuitLanus = L.geoJSON(circuitData, {
-          data: circuitData,
-          color: "red",
-          fillColor: "silver",
-          fillOpacity: 0.3,
-          weight: 1,
-        }).addTo(map);
+        // var circuitLanus = L.geoJSON(circuitData, {
+        //   data: circuitData,
+        //   color: "red",
+        //   fillColor: "silver",
+        //   fillOpacity: 0.3,
+        //   weight: 1,
+        // }).addTo(map);
 
         var LocationsLanus = L.geoJSON(locationData,{
           data: locationData,
@@ -222,11 +225,11 @@ async function setMap() {
           fillColor: "silver",
           fillOpacity: 0.3,
           weight: 1,
-        }).addTo(map)
+        })
 
         var overLayers = {
           Clubes: club,
-          Educacion: education,
+          Educacion: initialEducation,
           Salud: health,
           Seguridad: security,
           Transporte: transport,
@@ -235,7 +238,7 @@ async function setMap() {
         var baseMap = {
           // "Polígono": polygonLanus,
           "Barrios": districtsLanus,
-          "Circuitos Electorales": circuitLanus,
+          // "Circuitos Electorales": circuitLanus,
           "Localidades": LocationsLanus
         };
         L.control.layers(overLayers, baseMap).addTo(map);
