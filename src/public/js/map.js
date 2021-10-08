@@ -150,10 +150,52 @@ async function setMap() {
 
         var initialEducation = L.geoJSON(educationData, {
           onEachFeature: onEachFeature,
-          data:educationData
-          // initial: (feature,latlng) =>{
-          //   feature.properties.dependence == "Inicial" ? L.marker(latlng) : ""
-          // }
+          filter: (feature, layer) => {
+            if(feature.properties.dependence == "Inicial"){
+              return feature
+            }
+          }
+        })
+        var primaryEducation = L.geoJSON(educationData, {
+          onEachFeature: onEachFeature,
+          filter: (feature, layer) => {
+            if(feature.properties.dependence == "Primaria"){
+              return feature
+            }
+          }
+        })
+        var hightSchollEducation = L.geoJSON(educationData, {
+          onEachFeature: onEachFeature,
+          filter: (feature, layer) => {
+            if(feature.properties.dependence == "Secundaria"){
+              return feature
+            }
+          }
+        })
+        var tecnicalHightSchollEducation = L.geoJSON(educationData, {
+          onEachFeature: onEachFeature,
+          filter: (feature, layer) => {
+            if(feature.properties.dependence == "Técnica" || feature.properties.dependence == "Tecnica"){
+              return feature
+            }
+          }
+        })
+        var universityEducation = L.geoJSON(educationData, {
+          onEachFeature: onEachFeature,
+          filter: (feature, layer) => {
+            if(feature.properties.dependence == "Universitaria"){
+              return feature
+            }
+          }
+        })
+
+        var otherEducation = L.geoJSON(educationData, {
+          onEachFeature: onEachFeature,
+          filter: (feature, layer) => {
+            if(feature.properties.dependence == "Otras"){
+              return feature
+            }
+          }
         })
 
         // var health= L.geoJSON(healthData, {
@@ -229,7 +271,12 @@ async function setMap() {
 
         var overLayers = {
           Clubes: club,
-          Educacion: initialEducation,
+          "Educación Inicial": initialEducation,
+          "Escuelas Primarias": primaryEducation,
+          "Escuelas Secundarias": hightSchollEducation,
+          "Escuelas Técnicas": tecnicalHightSchollEducation,
+          Universidades: universityEducation,
+          "Otros establecimientos educativos": otherEducation,
           Salud: health,
           Seguridad: security,
           Transporte: transport,
