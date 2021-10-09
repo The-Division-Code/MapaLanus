@@ -1,0 +1,6572 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "name": "Jardín de Infantes Nº 1 “Alfonsina Storni”",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Warnes",
+        "height": "3680"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.41667, -34.66667] },
+      "_id": "614cbd8e1e0dd38664ea4466",
+      "type": "Feature",
+      "createdAt": "2021-09-23T17:46:54.307Z",
+      "updatedAt": "2021-09-23T17:46:54.307Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Nº 2  “Los Leoncitos”",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Burelas",
+        "height": "2065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3661211, -34.7018972]
+      },
+      "_id": "614cbdae1e0dd38664ea4468",
+      "type": "Feature",
+      "createdAt": "2021-09-23T17:47:26.763Z",
+      "updatedAt": "2021-09-23T17:47:26.763Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de maternal Nº 4  \"Crecer Libres\"",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Alcorta",
+        "height": "97"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3931738, -34.7002367]
+      },
+      "_id": "614cbdca1e0dd38664ea446a",
+      "type": "Feature",
+      "createdAt": "2021-09-23T17:47:54.576Z",
+      "updatedAt": "2021-09-23T17:47:54.576Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Nº 5  “Lihuen Suyai”",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Bustamante",
+        "height": "2615"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3598026, -34.704788] },
+      "_id": "614cbde91e0dd38664ea446c",
+      "type": "Feature",
+      "createdAt": "2021-09-23T17:48:25.312Z",
+      "updatedAt": "2021-09-23T17:48:25.312Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Nº 7  “Juana Manso”",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Cnel. D´Elía",
+        "height": "1369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4056425, -34.6924444]
+      },
+      "_id": "614cbecf6ad5d18a2e62c29d",
+      "type": "Feature",
+      "createdAt": "2021-09-23T17:52:15.113Z",
+      "updatedAt": "2021-09-23T17:52:15.113Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Nº 8 “Martín Miguel de Güemes”",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "A. del Valle",
+        "height": "3570"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.4317143, -34.681334] },
+      "_id": "614cbef56ad5d18a2e62c2a1",
+      "type": "Feature",
+      "createdAt": "2021-09-23T17:52:53.762Z",
+      "updatedAt": "2021-09-23T17:52:53.762Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Nº 9 “Color Esperanza”",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Bueras",
+        "height": "4860"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3410425, -34.7240121]
+      },
+      "_id": "614cbf0f6ad5d18a2e62c2a3",
+      "type": "Feature",
+      "createdAt": "2021-09-23T17:53:19.871Z",
+      "updatedAt": "2021-09-23T17:53:19.871Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Nº 10 “Eva Perón”",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Murature",
+        "height": "4136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4326965, -34.6993497]
+      },
+      "_id": "614cbf2b6ad5d18a2e62c2a5",
+      "type": "Feature",
+      "createdAt": "2021-09-23T17:53:47.344Z",
+      "updatedAt": "2021-09-23T17:53:47.344Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Nº 11 “María Montessori”",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Oncativo",
+        "height": "713"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.375458, -34.7006128] },
+      "_id": "614cbf4b6ad5d18a2e62c2a7",
+      "type": "Feature",
+      "createdAt": "2021-09-23T17:54:19.935Z",
+      "updatedAt": "2021-09-23T17:54:19.935Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Nº 12 “Pulgarcito”",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Resistencia",
+        "height": "1524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4017846, -34.6854246]
+      },
+      "_id": "614cbf786ad5d18a2e62c2a9",
+      "type": "Feature",
+      "createdAt": "2021-09-23T17:55:04.690Z",
+      "updatedAt": "2021-09-23T17:55:04.690Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Nº 13 “Crecer Jugando”",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Martinto",
+        "height": "1073"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.341374, -34.7315519] },
+      "_id": "614cbf936ad5d18a2e62c2ab",
+      "type": "Feature",
+      "createdAt": "2021-09-23T17:55:31.910Z",
+      "updatedAt": "2021-09-23T17:55:31.910Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Nº 14 “Tiempo de Crecer”",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Ucrania",
+        "height": "4020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4336215, -34.6957666]
+      },
+      "_id": "614cbff66ad5d18a2e62c2ad",
+      "type": "Feature",
+      "createdAt": "2021-09-23T17:57:10.029Z",
+      "updatedAt": "2021-09-23T17:57:10.029Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Nº 15 “Victoriano Arenas”",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Paso de Burgos",
+        "height": "90"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4038345, -34.6666384]
+      },
+      "_id": "614cc0116ad5d18a2e62c2af",
+      "type": "Feature",
+      "createdAt": "2021-09-23T17:57:37.999Z",
+      "updatedAt": "2021-09-23T17:57:37.999Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Nº 16 “El Pimpollito”",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Domingo Purita",
+        "height": "2278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3824104, -34.7190438]
+      },
+      "_id": "614cc02f6ad5d18a2e62c2b1",
+      "type": "Feature",
+      "createdAt": "2021-09-23T17:58:07.203Z",
+      "updatedAt": "2021-09-23T17:58:07.203Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Nº 17 “Crecer Feliz”",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Margarita Weild",
+        "height": "5311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3497734, -34.7390446]
+      },
+      "_id": "614cc0576ad5d18a2e62c2b3",
+      "type": "Feature",
+      "createdAt": "2021-09-23T17:58:47.319Z",
+      "updatedAt": "2021-09-23T17:58:47.319Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Nº 18 “Pichoncitos”",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Ugarte",
+        "height": "3487"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4096628, -34.7170336]
+      },
+      "_id": "614cc0796ad5d18a2e62c2b5",
+      "type": "Feature",
+      "createdAt": "2021-09-23T17:59:21.701Z",
+      "updatedAt": "2021-09-23T17:59:21.701Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 901",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Paraguay",
+        "height": "2119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3968471, -34.6734413]
+      },
+      "_id": "614ccbd36ad5d18a2e62c2b7",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:47:47.956Z",
+      "updatedAt": "2021-09-23T18:47:47.956Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 902",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Sitio de Montevideo",
+        "height": "1737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3827266, -34.7106363]
+      },
+      "_id": "614ccbf76ad5d18a2e62c2b9",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:48:23.688Z",
+      "updatedAt": "2021-09-23T18:48:23.688Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 903",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Lisandro Méndez",
+        "height": "3446"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4003644, -34.7286909]
+      },
+      "_id": "614ccc146ad5d18a2e62c2bb",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:48:52.045Z",
+      "updatedAt": "2021-09-23T18:48:52.045Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 904",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Ucrania",
+        "height": "815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4039947, -34.6764886]
+      },
+      "_id": "614ccc2a6ad5d18a2e62c2bd",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:49:14.500Z",
+      "updatedAt": "2021-09-23T18:49:14.500Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 905",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "José M. Moreno",
+        "height": "32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3924149, -34.7014292]
+      },
+      "_id": "614ccc456ad5d18a2e62c2bf",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:49:41.297Z",
+      "updatedAt": "2021-09-23T18:49:41.297Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 906",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Alfredo Palacios",
+        "height": "4094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4163356, -34.6632667]
+      },
+      "_id": "614ccc606ad5d18a2e62c2c1",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:50:08.124Z",
+      "updatedAt": "2021-09-23T18:50:08.124Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 907",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Enrique Fernández",
+        "height": "749"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3966237, -34.68151] },
+      "_id": "614ccc7e6ad5d18a2e62c2c3",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:50:38.048Z",
+      "updatedAt": "2021-09-23T18:50:38.048Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 908",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Roma",
+        "height": "2757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3851112, -34.7312175]
+      },
+      "_id": "614ccc976ad5d18a2e62c2c5",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:51:03.943Z",
+      "updatedAt": "2021-09-23T18:51:03.943Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 909",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "J. Rucci",
+        "height": "958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4085481, -34.6751169]
+      },
+      "_id": "614ccccb6ad5d18a2e62c2c7",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:51:55.790Z",
+      "updatedAt": "2021-09-23T18:51:55.790Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 910",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Alfredo Palacios",
+        "height": "711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3882544, -34.6865418]
+      },
+      "_id": "614ccce96ad5d18a2e62c2c9",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:52:25.637Z",
+      "updatedAt": "2021-09-23T18:52:25.637Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 911",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Carlos Tejedor",
+        "height": "1061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3918096, -34.7024697]
+      },
+      "_id": "614ccd126ad5d18a2e62c2cb",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:53:06.800Z",
+      "updatedAt": "2021-09-23T18:53:06.800Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 912",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Terranova",
+        "height": "345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3843187, -34.6896241]
+      },
+      "_id": "614ccd456ad5d18a2e62c2cd",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:53:57.543Z",
+      "updatedAt": "2021-09-23T18:53:57.543Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 913",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Gral. Ferre",
+        "height": "2180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3841015, -34.7146708]
+      },
+      "_id": "614ccd606ad5d18a2e62c2cf",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:54:24.230Z",
+      "updatedAt": "2021-09-23T18:54:24.230Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 914",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Mamberti",
+        "height": "1271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3857109, -34.7000896]
+      },
+      "_id": "614ccd7d6ad5d18a2e62c2d1",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:54:53.555Z",
+      "updatedAt": "2021-09-23T18:54:53.555Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 915",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Ministro Brin",
+        "height": "2475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3960766, -34.7000279]
+      },
+      "_id": "614ccdc16ad5d18a2e62c2d3",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:56:01.226Z",
+      "updatedAt": "2021-09-23T18:56:01.226Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 916",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Tucumán",
+        "height": "1196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3869703, -34.7059913]
+      },
+      "_id": "614ccdd96ad5d18a2e62c2d5",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:56:25.075Z",
+      "updatedAt": "2021-09-23T18:56:25.075Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 917",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Centenario Uruguayo",
+        "height": "2800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3723667, -34.7309043]
+      },
+      "_id": "614ccdfd6ad5d18a2e62c2d7",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:57:01.643Z",
+      "updatedAt": "2021-09-23T18:57:01.643Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 918",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Liniers",
+        "height": "1548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4060248, -34.6888897]
+      },
+      "_id": "614cce1f6ad5d18a2e62c2d9",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:57:35.972Z",
+      "updatedAt": "2021-09-23T18:57:35.972Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 919",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Dr. Melo",
+        "height": "5002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3993983, -34.7315731]
+      },
+      "_id": "614cce3b6ad5d18a2e62c2db",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:58:03.646Z",
+      "updatedAt": "2021-09-23T18:58:03.646Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 920",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Donato Álvarez",
+        "height": "3353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.35237685996981, -34.71246671294763]
+      },
+      "_id": "614cce576ad5d18a2e62c2dd",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:58:31.587Z",
+      "updatedAt": "2021-09-23T18:58:31.587Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 921",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "San Vladimiro",
+        "height": "5462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4350191, -34.6859411]
+      },
+      "_id": "614cce736ad5d18a2e62c2df",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:58:59.995Z",
+      "updatedAt": "2021-09-23T18:58:59.995Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 922",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Bolaños",
+        "height": "850"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3807691, -34.695387] },
+      "_id": "614cce906ad5d18a2e62c2e1",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:59:28.012Z",
+      "updatedAt": "2021-09-23T18:59:28.012Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 923",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Hipólito Yrigoyen",
+        "height": "5005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.39278460446259, -34.712979780762936]
+      },
+      "_id": "614ccead6ad5d18a2e62c2e3",
+      "type": "Feature",
+      "createdAt": "2021-09-23T18:59:57.061Z",
+      "updatedAt": "2021-09-23T18:59:57.061Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 924",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "1° de Mayo",
+        "height": "4171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4288968, -34.6989936]
+      },
+      "_id": "614cceec6ad5d18a2e62c2e5",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:01:00.458Z",
+      "updatedAt": "2021-09-23T19:01:00.458Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 925",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Manuel Quindimil",
+        "height": "702"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.398324, -34.6930978] },
+      "_id": "614ccfa623c56623ec6d6f28",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:04:06.931Z",
+      "updatedAt": "2021-09-23T19:04:06.931Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 926",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Madero",
+        "height": "1654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4225765, -34.6703012]
+      },
+      "_id": "614ccfb423c56623ec6d6f2a",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:04:20.207Z",
+      "updatedAt": "2021-09-23T19:04:20.207Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 927",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Pedernera",
+        "height": "1583"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3685509, -34.717641] },
+      "_id": "614ccfd023c56623ec6d6f2c",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:04:48.376Z",
+      "updatedAt": "2021-09-23T19:04:48.376Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 928",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Maure",
+        "height": "4562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3424968, -34.7213233]
+      },
+      "_id": "614ccfe923c56623ec6d6f2e",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:05:13.830Z",
+      "updatedAt": "2021-09-23T19:05:13.830Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 929",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Centenario Uruguayo",
+        "height": "2469"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.370102, -34.7287059] },
+      "_id": "614cd00423c56623ec6d6f30",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:05:40.571Z",
+      "updatedAt": "2021-09-23T19:05:40.571Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 930",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Eva Perón",
+        "height": "3779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3592231, -34.7241956]
+      },
+      "_id": "614cd02123c56623ec6d6f32",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:06:09.017Z",
+      "updatedAt": "2021-09-23T19:06:09.017Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 931",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Sayos",
+        "height": "1270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4062812, -34.6945442]
+      },
+      "_id": "614cd03223c56623ec6d6f34",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:06:26.008Z",
+      "updatedAt": "2021-09-23T19:06:26.008Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 932",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Oliden",
+        "height": "2849"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4240077, -34.6907662]
+      },
+      "_id": "614cd04923c56623ec6d6f36",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:06:49.971Z",
+      "updatedAt": "2021-09-23T19:06:49.971Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 933",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Rivadavia",
+        "height": "1845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4110587, -34.6858252]
+      },
+      "_id": "614cd05a23c56623ec6d6f38",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:07:06.489Z",
+      "updatedAt": "2021-09-23T19:07:06.489Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 934",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Fray M. Squiú",
+        "height": "2754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3859841, -34.7214691]
+      },
+      "_id": "614cd07523c56623ec6d6f3a",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:07:33.247Z",
+      "updatedAt": "2021-09-23T19:07:33.247Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 935",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Medeiros",
+        "height": "2875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4126859, -34.7031628]
+      },
+      "_id": "614cd09c23c56623ec6d6f3c",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:08:12.598Z",
+      "updatedAt": "2021-09-23T19:08:12.598Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 936",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Andrade",
+        "height": "760"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4051352, -34.7144524]
+      },
+      "_id": "614cd0b023c56623ec6d6f3e",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:08:32.184Z",
+      "updatedAt": "2021-09-23T19:08:32.184Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 937",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Raúl Alfonsín",
+        "height": "1758"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3752271, -34.7036844]
+      },
+      "_id": "614cd0c923c56623ec6d6f40",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:08:57.944Z",
+      "updatedAt": "2021-09-23T19:08:57.944Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 938",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Molinedo",
+        "height": "1910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4200999, -34.6780827]
+      },
+      "_id": "614cd0e323c56623ec6d6f42",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:09:23.672Z",
+      "updatedAt": "2021-09-23T19:09:23.672Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 939",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "Potosí",
+        "height": "2651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4321973, -34.6773251]
+      },
+      "_id": "614cd0f723c56623ec6d6f44",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:09:43.641Z",
+      "updatedAt": "2021-09-23T19:09:43.641Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 940",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "José León Suarez",
+        "height": "3970"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.43390269157479, -34.704051595987956]
+      },
+      "_id": "614cd11b23c56623ec6d6f46",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:10:19.174Z",
+      "updatedAt": "2021-09-23T19:10:19.174Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 941",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "B. P. Galdós",
+        "height": "4201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.43504016284345, -34.697829262840614]
+      },
+      "_id": "614cd13823c56623ec6d6f48",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:10:48.943Z",
+      "updatedAt": "2021-09-23T19:10:48.943Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardin de Infantes N° 942",
+        "public": true,
+        "dependence": "Inicial",
+        "address": "De La Peña",
+        "height": "2290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.36397744120664, -34.730989048281344]
+      },
+      "_id": "614cd15423c56623ec6d6f4a",
+      "type": "Feature",
+      "createdAt": "2021-09-23T19:11:16.543Z",
+      "updatedAt": "2021-09-23T19:11:16.543Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Santa Faz",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Canadá",
+        "height": "1957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4058569, -34.6907127]
+      },
+      "_id": "615ce8c48785643a9d0a26ba",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:07:32.061Z",
+      "updatedAt": "2021-10-06T00:07:32.061Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Los Granjeritos",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Chaco",
+        "height": "1251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4005217, -34.6892514]
+      },
+      "_id": "615ce9088785643a9d0a26bc",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:08:40.454Z",
+      "updatedAt": "2021-10-06T00:08:40.454Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Durham",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Coronel Murguiondo",
+        "height": "898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4128332, -34.6708624]
+      },
+      "_id": "615ce9398785643a9d0a26be",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:09:29.809Z",
+      "updatedAt": "2021-10-06T00:09:29.809Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Nuestra Señora de la Consolación",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Rondeau",
+        "height": "509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3448482, -34.7210795]
+      },
+      "_id": "615ce97c8785643a9d0a26c0",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:10:36.447Z",
+      "updatedAt": "2021-10-06T00:10:36.447Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes del Club Atlético Lanús",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Ramón Cabrero",
+        "height": "2007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3841208, -34.7165119]
+      },
+      "_id": "615ce98f8785643a9d0a26c2",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:10:55.820Z",
+      "updatedAt": "2021-10-06T00:10:55.820Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Madre Teresa de Calcuta",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Paso de burgos",
+        "height": "697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4093919, -34.6709386]
+      },
+      "_id": "615ce9b08785643a9d0a26c4",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:11:28.091Z",
+      "updatedAt": "2021-10-06T00:11:28.091Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Merceditas",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Pilcomayo",
+        "height": "3967"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4292003, -34.7001696]
+      },
+      "_id": "615ce9d48785643a9d0a26c6",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:12:04.651Z",
+      "updatedAt": "2021-10-06T00:12:04.651Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes La Casa de Silvia",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Eva Perón",
+        "height": "945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3875017, -34.7022654]
+      },
+      "_id": "615ce9f28785643a9d0a26c8",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:12:34.744Z",
+      "updatedAt": "2021-10-06T00:12:34.744Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Cultural Armenia",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Choele Choel",
+        "height": "555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4088425, -34.6696461]
+      },
+      "_id": "615cea0b8785643a9d0a26ca",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:12:59.972Z",
+      "updatedAt": "2021-10-06T00:12:59.972Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Niño Jesús",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Anatole France",
+        "height": "1744"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3871688, -34.7065978]
+      },
+      "_id": "615cea258785643a9d0a26cc",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:13:25.381Z",
+      "updatedAt": "2021-10-06T00:13:25.381Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes San Juan Bautista",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Itapirú",
+        "height": "860"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4093589, -34.6730895]
+      },
+      "_id": "615cea898785643a9d0a26ce",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:15:05.700Z",
+      "updatedAt": "2021-10-06T00:15:05.700Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Sara Eccleston",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "25 de Mayo",
+        "height": "793"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4035017, -34.7061309]
+      },
+      "_id": "615cea9e8785643a9d0a26d0",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:15:26.889Z",
+      "updatedAt": "2021-10-06T00:15:26.889Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Jacarandá",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Pico",
+        "height": "548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3554358, -34.7130933]
+      },
+      "_id": "615ceab78785643a9d0a26d2",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:15:51.541Z",
+      "updatedAt": "2021-10-06T00:15:51.541Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Madre Mercedes",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Dr. Melo",
+        "height": "2739"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3946806, -34.7029006]
+      },
+      "_id": "615cead58785643a9d0a26d4",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:16:21.094Z",
+      "updatedAt": "2021-10-06T00:16:21.094Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Virgen Niña",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Sitio de Montevideo",
+        "height": "2453"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.375739, -34.7156734] },
+      "_id": "615ceaf28785643a9d0a26d6",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:16:50.579Z",
+      "updatedAt": "2021-10-06T00:16:50.579Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Cristo Rey",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Eva Perón",
+        "height": "2549"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3724568, -34.7145258]
+      },
+      "_id": "615ceb0c8785643a9d0a26d8",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:17:16.921Z",
+      "updatedAt": "2021-10-06T00:17:16.921Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes María Montessori",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Oncativo",
+        "height": "713"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.375458, -34.7006128] },
+      "_id": "615ceb218785643a9d0a26da",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:17:37.756Z",
+      "updatedAt": "2021-10-06T00:17:37.756Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Del Norte",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Juan B. Justo",
+        "height": "1956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3783465, -34.7158028]
+      },
+      "_id": "615ceb398785643a9d0a26dc",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:18:01.039Z",
+      "updatedAt": "2021-10-06T00:18:01.039Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de infantes Moderno de Educación Integral",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Hipólito Yrigoyen",
+        "height": "5302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3932582, -34.7162414]
+      },
+      "_id": "615ceb4c8785643a9d0a26de",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:18:20.543Z",
+      "updatedAt": "2021-10-06T00:18:20.543Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Blanca Nieves y Yo",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Juncal",
+        "height": "1766"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3774884, -34.7059567]
+      },
+      "_id": "615ceb658785643a9d0a26e0",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:18:45.504Z",
+      "updatedAt": "2021-10-06T00:18:45.504Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Mundo Mágico",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Velez Sarsfield",
+        "height": "2871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3905352, -34.7049339]
+      },
+      "_id": "615ceb798785643a9d0a26e2",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:19:05.604Z",
+      "updatedAt": "2021-10-06T00:19:05.604Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes La Asunción",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Burelas",
+        "height": "1111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3748089, -34.6955889]
+      },
+      "_id": "615ceb908785643a9d0a26e4",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:19:28.523Z",
+      "updatedAt": "2021-10-06T00:19:28.523Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Cascanueces",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Piñiero",
+        "height": "428"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3975992, -34.706797] },
+      "_id": "615cec2c8785643a9d0a26e6",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:22:04.935Z",
+      "updatedAt": "2021-10-06T00:22:04.935Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Patito Feo",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Palma",
+        "height": "3453"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3830655, -34.73326] },
+      "_id": "615cec3d8785643a9d0a26e8",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:22:21.736Z",
+      "updatedAt": "2021-10-06T00:22:21.736Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes del Colegio Alemán de Lanús",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Ucrania",
+        "height": "2642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4223129, -34.6888029]
+      },
+      "_id": "615cec588785643a9d0a26ea",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:22:48.546Z",
+      "updatedAt": "2021-10-06T00:22:48.546Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Madre Mercedes Vidal Rivas",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Potosí",
+        "height": "2055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4223129, -34.6888029]
+      },
+      "_id": "615cec9c8785643a9d0a26ec",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:23:56.923Z",
+      "updatedAt": "2021-10-06T00:23:56.923Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Madre Mercedes Vidal Rivas",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Potosí",
+        "height": "2055"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.425574, -34.6740845] },
+      "_id": "615ceca98785643a9d0a26ee",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:24:09.839Z",
+      "updatedAt": "2021-10-06T00:24:09.839Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Valentín Alsina",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Presidente Perón",
+        "height": "739"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3899292, -34.6877549]
+      },
+      "_id": "615cecc18785643a9d0a26f0",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:24:33.524Z",
+      "updatedAt": "2021-10-06T00:24:33.524Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Piolín",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Berón de Astrada",
+        "height": "4323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.36200702995515, -34.735463971039835]
+      },
+      "_id": "615cecdc8785643a9d0a26f2",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:25:00.230Z",
+      "updatedAt": "2021-10-06T00:25:00.230Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de infantes Pulgarín",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Quintana",
+        "height": "328"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3960226, -34.710043] },
+      "_id": "615cecfe8785643a9d0a26f4",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:25:34.812Z",
+      "updatedAt": "2021-10-06T00:25:34.812Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Pizzurno de Enseñanza",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Warnes",
+        "height": "3178"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.4242532, -34.683278] },
+      "_id": "615ced0f8785643a9d0a26f6",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:25:51.169Z",
+      "updatedAt": "2021-10-06T00:25:51.169Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de infantes Mi Casita",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Canadá",
+        "height": "3860"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.4165115, -34.700895] },
+      "_id": "615ced298785643a9d0a26f8",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:26:17.894Z",
+      "updatedAt": "2021-10-06T00:26:17.894Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Mater Ter Admirabilis",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Talcahuano",
+        "height": "2667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4276197, -34.6745061]
+      },
+      "_id": "615ced3f8785643a9d0a26fa",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:26:39.123Z",
+      "updatedAt": "2021-10-06T00:26:39.123Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Arco Iris",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Jean Jaures",
+        "height": "2356"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4030709, -34.6746431]
+      },
+      "_id": "615ced508785643a9d0a26fc",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:26:56.302Z",
+      "updatedAt": "2021-10-06T00:26:56.302Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Victoria Kent",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Canadá",
+        "height": "2169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4077707, -34.6926724]
+      },
+      "_id": "615ced668785643a9d0a26fe",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:27:18.755Z",
+      "updatedAt": "2021-10-06T00:27:18.755Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Aprendijuegos",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Guido",
+        "height": "2925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3670588, -34.7169593]
+      },
+      "_id": "615ced838785643a9d0a2700",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:27:47.173Z",
+      "updatedAt": "2021-10-06T00:27:47.173Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Inmaculada Concepción (Emilie)",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Hipólito Yrigoyen",
+        "height": "4355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.39200843934347, -34.70519300877341]
+      },
+      "_id": "615ced938785643a9d0a2702",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:28:03.336Z",
+      "updatedAt": "2021-10-06T00:28:03.336Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Juan XXIII",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Hernandarias",
+        "height": "3970"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.430008, -34.7022931] },
+      "_id": "615cedb58785643a9d0a2704",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:28:37.624Z",
+      "updatedAt": "2021-10-06T00:28:37.624Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Sumari",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Manuel Castro",
+        "height": "3327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4180906, -34.7050435]
+      },
+      "_id": "615cedd28785643a9d0a2706",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:29:06.778Z",
+      "updatedAt": "2021-10-06T00:29:06.778Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Charles Chaplin",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Beltrán",
+        "height": "319"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3992557, -34.725413] },
+      "_id": "615cedec8785643a9d0a2708",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:29:32.403Z",
+      "updatedAt": "2021-10-06T00:29:32.403Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Mariano Moreno",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "San Vladimiro",
+        "height": "5657"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4363913, -34.6837951]
+      },
+      "_id": "615cee0c8785643a9d0a270a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:30:04.435Z",
+      "updatedAt": "2021-10-06T00:30:04.435Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Gotitas",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Achával",
+        "height": "3640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3755075, -34.7371684]
+      },
+      "_id": "615cee248785643a9d0a270c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:30:28.297Z",
+      "updatedAt": "2021-10-06T00:30:28.297Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Juan María Estrada",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Piñeiro",
+        "height": "433"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3977048, -34.7066198]
+      },
+      "_id": "615cee428785643a9d0a270e",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:30:58.936Z",
+      "updatedAt": "2021-10-06T00:30:58.936Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes María Reina",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Hernandarias",
+        "height": "2530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4194456, -34.7162881]
+      },
+      "_id": "615cee588785643a9d0a2710",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:31:20.404Z",
+      "updatedAt": "2021-10-06T00:31:20.404Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Medalla Milagrosa",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Roma",
+        "height": "4250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3708604, -34.7420907]
+      },
+      "_id": "615cee698785643a9d0a2712",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:31:37.720Z",
+      "updatedAt": "2021-10-06T00:31:37.720Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Pastorcitos de Fátima",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Lituania",
+        "height": "3144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4175032, -34.7075915]
+      },
+      "_id": "615cee7d8785643a9d0a2714",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:31:57.604Z",
+      "updatedAt": "2021-10-06T00:31:57.604Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes San Miguel Arcangel",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Molinedo",
+        "height": "2406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4260906, -34.6812436]
+      },
+      "_id": "615cee8f8785643a9d0a2716",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:32:15.054Z",
+      "updatedAt": "2021-10-06T00:32:15.054Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Ternuritas",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Yerbal",
+        "height": "5746"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4345723, -34.6817949]
+      },
+      "_id": "615ceebe8785643a9d0a2718",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:33:02.632Z",
+      "updatedAt": "2021-10-06T00:33:02.632Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Pinocho",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Jose María Moreno",
+        "height": "1318"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.410175, -34.7004092] },
+      "_id": "615ceed18785643a9d0a271a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:33:21.518Z",
+      "updatedAt": "2021-10-06T00:33:21.518Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Estrella de Belén",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Grecia",
+        "height": "4175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4261279, -34.6973666]
+      },
+      "_id": "615ceee38785643a9d0a271c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:33:39.672Z",
+      "updatedAt": "2021-10-06T00:33:39.672Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Del Castillo",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Manuel Castro",
+        "height": "4357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4264151, -34.6952701]
+      },
+      "_id": "615cef008785643a9d0a271e",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:34:08.124Z",
+      "updatedAt": "2021-10-06T00:34:08.124Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Angel de la Guarda",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Pastor Ferreyra",
+        "height": "3324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4012321, -34.7249027]
+      },
+      "_id": "615cef118785643a9d0a2720",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:34:25.214Z",
+      "updatedAt": "2021-10-06T00:34:25.214Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Luz de Luna",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "2 de Mayo",
+        "height": "2819"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3972163, -34.7040994]
+      },
+      "_id": "615cef2c8785643a9d0a2722",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:34:52.215Z",
+      "updatedAt": "2021-10-06T00:34:52.215Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Alfonsina Storni",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Warnes",
+        "height": "3680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4280917, -34.6779473]
+      },
+      "_id": "615cef458785643a9d0a2724",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:35:17.073Z",
+      "updatedAt": "2021-10-06T00:35:17.073Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Tiempo de Crecer",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Ucrania",
+        "height": "4025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4337539, -34.6956321]
+      },
+      "_id": "615cef588785643a9d0a2726",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:35:36.470Z",
+      "updatedAt": "2021-10-06T00:35:36.470Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Pulgarcito",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Resistencia",
+        "height": "1538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4018697, -34.6853545]
+      },
+      "_id": "615cef748785643a9d0a2728",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:36:04.801Z",
+      "updatedAt": "2021-10-06T00:36:04.801Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Victoriano Arenas",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Paso de burgos",
+        "height": "82"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4037906, -34.6665979]
+      },
+      "_id": "615cef8a8785643a9d0a272a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:36:26.052Z",
+      "updatedAt": "2021-10-06T00:36:26.052Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Mis Primeros Pasitos",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Liniers",
+        "height": "2369"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.411627, -34.6838861] },
+      "_id": "615cefa38785643a9d0a272c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:36:51.010Z",
+      "updatedAt": "2021-10-06T00:36:51.010Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Mundo Maravilloso",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Carlos Berg",
+        "height": "4002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4014528, -34.7187298]
+      },
+      "_id": "615cefb28785643a9d0a272e",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:37:06.251Z",
+      "updatedAt": "2021-10-06T00:37:06.251Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Corazones Mágicos",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Méndez",
+        "height": "2046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3606881, -34.7297939]
+      },
+      "_id": "615cefc88785643a9d0a2730",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:37:28.493Z",
+      "updatedAt": "2021-10-06T00:37:28.493Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Gral Félix de Olazábal",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Gral. Olazábal",
+        "height": "4606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4328787, -34.6950977]
+      },
+      "_id": "615cefe18785643a9d0a2732",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:37:53.372Z",
+      "updatedAt": "2021-10-06T00:37:53.372Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Jardín de Infantes Raíces",
+        "public": false,
+        "dependence": "Inicial",
+        "address": "Luján",
+        "height": "3256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3873086, -34.7275319]
+      },
+      "_id": "615ceff78785643a9d0a2734",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:38:15.292Z",
+      "updatedAt": "2021-10-06T00:38:15.292Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Eccleston",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "25 de Mayo",
+        "height": "793"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4035017, -34.7061309]
+      },
+      "_id": "615cf0718785643a9d0a2736",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:40:17.680Z",
+      "updatedAt": "2021-10-06T00:40:17.680Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Cultural Armenia",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Choele Choel",
+        "height": "3111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4088425, -34.6696461]
+      },
+      "_id": "615cf1bd8785643a9d0a2738",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:45:49.568Z",
+      "updatedAt": "2021-10-06T00:45:49.568Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Cristo rey",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Eva Perón",
+        "height": "2521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3728015, -34.7142804]
+      },
+      "_id": "615cf1d38785643a9d0a273a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:46:11.066Z",
+      "updatedAt": "2021-10-06T00:46:11.066Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Castro Barros",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Manuel Castro",
+        "height": "1061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4025104, -34.7246467]
+      },
+      "_id": "615cf1e38785643a9d0a273c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:46:27.631Z",
+      "updatedAt": "2021-10-06T00:46:27.631Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria J. M. Estrada",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Piñiero",
+        "height": "441"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.397839, -34.7066234] },
+      "_id": "615cf1fc8785643a9d0a273e",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:46:52.865Z",
+      "updatedAt": "2021-10-06T00:46:52.865Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Niño Jesús Adulto",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Ituzaingo",
+        "height": "1145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3891307, -34.7074253]
+      },
+      "_id": "615cf20d8785643a9d0a2740",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:47:09.299Z",
+      "updatedAt": "2021-10-06T00:47:09.299Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Santo Cristo",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Guarracino",
+        "height": "1749"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.37586975190635, -34.71482129772206]
+      },
+      "_id": "615cf21a8785643a9d0a2742",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:47:22.399Z",
+      "updatedAt": "2021-10-06T00:47:22.399Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria San Juan Bautista",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Tte. Juan Domingo Perón",
+        "height": "2998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.409511218924024, -34.67160977908537]
+      },
+      "_id": "615cf22b8785643a9d0a2744",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:47:39.725Z",
+      "updatedAt": "2021-10-06T00:47:39.725Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Instituto Mi Casa",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Fray Mamerto Squiú",
+        "height": "1555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3764644, -34.7121644]
+      },
+      "_id": "615cf2508785643a9d0a2746",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:48:16.141Z",
+      "updatedAt": "2021-10-06T00:48:16.141Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Instituto del Norte",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Ituzaingo",
+        "height": "2159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3793568, -34.7144174]
+      },
+      "_id": "615cf2638785643a9d0a2748",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:48:35.524Z",
+      "updatedAt": "2021-10-06T00:48:35.524Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Santa Faz",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Enrique Fernández",
+        "height": "1960"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4065756, -34.6902945]
+      },
+      "_id": "615cf2748785643a9d0a274a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:48:52.264Z",
+      "updatedAt": "2021-10-06T00:48:52.264Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria La Asunción",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Burelas",
+        "height": "1111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3748089, -34.6955889]
+      },
+      "_id": "615cf2868785643a9d0a274c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:49:10.261Z",
+      "updatedAt": "2021-10-06T00:49:10.261Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria San Miguel de Arcangel",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Molinedo",
+        "height": "2406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4260906, -34.6812436]
+      },
+      "_id": "615cf2988785643a9d0a274e",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:49:28.473Z",
+      "updatedAt": "2021-10-06T00:49:28.473Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Gruta Nuestra Señora de Lourdes",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Guido Spano",
+        "height": "1062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4088959, -34.7117623]
+      },
+      "_id": "615cf2a88785643a9d0a2750",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:49:44.640Z",
+      "updatedAt": "2021-10-06T00:49:44.640Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Jacarandá",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Pico",
+        "height": "537"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.355486, -34.7128937] },
+      "_id": "615cf2ba8785643a9d0a2752",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:50:02.851Z",
+      "updatedAt": "2021-10-06T00:50:02.851Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Lausanne",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "9 de Julio",
+        "height": "1760"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.38403692112699, -34.71214328934108]
+      },
+      "_id": "615cf2ca8785643a9d0a2754",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:50:18.190Z",
+      "updatedAt": "2021-10-06T00:50:18.190Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Durham",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Murgiondo",
+        "height": "890"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.4127817, -34.670815] },
+      "_id": "615cf2dd8785643a9d0a2756",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:50:37.261Z",
+      "updatedAt": "2021-10-06T00:50:37.261Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Insituto 9 de Julio",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Cavia",
+        "height": "2041"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.353097, -34.7355064] },
+      "_id": "615cf2f28785643a9d0a2758",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:50:58.200Z",
+      "updatedAt": "2021-10-06T00:50:58.200Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Stella Maris",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Juncal",
+        "height": "1762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3775152, -34.7059336]
+      },
+      "_id": "615cf3018785643a9d0a275a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:51:13.947Z",
+      "updatedAt": "2021-10-06T00:51:13.947Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Instituto del Espíritu Santo",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Achaval",
+        "height": "2870"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3830213, -34.7310961]
+      },
+      "_id": "615cf3108785643a9d0a275c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:51:28.239Z",
+      "updatedAt": "2021-10-06T00:51:28.239Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria María Reina",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Hernandarias",
+        "height": "2530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4194456, -34.7162881]
+      },
+      "_id": "615cf31e8785643a9d0a275e",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:51:42.081Z",
+      "updatedAt": "2021-10-06T00:51:42.081Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Medalla Milagrosa",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Roma",
+        "height": "4250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3708604, -34.7420907]
+      },
+      "_id": "615cf3318785643a9d0a2760",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:52:01.127Z",
+      "updatedAt": "2021-10-06T00:52:01.127Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Nuestra Señora de Fátima",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Hermana María Odilia Zaloznik",
+        "height": "3572"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.4175662, -34.70831] },
+      "_id": "615cf33e8785643a9d0a2762",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:52:14.624Z",
+      "updatedAt": "2021-10-06T00:52:14.624Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Sagrado Corazón",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Warnes",
+        "height": "3870"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4298414, -34.6754949]
+      },
+      "_id": "615cf3508785643a9d0a2764",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:52:32.347Z",
+      "updatedAt": "2021-10-06T00:52:32.347Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Santa Teresa",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Dr. Melo",
+        "height": "2763"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3946694, -34.7030864]
+      },
+      "_id": "615cf35f8785643a9d0a2766",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:52:47.682Z",
+      "updatedAt": "2021-10-06T00:52:47.682Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Inmaculada Concepción",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Hipólito Yrigoyen",
+        "height": "4355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.39200843934347, -34.70519300877341]
+      },
+      "_id": "615cf36e8785643a9d0a2768",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:53:02.405Z",
+      "updatedAt": "2021-10-06T00:53:02.405Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Alemán",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Maza",
+        "height": "2650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4215985, -34.6893436]
+      },
+      "_id": "615cf37e8785643a9d0a276a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:53:18.875Z",
+      "updatedAt": "2021-10-06T00:53:18.875Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Hogar Sagrado Corazón",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Humauhuaca",
+        "height": "2456"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.41667, -34.66667] },
+      "_id": "615cf38d8785643a9d0a276c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:53:33.304Z",
+      "updatedAt": "2021-10-06T00:53:33.304Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Juan XXIII",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Hernandarias",
+        "height": "3970"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.41664756492706, -34.68969998217198]
+      },
+      "_id": "615cf39b8785643a9d0a276e",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:53:47.711Z",
+      "updatedAt": "2021-10-06T00:53:47.711Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Del Castillo",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Yerbal",
+        "height": "4321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4246893, -34.6951087]
+      },
+      "_id": "615cf3aa8785643a9d0a2770",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:54:02.857Z",
+      "updatedAt": "2021-10-06T00:54:02.857Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Magdalena Brain",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Manuel Castro",
+        "height": "3327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4180906, -34.7050435]
+      },
+      "_id": "615cf3bd8785643a9d0a2772",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:54:21.586Z",
+      "updatedAt": "2021-10-06T00:54:21.586Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Instituto Pizzurno",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Warnes",
+        "height": "3178"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.4242532, -34.683278] },
+      "_id": "615cf3cf8785643a9d0a2774",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:54:39.989Z",
+      "updatedAt": "2021-10-06T00:54:39.989Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Mariano Moreno",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Murgiondo",
+        "height": "3237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4365809, -34.6845798]
+      },
+      "_id": "615cf4138785643a9d0a2776",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:55:47.823Z",
+      "updatedAt": "2021-10-06T00:55:47.823Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Pedro Giachín",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Jose María Moreno",
+        "height": "1318"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.410175, -34.7004092] },
+      "_id": "615cf4228785643a9d0a2778",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:56:02.537Z",
+      "updatedAt": "2021-10-06T00:56:02.537Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Cristiana Evangélica",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Grecia",
+        "height": "4175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4261279, -34.6973666]
+      },
+      "_id": "615cf4398785643a9d0a277a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:56:25.512Z",
+      "updatedAt": "2021-10-06T00:56:25.512Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Albert Schweitzer",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Piñeiro",
+        "height": "422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3978341, -34.7067942]
+      },
+      "_id": "615cf4808785643a9d0a277c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:57:36.982Z",
+      "updatedAt": "2021-10-06T00:57:36.982Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria instituto Juan Ramón Jiménez",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Quintana",
+        "height": "328"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3960226, -34.710043] },
+      "_id": "615cf4938785643a9d0a277e",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:57:55.127Z",
+      "updatedAt": "2021-10-06T00:57:55.127Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria instituto Gran José de San Martín",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Lomas Valentinas",
+        "height": "597"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4132773, -34.6669208]
+      },
+      "_id": "615cf4a88785643a9d0a2780",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:58:16.425Z",
+      "updatedAt": "2021-10-06T00:58:16.425Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria del Monte",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "9 de Julio",
+        "height": "3931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.360992265990944, -34.72894894924595]
+      },
+      "_id": "615cf4ba8785643a9d0a2782",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:58:34.074Z",
+      "updatedAt": "2021-10-06T00:58:34.074Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Gustavo A. Becquer",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Berón de Astrada",
+        "height": "4323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.361990418265975, -34.73543720799019]
+      },
+      "_id": "615cf4cc8785643a9d0a2784",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:58:52.116Z",
+      "updatedAt": "2021-10-06T00:58:52.116Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria del Sur",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Jujuy",
+        "height": "1463"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3977258, -34.6910534]
+      },
+      "_id": "615cf4de8785643a9d0a2786",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:59:10.109Z",
+      "updatedAt": "2021-10-06T00:59:10.109Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Primaria Charles Chaplin",
+        "public": false,
+        "dependence": "Primaria",
+        "address": "Beltrán",
+        "height": "319"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3992557, -34.725413] },
+      "_id": "615cf4f28785643a9d0a2788",
+      "type": "Feature",
+      "createdAt": "2021-10-06T00:59:30.440Z",
+      "updatedAt": "2021-10-06T00:59:30.440Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B N° 1 Juan Bautista Alberdi",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Eva Perón",
+        "height": "2412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3738391, -34.7133167]
+      },
+      "_id": "615dc3e16538618bf8f13dda",
+      "type": "Feature",
+      "createdAt": "2021-10-06T15:42:25.114Z",
+      "updatedAt": "2021-10-06T15:42:25.114Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B N° 2 Mariano Moreno",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Rivadavia",
+        "height": "151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3961277, -34.6734616]
+      },
+      "_id": "615dc42a6538618bf8f13ddc",
+      "type": "Feature",
+      "createdAt": "2021-10-06T15:43:38.239Z",
+      "updatedAt": "2021-10-06T15:43:38.239Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B N°3 República de Brasil",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Juan Domingo Perón",
+        "height": "3018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.409753345912165, -34.67142993903735]
+      },
+      "_id": "615dc4496538618bf8f13dde",
+      "type": "Feature",
+      "createdAt": "2021-10-06T15:44:09.799Z",
+      "updatedAt": "2021-10-06T15:44:09.799Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 4  Remedios de Escalada de S. Martín",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Ucrania",
+        "height": "815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4039947, -34.6764886]
+      },
+      "_id": "615dc4886538618bf8f13de0",
+      "type": "Feature",
+      "createdAt": "2021-10-06T15:45:12.086Z",
+      "updatedAt": "2021-10-06T15:45:12.086Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 5 Marcelino Bordoy",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Rivadavia",
+        "height": "1847"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.41103902361441, -34.685648018564336]
+      },
+      "_id": "615dc4c06538618bf8f13de2",
+      "type": "Feature",
+      "createdAt": "2021-10-06T15:46:08.109Z",
+      "updatedAt": "2021-10-06T15:46:08.109Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 6 Rafael Obligado",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Ituzaingo",
+        "height": "1762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.383234379150736, -34.71124979139691]
+      },
+      "_id": "615dc4f56538618bf8f13de4",
+      "type": "Feature",
+      "createdAt": "2021-10-06T15:47:01.782Z",
+      "updatedAt": "2021-10-06T15:47:01.782Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 7  Domingo F. Sarmiento",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Mamberti",
+        "height": "1217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.38542754360971, -34.699725273010166]
+      },
+      "_id": "615dc50c6538618bf8f13de6",
+      "type": "Feature",
+      "createdAt": "2021-10-06T15:47:24.769Z",
+      "updatedAt": "2021-10-06T15:47:24.769Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 8 Nuestra Señora de la Merced",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Bouchard",
+        "height": "370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3847772, -34.6901372]
+      },
+      "_id": "615dc52c6538618bf8f13de8",
+      "type": "Feature",
+      "createdAt": "2021-10-06T15:47:56.735Z",
+      "updatedAt": "2021-10-06T15:47:56.735Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 9  General Güemes",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Hipólito Yrigoyen",
+        "height": "5005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.39287970854515, -34.71290308732444]
+      },
+      "_id": "615dc5456538618bf8f13dea",
+      "type": "Feature",
+      "createdAt": "2021-10-06T15:48:21.667Z",
+      "updatedAt": "2021-10-06T15:48:21.667Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 10 Bartolomé Mitre",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Anatole France",
+        "height": "1660"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3864481, -34.7059182]
+      },
+      "_id": "615dc55c6538618bf8f13dec",
+      "type": "Feature",
+      "createdAt": "2021-10-06T15:48:44.537Z",
+      "updatedAt": "2021-10-06T15:48:44.537Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 11 Congreso de Tucumán",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Aristóbulo del Valle",
+        "height": "1503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4128458, -34.7034456]
+      },
+      "_id": "615dc5776538618bf8f13dee",
+      "type": "Feature",
+      "createdAt": "2021-10-06T15:49:11.522Z",
+      "updatedAt": "2021-10-06T15:49:11.522Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 12 Antártida Argentina",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Remedios de Escalada",
+        "height": "1480"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.399796, -34.6847358] },
+      "_id": "615dc5946538618bf8f13df0",
+      "type": "Feature",
+      "createdAt": "2021-10-06T15:49:40.053Z",
+      "updatedAt": "2021-10-06T15:49:40.053Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 13 Hipólito Yrigoyen",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Remedios de Escalada",
+        "height": "4230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.41710871208366, -34.663264399108975]
+      },
+      "_id": "615dc5a46538618bf8f13df2",
+      "type": "Feature",
+      "createdAt": "2021-10-06T15:49:56.401Z",
+      "updatedAt": "2021-10-06T15:49:56.401Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 14 Capitán H. Bouchard",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Fray J. Lagos",
+        "height": "2113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4061665, -34.6948388]
+      },
+      "_id": "615dc5bc6538618bf8f13df4",
+      "type": "Feature",
+      "createdAt": "2021-10-06T15:50:20.135Z",
+      "updatedAt": "2021-10-06T15:50:20.135Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 15 Bernardino Rivadavia",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Manuel Quindimil",
+        "height": "702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.398190193184604, -34.693118074372656]
+      },
+      "_id": "615dc5d76538618bf8f13df6",
+      "type": "Feature",
+      "createdAt": "2021-10-06T15:50:47.295Z",
+      "updatedAt": "2021-10-06T15:50:47.295Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 16 Arturo Melo",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Dr. Melo",
+        "height": "4453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3976486, -34.7250907]
+      },
+      "_id": "615dc5ee6538618bf8f13df8",
+      "type": "Feature",
+      "createdAt": "2021-10-06T15:51:10.710Z",
+      "updatedAt": "2021-10-06T15:51:10.710Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 17 Libetador Gral. San Martín",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Ministro Brin",
+        "height": "3024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3949714, -34.7083055]
+      },
+      "_id": "615dcbbaa8c60cb39880b536",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:15:54.102Z",
+      "updatedAt": "2021-10-06T16:15:54.102Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 18 Fray Mamerto Esquiu",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Madariaga",
+        "height": "1960"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.380300969525464, -34.71448623028204]
+      },
+      "_id": "615dcbdaa8c60cb39880b53e",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:16:26.644Z",
+      "updatedAt": "2021-10-06T16:16:26.644Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 19  Yapeyú",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Carlos Tejedor",
+        "height": "1091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.40856732550225, -34.70165359697829]
+      },
+      "_id": "615dcbeda8c60cb39880b540",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:16:45.155Z",
+      "updatedAt": "2021-10-06T16:16:45.155Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 20 Ejército de los Andes",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "José I. Rucci",
+        "height": "958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4085481, -34.6751169]
+      },
+      "_id": "615dcc30a8c60cb39880b542",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:17:52.058Z",
+      "updatedAt": "2021-10-06T16:17:52.058Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 21 Fray J. Sta. MarÍa de Oro",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Colombia",
+        "height": "1153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3915702, -34.6828449]
+      },
+      "_id": "615dcc42a8c60cb39880b544",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:18:10.978Z",
+      "updatedAt": "2021-10-06T16:18:10.978Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 22 Fray Luis Beltrán",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Raúl Alfonsín",
+        "height": "1758"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.375397894411975, -34.70347238619262]
+      },
+      "_id": "615dccd206a551a06919e42c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:20:35.004Z",
+      "updatedAt": "2021-10-06T16:20:35.004Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 23 Fragata Libertad",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Bolaños",
+        "height": "820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3809792, -34.6952154]
+      },
+      "_id": "615dcced06a551a06919e434",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:21:01.823Z",
+      "updatedAt": "2021-10-06T16:21:01.823Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 24 Rosario Vera Peñaloza",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Suipacha",
+        "height": "3098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3830671, -34.7279274]
+      },
+      "_id": "615dcd1e06a551a06919e436",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:21:50.167Z",
+      "updatedAt": "2021-10-06T16:21:50.167Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 25 Guillermo F. Gaebeler",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Gral. Pico",
+        "height": "2002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3674408, -34.7244844]
+      },
+      "_id": "615dcd3606a551a06919e438",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:22:14.274Z",
+      "updatedAt": "2021-10-06T16:22:14.274Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 26 Crucero Gral. San Martín",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Dean Funes",
+        "height": "4436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4342593, -34.7039962]
+      },
+      "_id": "615dcd5b06a551a06919e43a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:22:51.172Z",
+      "updatedAt": "2021-10-06T16:22:51.172Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 27 Carlos Melo",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Ferré",
+        "height": "2180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3841015, -34.7146708]
+      },
+      "_id": "615dcd7006a551a06919e43c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:23:12.408Z",
+      "updatedAt": "2021-10-06T16:23:12.408Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 28 Tte. Manuel Origone",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Carlos Gardel",
+        "height": "1011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4074473, -34.7072607]
+      },
+      "_id": "615dcd9406a551a06919e43e",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:23:48.877Z",
+      "updatedAt": "2021-10-06T16:23:48.877Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 29 - Alte. Guillermo Brown",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Cnel Ramos",
+        "height": "64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3910871, -34.7012194]
+      },
+      "_id": "615dcdae06a551a06919e440",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:24:14.996Z",
+      "updatedAt": "2021-10-06T16:24:14.996Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 30 Holanda",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Aguapey",
+        "height": "3864"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3719154, -34.737282] },
+      "_id": "615dcdc106a551a06919e442",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:24:33.163Z",
+      "updatedAt": "2021-10-06T16:24:33.163Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 31 Tambor de Tacuarí",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Andrade",
+        "height": "740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4049033, -34.7144838]
+      },
+      "_id": "615dcde906a551a06919e444",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:25:13.108Z",
+      "updatedAt": "2021-10-06T16:25:13.108Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 32 Carlos María Biedma",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Pilcomayo",
+        "height": "2597"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.4164536, -34.692258] },
+      "_id": "615dcdfb06a551a06919e446",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:25:31.899Z",
+      "updatedAt": "2021-10-06T16:25:31.899Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 33 Sargento Cabral",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "De la Peña",
+        "height": "2290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.363944475002924, -34.731011395960046]
+      },
+      "_id": "615dce1f06a551a06919e448",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:26:07.553Z",
+      "updatedAt": "2021-10-06T16:26:07.553Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 34 VÍctor Mercante",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Eva Perón",
+        "height": "3800"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.358639, -34.7250181] },
+      "_id": "615dce3306a551a06919e44a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:26:27.527Z",
+      "updatedAt": "2021-10-06T16:26:27.527Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 35 Nicolás Avellaneda",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "1° de Mayo",
+        "height": "4171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4288968, -34.6989936]
+      },
+      "_id": "615dce5d06a551a06919e44c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:27:09.119Z",
+      "updatedAt": "2021-10-06T16:27:09.119Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 36 Gral. Manuel Belgrano",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Villa de Luján",
+        "height": "2389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3801162, -34.7204406]
+      },
+      "_id": "615dce7006a551a06919e44e",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:27:28.518Z",
+      "updatedAt": "2021-10-06T16:27:28.518Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 37",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Kloosterman",
+        "height": "1757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3523218, -34.7319404]
+      },
+      "_id": "615dce8a06a551a06919e450",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:27:54.108Z",
+      "updatedAt": "2021-10-06T16:27:54.108Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 38 Francisco Gurruchaga",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Jean Jaures",
+        "height": "1502"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.396324, -34.6811853] },
+      "_id": "615dceb406a551a06919e452",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:28:36.244Z",
+      "updatedAt": "2021-10-06T16:28:36.244Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 39",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Cazón",
+        "height": "510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3418037, -34.7239933]
+      },
+      "_id": "615dced306a551a06919e454",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:29:07.954Z",
+      "updatedAt": "2021-10-06T16:29:07.954Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 40 R. de Escalada de S. Martín",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Villegas",
+        "height": "361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3993048, -34.7336966]
+      },
+      "_id": "615dcee606a551a06919e456",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:29:26.635Z",
+      "updatedAt": "2021-10-06T16:29:26.635Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 41 José Manuel Estrada",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Monseñor Hladnik",
+        "height": "3949"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4185833, -34.7162178]
+      },
+      "_id": "615dcefb06a551a06919e458",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:29:47.043Z",
+      "updatedAt": "2021-10-06T16:29:47.043Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 42 Mariano Moreno",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Roma",
+        "height": "2757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3851112, -34.7312175]
+      },
+      "_id": "615dd452a6ce41a8cc8fe28b",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:52:34.356Z",
+      "updatedAt": "2021-10-06T16:52:34.356Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 43 Francisco Narciso Laprida",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Don Orione",
+        "height": "1251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4101168, -34.7261024]
+      },
+      "_id": "615dd467a6ce41a8cc8fe293",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:52:55.759Z",
+      "updatedAt": "2021-10-06T16:52:55.759Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 44 Cristóbal Colón",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Manuel Castro",
+        "height": "644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3995748, -34.7288609]
+      },
+      "_id": "615dd47aa6ce41a8cc8fe295",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:53:14.046Z",
+      "updatedAt": "2021-10-06T16:53:14.046Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 45 Comdte. Luis Piedrabuena",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Marco Avellaneda",
+        "height": "1253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4072912, -34.7246371]
+      },
+      "_id": "615dd48fa6ce41a8cc8fe297",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:53:35.344Z",
+      "updatedAt": "2021-10-06T16:53:35.344Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 46 Paula Albarracín",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Bouchard",
+        "height": "4491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3449733, -34.7222812]
+      },
+      "_id": "615dd4a3a6ce41a8cc8fe299",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:53:55.597Z",
+      "updatedAt": "2021-10-06T16:53:55.597Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 48 República de Francia",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "José León Suarez",
+        "height": "3942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4333625, -34.7044503]
+      },
+      "_id": "615dd4b6a6ce41a8cc8fe29b",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:54:14.729Z",
+      "updatedAt": "2021-10-06T16:54:14.729Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 49 José Hernández",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "José María Moreno",
+        "height": "2608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4235765, -34.6904356]
+      },
+      "_id": "615dd4d3a6ce41a8cc8fe29d",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:54:43.871Z",
+      "updatedAt": "2021-10-06T16:54:43.871Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 50 Francisco Narciso Laprida",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Posadas",
+        "height": "319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3549069, -34.7104459]
+      },
+      "_id": "615dd4e4a6ce41a8cc8fe29f",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:55:00.281Z",
+      "updatedAt": "2021-10-06T16:55:00.281Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 52",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Pringles",
+        "height": "4200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3533119, -34.7256507]
+      },
+      "_id": "615dd569165c639452329dee",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:57:13.706Z",
+      "updatedAt": "2021-10-06T16:57:13.706Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 53 Malvinas Argentinas",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Maure",
+        "height": "3360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3531872, -34.7126592]
+      },
+      "_id": "615dd57d165c639452329df6",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:57:33.315Z",
+      "updatedAt": "2021-10-06T16:57:33.315Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 54 Islas Malvinas",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Santiago Plaul",
+        "height": "1832"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4066011, -34.6888469]
+      },
+      "_id": "615dd595165c639452329df8",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:57:57.731Z",
+      "updatedAt": "2021-10-06T16:57:57.731Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 55 Florentino Ameghino Laprida",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Santiago Derqui",
+        "height": "1665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4154573, -34.7052245]
+      },
+      "_id": "615dd5ae165c639452329dfa",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:58:22.074Z",
+      "updatedAt": "2021-10-06T16:58:22.074Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 56 Perito Moreno",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "1° de Mayo",
+        "height": "3640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4154573, -34.7052245]
+      },
+      "_id": "615dd5bc165c639452329dfc",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:58:36.351Z",
+      "updatedAt": "2021-10-06T16:58:36.351Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 57 Gral. de Div. Manuel Savio",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Molinedo",
+        "height": "1900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4197637, -34.6780155]
+      },
+      "_id": "615dd5c9165c639452329dfe",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:58:49.630Z",
+      "updatedAt": "2021-10-06T16:58:49.630Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 58 Mercedes de San Martín",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Bouchard",
+        "height": "2351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3662747, -34.7054931]
+      },
+      "_id": "615dd5d7165c639452329e00",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:59:03.899Z",
+      "updatedAt": "2021-10-06T16:59:03.899Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 59 Gabriela Mistral",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Yatay",
+        "height": "2850"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4323712, -34.6812507]
+      },
+      "_id": "615dd5e5165c639452329e02",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:59:17.882Z",
+      "updatedAt": "2021-10-06T16:59:17.882Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 60 Almafuerte",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Molinedo",
+        "height": "3200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4350753, -34.6854592]
+      },
+      "_id": "615dd5f6165c639452329e04",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:59:34.398Z",
+      "updatedAt": "2021-10-06T16:59:34.398Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 62",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Pichincha",
+        "height": "3821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3548321, -34.7217892]
+      },
+      "_id": "615dd603165c639452329e06",
+      "type": "Feature",
+      "createdAt": "2021-10-06T16:59:47.590Z",
+      "updatedAt": "2021-10-06T16:59:47.590Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 63 Esteban de Luca",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Yapeyú",
+        "height": "1155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3414785, -34.7327185]
+      },
+      "_id": "615dd61b165c639452329e08",
+      "type": "Feature",
+      "createdAt": "2021-10-06T17:00:11.826Z",
+      "updatedAt": "2021-10-06T17:00:11.826Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 64 Fragata Pte. Sarmiento",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Juan Farrel",
+        "height": "3334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4339952, -34.6905427]
+      },
+      "_id": "615dd62a165c639452329e0a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T17:00:26.393Z",
+      "updatedAt": "2021-10-06T17:00:26.393Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 66",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Condarco",
+        "height": "2322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3608289, -34.7340637]
+      },
+      "_id": "615dd63e165c639452329e0c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T17:00:46.298Z",
+      "updatedAt": "2021-10-06T17:00:46.298Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 67 20 de Junio",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Madero",
+        "height": "1650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4225555, -34.6702908]
+      },
+      "_id": "615dd64c165c639452329e0e",
+      "type": "Feature",
+      "createdAt": "2021-10-06T17:01:00.787Z",
+      "updatedAt": "2021-10-06T17:01:00.787Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 69 Buenos Aires",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Ministro Brin",
+        "height": "2475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3960766, -34.7000279]
+      },
+      "_id": "615dd65b165c639452329e10",
+      "type": "Feature",
+      "createdAt": "2021-10-06T17:01:15.702Z",
+      "updatedAt": "2021-10-06T17:01:15.702Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 70 Nicolás Avellaneda",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Murgiondo",
+        "height": "2221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4247759, -34.6787955]
+      },
+      "_id": "615dd669165c639452329e12",
+      "type": "Feature",
+      "createdAt": "2021-10-06T17:01:29.681Z",
+      "updatedAt": "2021-10-06T17:01:29.681Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 72 Pedro Medrano",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Potosí",
+        "height": "2651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4321973, -34.6773251]
+      },
+      "_id": "615dd67a165c639452329e14",
+      "type": "Feature",
+      "createdAt": "2021-10-06T17:01:46.899Z",
+      "updatedAt": "2021-10-06T17:01:46.899Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 74 República de Italia",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Los Patos",
+        "height": "4140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4160399, -34.7238983]
+      },
+      "_id": "615dd68c165c639452329e16",
+      "type": "Feature",
+      "createdAt": "2021-10-06T17:02:04.528Z",
+      "updatedAt": "2021-10-06T17:02:04.528Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.P.B. N° 77 Santa Cruz",
+        "public": true,
+        "dependence": "Primaria",
+        "address": "Villegas",
+        "height": "4551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4356823, -34.6979032]
+      },
+      "_id": "615dd6ac165c639452329e18",
+      "type": "Feature",
+      "createdAt": "2021-10-06T17:02:36.746Z",
+      "updatedAt": "2021-10-06T17:02:36.746Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.E.M. Nº 1",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "José I. Rucci",
+        "height": "958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4085481, -34.6751169]
+      },
+      "_id": "615dd6c7165c639452329e1a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T17:03:03.713Z",
+      "updatedAt": "2021-10-06T17:03:03.713Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.E.M. Nº 2",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "9 de Julio",
+        "height": "1788"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.38376319251687, -34.712292938280896]
+      },
+      "_id": "615dd6d9165c639452329e1c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T17:03:21.076Z",
+      "updatedAt": "2021-10-06T17:03:21.076Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.E.M. Nº 3",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Ituzaingo",
+        "height": "1770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.38351996831899, -34.71171018232746]
+      },
+      "_id": "615df3a92e70e4d829d89e4a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:06:17.277Z",
+      "updatedAt": "2021-10-06T19:06:17.277Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.E.M. Nº 4",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Carlos Casares",
+        "height": "2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3985954, -34.6991275]
+      },
+      "_id": "615df3bf2e70e4d829d89e52",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:06:39.231Z",
+      "updatedAt": "2021-10-06T19:06:39.231Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.E.M. Nº 5",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Aguapey",
+        "height": "3864"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3719154, -34.737282] },
+      "_id": "615df3cb2e70e4d829d89e54",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:06:51.614Z",
+      "updatedAt": "2021-10-06T19:06:51.614Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.E.M. Nº 6",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Warnes",
+        "height": "3493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.42629306502205, -34.679853521337414]
+      },
+      "_id": "615df3f12e70e4d829d89e56",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:07:29.587Z",
+      "updatedAt": "2021-10-06T19:07:29.587Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.E.M. Nº 7",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Mamberti",
+        "height": "1217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3853524, -34.6997981]
+      },
+      "_id": "615df4012e70e4d829d89e58",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:07:45.184Z",
+      "updatedAt": "2021-10-06T19:07:45.184Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.E.M. Nº 8",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Ramón Cabrero",
+        "height": "1935"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.38619696150077, -34.71606919776759]
+      },
+      "_id": "615df4132e70e4d829d89e5a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:08:03.302Z",
+      "updatedAt": "2021-10-06T19:08:03.302Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.E.M. Nº 9",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Coronel Erezcano",
+        "height": "3240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4145023, -34.6732974]
+      },
+      "_id": "615df41f2e70e4d829d89e5c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:08:15.656Z",
+      "updatedAt": "2021-10-06T19:08:15.656Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.E.M. Nº 10",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Rosales",
+        "height": "1132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.40189930284612, -34.72331789010718]
+      },
+      "_id": "615df42f2e70e4d829d89e5e",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:08:31.349Z",
+      "updatedAt": "2021-10-06T19:08:31.349Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.E.M. Nº 11",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Ituzaingo",
+        "height": "4835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3523837, -34.7341455]
+      },
+      "_id": "615df43d2e70e4d829d89e60",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:08:45.956Z",
+      "updatedAt": "2021-10-06T19:08:45.956Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.E.M. Nº 12",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Liniers",
+        "height": "3225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4152735, -34.6754062]
+      },
+      "_id": "615df44f2e70e4d829d89e62",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:09:03.270Z",
+      "updatedAt": "2021-10-06T19:09:03.270Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.E.M. Nº 13",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Ministro Brin",
+        "height": "2475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3960766, -34.7000279]
+      },
+      "_id": "615df45d2e70e4d829d89e64",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:09:17.503Z",
+      "updatedAt": "2021-10-06T19:09:17.503Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.E.M. Nº 15",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Joaquín V. Gonzalez",
+        "height": "2875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.389925089125285, -34.70496967445867]
+      },
+      "_id": "615df46e2e70e4d829d89e66",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:09:34.092Z",
+      "updatedAt": "2021-10-06T19:09:34.092Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.E.M. Nº 16",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Manuel Quindimil",
+        "height": "750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3986952, -34.6927872]
+      },
+      "_id": "615df48d2e70e4d829d89e68",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:10:05.837Z",
+      "updatedAt": "2021-10-06T19:10:05.837Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.E.M. Nº 17",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Ferré",
+        "height": "3101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.39202553245721, -34.72213860628665]
+      },
+      "_id": "615df4a22e70e4d829d89e6a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:10:26.267Z",
+      "updatedAt": "2021-10-06T19:10:26.267Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "CENS Adultos 451 ",
+        "public": true,
+        "dependence": "Otras",
+        "address": "Remedios de Escalada",
+        "height": "4231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.41710871208366, -34.663264399108975]
+      },
+      "_id": "615df6aaa58cf074790477f7",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:19:06.733Z",
+      "updatedAt": "2021-10-06T19:19:06.733Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "CENS Adultos 452",
+        "public": true,
+        "dependence": "Otras",
+        "address": "Ministro Brin",
+        "height": "2475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3960766, -34.7000279]
+      },
+      "_id": "615df6c6a58cf074790477f9",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:19:34.144Z",
+      "updatedAt": "2021-10-06T19:19:34.144Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "CENS Adultos 453",
+        "public": true,
+        "dependence": "Otras",
+        "address": "Ituzaingo",
+        "height": "1762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.38354823472136, -34.71181436592819]
+      },
+      "_id": "615df6d9a58cf074790477fb",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:19:53.036Z",
+      "updatedAt": "2021-10-06T19:19:53.036Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Inmaculada Concepción",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Hipólito Yrigoyen",
+        "height": "4355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [58.392032450895556, -58.392032450895556]
+      },
+      "_id": "615df718a58cf074790477fd",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:20:56.549Z",
+      "updatedAt": "2021-10-06T19:20:56.549Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Cristo Rey",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Villa de Luján",
+        "height": "1538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.37306930691247, -34.71452798813939]
+      },
+      "_id": "615df727a58cf074790477ff",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:21:11.367Z",
+      "updatedAt": "2021-10-06T19:21:11.367Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Del Espíritu Santo",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Matanza",
+        "height": "3339"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3746267, -34.737143] },
+      "_id": "615df736a58cf07479047801",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:21:26.635Z",
+      "updatedAt": "2021-10-06T19:21:26.635Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Jacarandá",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Gral. Pico",
+        "height": "537"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.355486, -34.7128937] },
+      "_id": "615df760a58cf07479047803",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:22:08.365Z",
+      "updatedAt": "2021-10-06T19:22:08.365Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria J. M. Estrada",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "2 de Mayo ",
+        "height": "2932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.396999420637684, -34.70631190343566]
+      },
+      "_id": "615df794a58cf07479047805",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:23:00.088Z",
+      "updatedAt": "2021-10-06T19:23:00.088Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Insituto Moderno de Educación Integral",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Hipólito Yrigoyen",
+        "height": "5302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3932582, -34.7162414]
+      },
+      "_id": "615df7a6a58cf07479047807",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:23:18.194Z",
+      "updatedAt": "2021-10-06T19:23:18.194Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Sagrado Corazón de Jesús",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Humauhuaca",
+        "height": "2456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4170758, -34.6894686]
+      },
+      "_id": "615df7b3a58cf07479047809",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:23:31.591Z",
+      "updatedAt": "2021-10-06T19:23:31.591Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Santo Cristo",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Pergamino",
+        "height": "1749"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3758349, -34.7146749]
+      },
+      "_id": "615df7d1a58cf0747904780b",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:24:01.680Z",
+      "updatedAt": "2021-10-06T19:24:01.680Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Medalla Milagrosa",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Roma",
+        "height": "4250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3708604, -34.7420907]
+      },
+      "_id": "615df7e0a58cf0747904780d",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:24:16.125Z",
+      "updatedAt": "2021-10-06T19:24:16.125Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Instituto San Agustín",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Pastor Ferreyra",
+        "height": "3338"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4013683, -34.7249718]
+      },
+      "_id": "615df7eea58cf0747904780f",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:24:30.451Z",
+      "updatedAt": "2021-10-06T19:24:30.451Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Durham",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Murguiondo",
+        "height": "890"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.4127817, -34.670815] },
+      "_id": "615df7fda58cf07479047811",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:24:45.653Z",
+      "updatedAt": "2021-10-06T19:24:45.653Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria San Juan Bautista",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Choele Choel",
+        "height": "468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4078932, -34.6690174]
+      },
+      "_id": "615df827a58cf07479047813",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:25:27.102Z",
+      "updatedAt": "2021-10-06T19:25:27.102Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Cambazyán",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Jean Jaures",
+        "height": "3111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4092635, -34.6698244]
+      },
+      "_id": "615df871a58cf07479047815",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:26:41.503Z",
+      "updatedAt": "2021-10-06T19:26:41.503Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria San Juan Bautista",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Choele Choel",
+        "height": "468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4078932, -34.6690174]
+      },
+      "_id": "615df884a58cf07479047817",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:27:00.998Z",
+      "updatedAt": "2021-10-06T19:27:00.998Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Sagrado Corazón Alcal",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Warnes",
+        "height": "3870"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4298414, -34.6754949]
+      },
+      "_id": "615df89fa58cf0747904781a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:27:27.937Z",
+      "updatedAt": "2021-10-06T19:27:27.937Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria San Francisco de Asís",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Lituania",
+        "height": "3144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4175032, -34.7075915]
+      },
+      "_id": "615df8b5a58cf0747904781c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:27:49.228Z",
+      "updatedAt": "2021-10-06T19:27:49.228Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria San Miguel Arcángel",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Molinedo",
+        "height": "2406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4260906, -34.6812436]
+      },
+      "_id": "615df8c3a58cf0747904781e",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:28:03.555Z",
+      "updatedAt": "2021-10-06T19:28:03.555Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Santa Teresa",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Dr. Melo",
+        "height": "2763"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3946694, -34.7030864]
+      },
+      "_id": "615df8d2a58cf07479047820",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:28:18.035Z",
+      "updatedAt": "2021-10-06T19:28:18.035Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Mi Casa",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Eva Perón",
+        "height": "2177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3763399, -34.7117151]
+      },
+      "_id": "615df8e1a58cf07479047822",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:28:33.570Z",
+      "updatedAt": "2021-10-06T19:28:33.570Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Colegio Lausanne",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "9 de Julio",
+        "height": "1760"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3841266, -34.7121765]
+      },
+      "_id": "615df918a58cf07479047826",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:29:28.775Z",
+      "updatedAt": "2021-10-06T19:29:28.775Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Instituto Pizzurno de Educación Integral",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Warnes",
+        "height": "3178"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.4242532, -34.683278] },
+      "_id": "615df944a58cf07479047828",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:30:12.886Z",
+      "updatedAt": "2021-10-06T19:30:12.886Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Colegio Alemán",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Oliden",
+        "height": "2444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.419376636401694, -34.688897352238705]
+      },
+      "_id": "615df952a58cf0747904782a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:30:26.233Z",
+      "updatedAt": "2021-10-06T19:30:26.233Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Jesús de Nazareth",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Guido",
+        "height": "1065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3854308, -34.7024836]
+      },
+      "_id": "615df961a58cf0747904782c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:30:41.080Z",
+      "updatedAt": "2021-10-06T19:30:41.080Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Remedios de Escalada",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Pilcomayo",
+        "height": "3967"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4292003, -34.7001696]
+      },
+      "_id": "615df970a58cf0747904782e",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:30:56.623Z",
+      "updatedAt": "2021-10-06T19:30:56.623Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Mariano Moreno",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Murguiondo",
+        "height": "3237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4285804, -34.6807402]
+      },
+      "_id": "615df97fa58cf07479047830",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:31:11.123Z",
+      "updatedAt": "2021-10-06T19:31:11.123Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Cristiana Evangelista",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Tagle",
+        "height": "3459"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4259887, -34.6969398]
+      },
+      "_id": "615df9a0a58cf07479047832",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:31:44.875Z",
+      "updatedAt": "2021-10-06T19:31:44.875Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria M. Abrain",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Yerbal",
+        "height": "3026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4152472, -34.7070057]
+      },
+      "_id": "615df9c7a58cf0747904783e",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:32:23.804Z",
+      "updatedAt": "2021-10-06T19:32:23.804Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Norte",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "9 de Julio",
+        "height": "2152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3801119, -34.7149665]
+      },
+      "_id": "615df9d7a58cf07479047840",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:32:39.394Z",
+      "updatedAt": "2021-10-06T19:32:39.394Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Santa Faz",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Ocampo",
+        "height": "1478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4058973, -34.6901623]
+      },
+      "_id": "615df9eba58cf07479047842",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:32:59.376Z",
+      "updatedAt": "2021-10-06T19:32:59.376Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria El Castillo",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Humauhuaca",
+        "height": "3117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4246156, -34.6937437]
+      },
+      "_id": "615df9f9a58cf07479047844",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:33:13.593Z",
+      "updatedAt": "2021-10-06T19:33:13.593Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Eccleston",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "25 de Mayo",
+        "height": "3117"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.4293766, -34.68644] },
+      "_id": "615dfa10a58cf07479047846",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:33:36.438Z",
+      "updatedAt": "2021-10-06T19:33:36.438Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria A. Schweltzer",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Piñeiro",
+        "height": "422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3974985, -34.7067942]
+      },
+      "_id": "615dfa20a58cf07479047848",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:33:52.259Z",
+      "updatedAt": "2021-10-06T19:33:52.259Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Gruta Ntra. Sra. De Lourdes",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Guido Spano",
+        "height": "1034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3974985, -34.7067942]
+      },
+      "_id": "615dfa30a58cf0747904784a",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:34:08.462Z",
+      "updatedAt": "2021-10-06T19:34:08.462Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Nazareth Adulto",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Ituzaingo",
+        "height": "1143"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3891466, -34.707414] },
+      "_id": "615dfa3ca58cf0747904784c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:34:20.960Z",
+      "updatedAt": "2021-10-06T19:34:20.960Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Dr. José C. Paz",
+        "public": false,
+        "dependence": "Secundaria",
+        "address": "Eva Perón",
+        "height": "2412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3738391, -34.7133167]
+      },
+      "_id": "615dfa54a58cf0747904784e",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:34:44.403Z",
+      "updatedAt": "2021-10-06T19:34:44.403Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "ISFD Apoyo y Perfec. Educ. Iape",
+        "public": false,
+        "dependence": "Otras",
+        "address": "Tacuari",
+        "height": "2255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4152424, -34.6881199]
+      },
+      "_id": "615dfbe16822c512f1d910c9",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:41:21.784Z",
+      "updatedAt": "2021-10-06T19:41:21.784Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Instituto Cristo Rey",
+        "public": false,
+        "dependence": "Otras",
+        "address": "Villa de Luján",
+        "height": "1532"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3733013, -34.714229] },
+      "_id": "615dfbf56822c512f1d910cb",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:41:41.791Z",
+      "updatedAt": "2021-10-06T19:41:41.791Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Escuela De Emfermería Cruz Roja Lanús",
+        "public": false,
+        "dependence": "Otras",
+        "address": "Eva Perón",
+        "height": "2502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3729107, -34.7138518]
+      },
+      "_id": "615dfc196822c512f1d910cd",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:42:17.792Z",
+      "updatedAt": "2021-10-06T19:42:17.792Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Inst. San Agustín Superior",
+        "public": false,
+        "dependence": "Otras",
+        "address": "Rosales",
+        "height": "1036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4012709, -34.7243159]
+      },
+      "_id": "615dfc296822c512f1d910cf",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:42:33.917Z",
+      "updatedAt": "2021-10-06T19:42:33.917Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Insituto para la formación e investigación hopitalaria",
+        "public": false,
+        "dependence": "Otras",
+        "address": "9 de Julio",
+        "height": "1760"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3841266, -34.7121765]
+      },
+      "_id": "615dfc386822c512f1d910d1",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:42:48.954Z",
+      "updatedAt": "2021-10-06T19:42:48.954Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Inst. Superior Lanús - AMGAA Guardavida",
+        "public": false,
+        "dependence": "Otras",
+        "address": "9 de Julio",
+        "height": "1680"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3847298, -34.711853] },
+      "_id": "615dfc476822c512f1d910d3",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:43:03.474Z",
+      "updatedAt": "2021-10-06T19:43:03.474Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Instituto Superior de Formación Docente Eccleston",
+        "public": false,
+        "dependence": "Otras",
+        "address": "25 de Mayo",
+        "height": "793"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4035017, -34.7061309]
+      },
+      "_id": "615dfc586822c512f1d910d5",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:43:20.033Z",
+      "updatedAt": "2021-10-06T19:43:20.033Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Universidad Nacional de Lanús",
+        "public": true,
+        "dependence": "Universitaria",
+        "address": "29 de Septiembre",
+        "height": "3901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.39047829142436, -34.73412249078452]
+      },
+      "_id": "615dfcaddc808c7f6b9400db",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:44:45.973Z",
+      "updatedAt": "2021-10-06T19:44:45.973Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Universidad John F. Kennedy",
+        "public": false,
+        "dependence": "Universitaria",
+        "address": "Hipólito Yrigoyen",
+        "height": "4651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3921095, -34.7088145]
+      },
+      "_id": "615dfccadc808c7f6b9400e3",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:45:14.188Z",
+      "updatedAt": "2021-10-06T19:45:14.188Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Escuela Especial N° 501 Enrique Finochietto (discapacidad motriz)",
+        "public": true,
+        "dependence": "Otras",
+        "address": "Juncal",
+        "height": "1259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3816356, -34.7026135]
+      },
+      "_id": "615dfce8dc808c7f6b9400e5",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:45:44.469Z",
+      "updatedAt": "2021-10-06T19:45:44.469Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Escuela Especial N° 502 (domiciliaria)",
+        "public": true,
+        "dependence": "Otras",
+        "address": "Mamberti",
+        "height": "1241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3855118, -34.6999277]
+      },
+      "_id": "615dfcf8dc808c7f6b9400e7",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:46:00.468Z",
+      "updatedAt": "2021-10-06T19:46:00.468Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Escuela Especial N° 503 (sordos e hipoacúsicos)",
+        "public": true,
+        "dependence": "Otras",
+        "address": "Tuyutí",
+        "height": "3487"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.4144324, -34.669761] },
+      "_id": "615dfd06dc808c7f6b9400e9",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:46:14.923Z",
+      "updatedAt": "2021-10-06T19:46:14.923Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Escuela Especial N° 504 Down (retardo mental)",
+        "public": true,
+        "dependence": "Otras",
+        "address": "Molinedo",
+        "height": "1900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4197637, -34.6780155]
+      },
+      "_id": "615dfd15dc808c7f6b9400eb",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:46:29.004Z",
+      "updatedAt": "2021-10-06T19:46:29.004Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Escuela Especial N° 506 Ciegos (ciegos y discriminados visuales)",
+        "public": true,
+        "dependence": "Otras",
+        "address": "Eva Perón",
+        "height": "2438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3735329, -34.7134461]
+      },
+      "_id": "615dfd22dc808c7f6b9400ed",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:46:42.638Z",
+      "updatedAt": "2021-10-06T19:46:42.638Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Escuela Especial N° 507 (retardo mental)",
+        "public": true,
+        "dependence": "Otras",
+        "address": "Tucuman",
+        "height": "3750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3600104, -34.7250491]
+      },
+      "_id": "615dfd2fdc808c7f6b9400ef",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:46:55.878Z",
+      "updatedAt": "2021-10-06T19:46:55.878Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Escuela Especial N° 508 (discapacidad motriz)",
+        "public": true,
+        "dependence": "Otras",
+        "address": "General Pinto",
+        "height": "4761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.35067928289919, -34.731581164674886]
+      },
+      "_id": "615dfd4bdc808c7f6b9400f1",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:47:23.063Z",
+      "updatedAt": "2021-10-06T19:47:23.063Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Escuela Especial N° 509 (severos. trastornos)",
+        "public": true,
+        "dependence": "Otras",
+        "address": "Carlos Gardel",
+        "height": "331"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3958561, -34.708924] },
+      "_id": "615dfd5cdc808c7f6b9400f3",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:47:40.903Z",
+      "updatedAt": "2021-10-06T19:47:40.903Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Técnica N° 1",
+        "public": true,
+        "dependence": "Técnica",
+        "address": "Burelas",
+        "height": "2230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3641694, -34.7023637]
+      },
+      "_id": "615dfe39444b9f449196f1f1",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:51:21.065Z",
+      "updatedAt": "2021-10-06T19:51:21.065Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Técnica N° 2",
+        "public": true,
+        "dependence": "Técnica",
+        "address": "Juan Domingo Perón",
+        "height": "3018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.409640511996756, -34.67152774829603]
+      },
+      "_id": "615dfe48444b9f449196f1f9",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:51:36.439Z",
+      "updatedAt": "2021-10-06T19:51:36.439Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Técnica N° 3",
+        "public": true,
+        "dependence": "Técnica",
+        "address": "Acevedo",
+        "height": "2778"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3855412, -34.7320742]
+      },
+      "_id": "615dfe5b444b9f449196f1fb",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:51:55.079Z",
+      "updatedAt": "2021-10-06T19:51:55.079Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Técnica N° 4",
+        "public": true,
+        "dependence": "Técnica",
+        "address": "Jose María Moreno",
+        "height": "2660"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4238369, -34.6900542]
+      },
+      "_id": "615dfe69444b9f449196f1fd",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:52:09.972Z",
+      "updatedAt": "2021-10-06T19:52:09.972Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Técnica N° 5",
+        "public": true,
+        "dependence": "Técnica",
+        "address": "Ramón Cabrero",
+        "height": "1751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3867462, -34.7146146]
+      },
+      "_id": "615dfe7a444b9f449196f1ff",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:52:26.360Z",
+      "updatedAt": "2021-10-06T19:52:26.360Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Técnica N° 6",
+        "public": true,
+        "dependence": "Técnica",
+        "address": "Hipólito Yrigoyen",
+        "height": "5982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3949931, -34.7244447]
+      },
+      "_id": "615dfe8d444b9f449196f201",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:52:45.132Z",
+      "updatedAt": "2021-10-06T19:52:45.132Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Técnica N° 7",
+        "public": true,
+        "dependence": "Técnica",
+        "address": "Rivadavia",
+        "height": "145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3960965, -34.6734348]
+      },
+      "_id": "615dfe9d444b9f449196f203",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:53:01.983Z",
+      "updatedAt": "2021-10-06T19:53:01.983Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Técnica N° 8",
+        "public": true,
+        "dependence": "Técnica",
+        "address": "Jean Jaures",
+        "height": "749"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3892651, -34.6870292]
+      },
+      "_id": "615dfeb6444b9f449196f205",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:53:26.456Z",
+      "updatedAt": "2021-10-06T19:53:26.456Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Técnica N° 9",
+        "public": true,
+        "dependence": "Técnica",
+        "address": "29 de Septiembre",
+        "height": "1760"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3894097, -34.705135] },
+      "_id": "615dfec3444b9f449196f207",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:53:39.711Z",
+      "updatedAt": "2021-10-06T19:53:39.711Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Secundaria Técnica María Reina",
+        "public": false,
+        "dependence": "Técnica",
+        "address": "Monseñor Hladnik",
+        "height": "4029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4195601, -34.7167387]
+      },
+      "_id": "615dfedf444b9f449196f209",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:54:07.105Z",
+      "updatedAt": "2021-10-06T19:54:07.105Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Insituto Superior N° 175",
+        "public": true,
+        "dependence": "Otras",
+        "address": "Ministro Brin",
+        "height": "3024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3949714, -34.7083055]
+      },
+      "_id": "615dffae398151d8d4380f7c",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:57:34.138Z",
+      "updatedAt": "2021-10-06T19:57:34.138Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "UNLA (ABREMATE )",
+        "public": true,
+        "dependence": "Otras",
+        "address": "Hipólito Yrigoyen",
+        "height": "5700"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.39419, -34.7206504] },
+      "_id": "615dffc1398151d8d4380f84",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:57:53.420Z",
+      "updatedAt": "2021-10-06T19:57:53.420Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Instituto de Formación Docente N° 11",
+        "public": true,
+        "dependence": "Otras",
+        "address": "Ituzaingo",
+        "height": "1770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3829733, -34.7111692]
+      },
+      "_id": "615dffcd398151d8d4380f86",
+      "type": "Feature",
+      "createdAt": "2021-10-06T19:58:05.616Z",
+      "updatedAt": "2021-10-06T19:58:05.616Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 9 Juan Bautista Alberdi",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Eva Perón",
+        "height": "2412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3738391, -34.7133167]
+      },
+      "_id": "6160857282c66e069094cb15",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:52:50.536Z",
+      "updatedAt": "2021-10-08T17:52:50.536Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 26 Mariano Moreno",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Rivadavia",
+        "height": "151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3961277, -34.6734616]
+      },
+      "_id": "6160858882c66e069094cb19",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:53:12.022Z",
+      "updatedAt": "2021-10-08T17:53:12.022Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 27 República Del Brasil",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Juan Domingo Perón",
+        "height": "3018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.409753345912165, -34.67142993903735]
+      },
+      "_id": "6160859682c66e069094cb1b",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:53:26.387Z",
+      "updatedAt": "2021-10-08T17:53:26.387Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 10 R. de Escalada de S. Martín",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Ucrania",
+        "height": "815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4039947, -34.6764886]
+      },
+      "_id": "616085ab82c66e069094cb1d",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:53:47.764Z",
+      "updatedAt": "2021-10-08T17:53:47.764Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 11 Marcelino Bordoy",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Rivadavia",
+        "height": "1847"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.41103902361441, -34.685648018564336]
+      },
+      "_id": "616085c082c66e069094cb1f",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:54:08.867Z",
+      "updatedAt": "2021-10-08T17:54:08.867Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 28 Rafael Obligado",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Ituzaingo",
+        "height": "1762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.383234379150736, -34.71124979139691]
+      },
+      "_id": "616085d382c66e069094cb21",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:54:27.242Z",
+      "updatedAt": "2021-10-08T17:54:27.242Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 29 Ntra. Sra. de La Merced",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Bouchard",
+        "height": "370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3847772, -34.6901372]
+      },
+      "_id": "616085f282c66e069094cb23",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:54:58.447Z",
+      "updatedAt": "2021-10-08T17:54:58.447Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 30 Bartolomé Mitre",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Anatole France",
+        "height": "1660"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3864481, -34.7059182]
+      },
+      "_id": "6160860482c66e069094cb25",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:55:16.308Z",
+      "updatedAt": "2021-10-08T17:55:16.308Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 31 Congreso de Tucumán",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Aristóbulo del Valle",
+        "height": "1503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4128458, -34.7034456]
+      },
+      "_id": "6160861e82c66e069094cb27",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:55:42.789Z",
+      "updatedAt": "2021-10-08T17:55:42.789Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 32 Antártida Argentina",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Remedios de Escalada",
+        "height": "1480"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.399796, -34.6847358] },
+      "_id": "6160863482c66e069094cb29",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:56:04.390Z",
+      "updatedAt": "2021-10-08T17:56:04.390Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 33 Hipólito Yrigoyen",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Remedios de Escalada",
+        "height": "4230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.41710871208366, -34.663264399108975]
+      },
+      "_id": "6160864a82c66e069094cb2b",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:56:26.287Z",
+      "updatedAt": "2021-10-08T17:56:26.287Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 12 Capitán H. Bouchard",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Fray J. Lagos",
+        "height": "2113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4061665, -34.6948388]
+      },
+      "_id": "6160865b82c66e069094cb2d",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:56:43.364Z",
+      "updatedAt": "2021-10-08T17:56:43.364Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 13 Bernardino Rivadavia",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Manuel Quindimil",
+        "height": "702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.398190193184604, -34.693118074372656]
+      },
+      "_id": "6160866c82c66e069094cb2f",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:57:00.806Z",
+      "updatedAt": "2021-10-08T17:57:00.806Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 34 Arturo Melo",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Dr. Melo",
+        "height": "4453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3976486, -34.7250907]
+      },
+      "_id": "6160869e82c66e069094cb31",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:57:50.601Z",
+      "updatedAt": "2021-10-08T17:57:50.601Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 1 Libetador Gral. San Martín",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Ministro Brin",
+        "height": "3024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3949714, -34.7083055]
+      },
+      "_id": "616086b382c66e069094cb33",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:58:11.489Z",
+      "updatedAt": "2021-10-08T17:58:11.489Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 35 Fray Mamerto Esquiu",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Madariaga",
+        "height": "1960"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.380300969525464, -34.71448623028204]
+      },
+      "_id": "616086c482c66e069094cb35",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:58:28.492Z",
+      "updatedAt": "2021-10-08T17:58:28.492Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 14  Yapeyú",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Carlos Tejedor",
+        "height": "1091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.40856732550225, -34.70165359697829]
+      },
+      "_id": "616086d682c66e069094cb37",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:58:46.969Z",
+      "updatedAt": "2021-10-08T17:58:46.969Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 15 Fray Luis Beltrán",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Raúl Alfonsín",
+        "height": "1758"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.375397894411975, -34.70347238619262]
+      },
+      "_id": "616086e682c66e069094cb39",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:59:02.044Z",
+      "updatedAt": "2021-10-08T17:59:02.044Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 37 Fragata Libertad",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Bolaños",
+        "height": "820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3809792, -34.6952154]
+      },
+      "_id": "616086f482c66e069094cb3b",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:59:16.151Z",
+      "updatedAt": "2021-10-08T17:59:16.151Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 2 Guillermo F. Gaebeler",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Gral. Pico",
+        "height": "2002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3674408, -34.7244844]
+      },
+      "_id": "6160870482c66e069094cb3d",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:59:32.395Z",
+      "updatedAt": "2021-10-08T17:59:32.395Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 39 Crucero Gral. San Martín",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Dean Funes",
+        "height": "4436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4342593, -34.7039962]
+      },
+      "_id": "6160871382c66e069094cb3f",
+      "type": "Feature",
+      "createdAt": "2021-10-08T17:59:47.954Z",
+      "updatedAt": "2021-10-08T17:59:47.954Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 40 Carlos Melo",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Ferré",
+        "height": "2180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3841015, -34.7146708]
+      },
+      "_id": "6160873882c66e069094cb41",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:00:24.559Z",
+      "updatedAt": "2021-10-08T18:00:24.559Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 41 Tte. Manuel Origone",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Carlos Gardel",
+        "height": "1011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4074473, -34.7072607]
+      },
+      "_id": "6160874a82c66e069094cb43",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:00:42.273Z",
+      "updatedAt": "2021-10-08T18:00:42.273Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 42 Holanda",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Aguapey",
+        "height": "3864"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3719154, -34.737282] },
+      "_id": "6160875882c66e069094cb45",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:00:56.688Z",
+      "updatedAt": "2021-10-08T18:00:56.688Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 43 Tambor de Tacuarí",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Andrade",
+        "height": "740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4049033, -34.7144838]
+      },
+      "_id": "6160876682c66e069094cb47",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:01:10.891Z",
+      "updatedAt": "2021-10-08T18:01:10.891Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 44 Carlos María Biedma",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Pilcomayo",
+        "height": "2597"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.4164536, -34.692258] },
+      "_id": "6160877582c66e069094cb49",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:01:25.022Z",
+      "updatedAt": "2021-10-08T18:01:25.022Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 45 VÍctor Mercante",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Eva Perón",
+        "height": "3800"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.358639, -34.7250181] },
+      "_id": "6160878682c66e069094cb4b",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:01:42.078Z",
+      "updatedAt": "2021-10-08T18:01:42.078Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 3 Nicolás Avellaneda",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "1° de Mayo",
+        "height": "4171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4288968, -34.6989936]
+      },
+      "_id": "6160879b82c66e069094cb4d",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:02:03.064Z",
+      "updatedAt": "2021-10-08T18:02:03.064Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 46 Gral. Manuel Belgrano",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Villa de Luján",
+        "height": "2389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3801162, -34.7204406]
+      },
+      "_id": "616087a782c66e069094cb4f",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:02:15.139Z",
+      "updatedAt": "2021-10-08T18:02:15.139Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 8",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Kloosterman",
+        "height": "1757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3523218, -34.7319404]
+      },
+      "_id": "616088b482c66e069094cb51",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:06:44.671Z",
+      "updatedAt": "2021-10-08T18:06:44.671Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 47 Francisco Gurruchaga",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Jean Jaures",
+        "height": "1502"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.396324, -34.6811853] },
+      "_id": "616088c482c66e069094cb53",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:07:00.752Z",
+      "updatedAt": "2021-10-08T18:07:00.752Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 16",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Cazón",
+        "height": "510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3418037, -34.7239933]
+      },
+      "_id": "616088da82c66e069094cb55",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:07:22.528Z",
+      "updatedAt": "2021-10-08T18:07:22.528Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 48 R. de Escalada de S. Martín",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Villegas",
+        "height": "361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3993048, -34.7336966]
+      },
+      "_id": "616088ea82c66e069094cb57",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:07:38.813Z",
+      "updatedAt": "2021-10-08T18:07:38.813Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 17 José Manuel Estrada",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Monseñor Hladnik",
+        "height": "3949"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4185833, -34.7162178]
+      },
+      "_id": "616088ff82c66e069094cb59",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:07:59.067Z",
+      "updatedAt": "2021-10-08T18:07:59.067Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 18 Francisco Narciso Laprida",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Don Orione",
+        "height": "1251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4101168, -34.7261024]
+      },
+      "_id": "6160890d82c66e069094cb5b",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:08:13.689Z",
+      "updatedAt": "2021-10-08T18:08:13.689Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 7 Cristóbal Colón",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Manuel Castro",
+        "height": "644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3995748, -34.7288609]
+      },
+      "_id": "6160892182c66e069094cb5d",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:08:33.358Z",
+      "updatedAt": "2021-10-08T18:08:33.358Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 50 Comdte. Luis Piedrabuena",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Marco Avellaneda",
+        "height": "1253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4072912, -34.7246371]
+      },
+      "_id": "6160893182c66e069094cb5f",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:08:49.937Z",
+      "updatedAt": "2021-10-08T18:08:49.937Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 51 Paula Albarracín",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Bouchard",
+        "height": "4491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3449733, -34.7222812]
+      },
+      "_id": "6160894482c66e069094cb61",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:09:08.079Z",
+      "updatedAt": "2021-10-08T18:09:08.079Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 52 República de Francia",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "José León Suarez",
+        "height": "3942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4333625, -34.7044503]
+      },
+      "_id": "6160895482c66e069094cb63",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:09:24.472Z",
+      "updatedAt": "2021-10-08T18:09:24.472Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 53 José Hernández",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "José María Moreno",
+        "height": "2608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4235765, -34.6904356]
+      },
+      "_id": "6160896382c66e069094cb65",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:09:39.171Z",
+      "updatedAt": "2021-10-08T18:09:39.171Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 19 Francisco Narciso Laprida",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Posadas",
+        "height": "319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3549069, -34.7104459]
+      },
+      "_id": "6160897482c66e069094cb67",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:09:56.842Z",
+      "updatedAt": "2021-10-08T18:09:56.842Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 54",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Pringles",
+        "height": "4200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3533119, -34.7256507]
+      },
+      "_id": "6160898082c66e069094cb69",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:10:08.416Z",
+      "updatedAt": "2021-10-08T18:10:08.416Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 20 Malvinas Argentinas",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Maure",
+        "height": "3360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3531872, -34.7126592]
+      },
+      "_id": "6160898f82c66e069094cb6b",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:10:23.730Z",
+      "updatedAt": "2021-10-08T18:10:23.730Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 55 Islas Malvinas",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Santiago Plaul",
+        "height": "1832"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4066011, -34.6888469]
+      },
+      "_id": "6160899b82c66e069094cb6d",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:10:35.826Z",
+      "updatedAt": "2021-10-08T18:10:35.826Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 56 Florentino Ameghino Laprida",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Santiago Derqui",
+        "height": "1665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4154573, -34.7052245]
+      },
+      "_id": "616089a782c66e069094cb6f",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:10:47.311Z",
+      "updatedAt": "2021-10-08T18:10:47.311Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 4 Perito Moreno",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "1° de Mayo",
+        "height": "3640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4154573, -34.7052245]
+      },
+      "_id": "616089b582c66e069094cb71",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:11:01.159Z",
+      "updatedAt": "2021-10-08T18:11:01.159Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 21 Gral. de Div. Manuel Savio",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Molinedo",
+        "height": "1900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4197637, -34.6780155]
+      },
+      "_id": "616089cc82c66e069094cb73",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:11:24.122Z",
+      "updatedAt": "2021-10-08T18:11:24.122Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 57 Mercedes de San Martín",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Bouchard",
+        "height": "2351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3662747, -34.7054931]
+      },
+      "_id": "616089d882c66e069094cb75",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:11:36.514Z",
+      "updatedAt": "2021-10-08T18:11:36.514Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 58 Gabriela Mistral",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Yatay",
+        "height": "2850"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4323712, -34.6812507]
+      },
+      "_id": "616089e782c66e069094cb77",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:11:51.195Z",
+      "updatedAt": "2021-10-08T18:11:51.195Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 5 Almafuerte",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Molinedo",
+        "height": "3200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4350753, -34.6854592]
+      },
+      "_id": "616089f382c66e069094cb79",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:12:03.917Z",
+      "updatedAt": "2021-10-08T18:12:03.917Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 59",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Pichincha",
+        "height": "3821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3548321, -34.7217892]
+      },
+      "_id": "61608a0382c66e069094cb7b",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:12:19.122Z",
+      "updatedAt": "2021-10-08T18:12:19.122Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 60 Esteban de Luca",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Yapeyú",
+        "height": "1155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3414785, -34.7327185]
+      },
+      "_id": "61608a1082c66e069094cb7d",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:12:32.551Z",
+      "updatedAt": "2021-10-08T18:12:32.551Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 61 Fragata Pte. Sarmiento",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Juan Farrel",
+        "height": "3334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4339952, -34.6905427]
+      },
+      "_id": "61608a1e82c66e069094cb7f",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:12:46.491Z",
+      "updatedAt": "2021-10-08T18:12:46.491Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 22",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Condarco",
+        "height": "2322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3608289, -34.7340637]
+      },
+      "_id": "61608a2e82c66e069094cb81",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:13:02.147Z",
+      "updatedAt": "2021-10-08T18:13:02.147Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 23 20 de Junio",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Madero",
+        "height": "1650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4225555, -34.6702908]
+      },
+      "_id": "61608a3b82c66e069094cb83",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:13:15.008Z",
+      "updatedAt": "2021-10-08T18:13:15.008Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 24 Buenos Aires",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Ministro Brin",
+        "height": "2475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3960766, -34.7000279]
+      },
+      "_id": "61608a4a82c66e069094cb85",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:13:30.173Z",
+      "updatedAt": "2021-10-08T18:13:30.173Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 6 Nicolás Avellaneda",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Murgiondo",
+        "height": "2221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4247759, -34.6787955]
+      },
+      "_id": "61608a5682c66e069094cb87",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:13:42.383Z",
+      "updatedAt": "2021-10-08T18:13:42.383Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 62 Pedro Medrano",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Potosí",
+        "height": "2651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4321973, -34.6773251]
+      },
+      "_id": "61608a6282c66e069094cb89",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:13:54.937Z",
+      "updatedAt": "2021-10-08T18:13:54.937Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 63 República de Italia",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Los Patos",
+        "height": "4140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4160399, -34.7238983]
+      },
+      "_id": "61608a6f82c66e069094cb8b",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:14:07.844Z",
+      "updatedAt": "2021-10-08T18:14:07.844Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "E.S.B. N° 25 Santa Cruz",
+        "public": true,
+        "dependence": "Secundaria",
+        "address": "Villegas",
+        "height": "4551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4356823, -34.6979032]
+      },
+      "_id": "61608a7c82c66e069094cb8d",
+      "type": "Feature",
+      "createdAt": "2021-10-08T18:14:20.767Z",
+      "updatedAt": "2021-10-08T18:14:20.767Z",
+      "__v": 0
+    }
+  ]
+}

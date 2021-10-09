@@ -18,13 +18,11 @@ let polygon_lanus_url = "/data/division_politica.geojson";
 let districts_url = "/data/barrios.geojson";
 let electorals_circuit_url = "/data/circuitos_electorales.geojson";
 let locations_url = "/data/localidades.geojson";
-let club_url = "https://lanusinteligente.divisioncode.com.ar/api/club";
-let education_url =
-  "https://lanusinteligente.divisioncode.com.ar/api/education";
-let health_url = "https://lanusinteligente.divisioncode.com.ar/api/health";
-let security_url = "https://lanusinteligente.divisioncode.com.ar/api/security";
-let transport_url =
-  "https://lanusinteligente.divisioncode.com.ar/api/transport";
+let club_url = "/data/club.geojson";
+let education_url ="/data/education.geojson";
+let health_url = "/data/health.geojson";
+let security_url = "/data/security.geojson";
+let transport_url ="/data/transport.geojson";
 
 //Si deja de funcionar probar con esto
 // async function setMap(healthData) {

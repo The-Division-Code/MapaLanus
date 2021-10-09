@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "name": "Sede Social Club Lanús",
+        "address": "Av. 9 de Julio",
+        "height": "1680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3876839, -34.7097452]
+      },
+      "_id": "613638bd528b54d1b21cc224",
+      "type": "Feature",
+      "createdAt": "2021-09-06T15:50:21.435Z",
+      "updatedAt": "2021-09-06T15:50:21.435Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Estadio Ciudad de Lanús - Néstor Díaz Pérez",
+        "address": "Ramón Cabrero",
+        "height": "2007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.383949240154664, -34.71767049454474]
+      },
+      "_id": "615f2064cdfcc50e7f9fd304",
+      "type": "Feature",
+      "createdAt": "2021-10-07T16:29:24.327Z",
+      "updatedAt": "2021-10-07T16:29:24.327Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Lanús Rugby Club",
+        "address": "Gral Ferré",
+        "height": "2699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.389230834406376, -34.71828893388202]
+      },
+      "_id": "615f2122e690b22a7efa6269",
+      "type": "Feature",
+      "createdAt": "2021-10-07T16:32:34.721Z",
+      "updatedAt": "2021-10-07T16:32:34.721Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Polideportivo Club Atlético Lanús",
+        "address": "Ramón Cabrero",
+        "height": "2000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.38558032464502, -34.71822909870201]
+      },
+      "_id": "615f23099226a83242e5549f",
+      "type": "Feature",
+      "createdAt": "2021-10-07T16:40:41.430Z",
+      "updatedAt": "2021-10-07T16:40:41.430Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Club Atlético Lanús - Anexo Dr Carlos González",
+        "address": "Ramón Cabrero",
+        "height": "1560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.38542871544496, -34.709922653655035]
+      },
+      "_id": "615f23739226a83242e554a7",
+      "type": "Feature",
+      "createdAt": "2021-10-07T16:42:27.587Z",
+      "updatedAt": "2021-10-07T16:42:27.587Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Club Atlético Lanús, Predio Valentin Alsina.",
+        "address": "Liniers",
+        "height": "3351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4165812, -34.6740748]
+      },
+      "_id": "615f2400b38a87c92a8e0004",
+      "type": "Feature",
+      "createdAt": "2021-10-07T16:44:48.240Z",
+      "updatedAt": "2021-10-07T16:44:48.240Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Estadio Club El Porvenir",
+        "address": "Manuel Blanco Encalada",
+        "height": "400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3854771, -34.6919621]
+      },
+      "_id": "615f24d5b38a87c92a8e000c",
+      "type": "Feature",
+      "createdAt": "2021-10-07T16:48:21.383Z",
+      "updatedAt": "2021-10-07T16:48:21.383Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Club Atlético Victoriano Arenas",
+        "address": "Paso de Burgos",
+        "height": "82"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4037906, -34.6665979]
+      },
+      "_id": "615f29e079e3a9d6d2bc7613",
+      "type": "Feature",
+      "createdAt": "2021-10-07T17:09:52.238Z",
+      "updatedAt": "2021-10-07T17:09:52.238Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "El Predio Del C.A. Talleres",
+        "address": " Barragán",
+        "height": "4400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3945897, -34.7259821]
+      },
+      "_id": "615f2a3379e3a9d6d2bc7620",
+      "type": "Feature",
+      "createdAt": "2021-10-07T17:11:15.005Z",
+      "updatedAt": "2021-10-07T17:11:15.005Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Club Atlético Talleres",
+        "address": "Timote",
+        "height": "3401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4044809, -34.7224226]
+      },
+      "_id": "615f2a8379e3a9d6d2bc7622",
+      "type": "Feature",
+      "createdAt": "2021-10-07T17:12:35.150Z",
+      "updatedAt": "2021-10-07T17:12:35.150Z",
+      "__v": 0
+    }
+  ]
+}

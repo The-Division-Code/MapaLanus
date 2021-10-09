@@ -1,9 +1,7 @@
 {
   "type": "FeatureCollection",
-  "name": "Instituciones de salud",
   "features": [
     {
-      "type": "Feature",
       "properties": {
         "name": "Unidad Sanitaria Luís A. Máspero",
         "public": true,
@@ -11,10 +9,13 @@
         "address": "Dr. Luís A. Máspero",
         "height": "75"
       },
-      "geometry": { "type": "Point", "coordinates": [-58.3957713, -34.7233359] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3957713, -34.7233359]
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "name": "Unidad Sanitaria Dr. Nicolás Natiello",
         "public": true,
@@ -25,10 +26,10 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.341508930007336, -34.731880335748755]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "name": "Unidad Sanitaria Monte Chingolo",
         "public": true,
@@ -39,10 +40,10 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.34725557796848, -34.72317726119389]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "name": "Unidad Sanitaria Lanús Oeste",
         "public": true,
@@ -53,10 +54,10 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.40222421359328, -34.7066285360019]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "name": "Unidad Sanitaria Miranda Norgreen",
         "public": true,
@@ -67,10 +68,10 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.43248188990433, -34.699167227905605]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "name": "Centro de Medicina Preventiva",
         "public": true,
@@ -81,10 +82,10 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.381433478806464, -34.71145191267291]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "name": "Unidad Sanitaria Gral San Martin",
         "public": true,
@@ -95,12 +96,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.359573914311355, -34.731480842252054]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Nro 4 Cosme Argerich",
+        "name": "Centro de Salud Nro 4 Cosme Argerich",
         "public": true,
         "dependence": "Municipal",
         "address": "General Alvear",
@@ -109,12 +110,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.36203858148272, -34.73779256413436]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Nro 10 Villa Obrera",
+        "name": "Centro de Salud Nro 10 Villa Obrera",
         "public": true,
         "dependence": "Municipal",
         "address": "Eva Perón",
@@ -123,12 +124,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.365063072756705, -34.71964448905928]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Nro 14 Barrio Los Ceibos",
+        "name": "Centro de Salud Nro 14 Barrio Los Ceibos",
         "public": true,
         "dependence": "Municipal",
         "address": "Centenario Uruguayo",
@@ -137,12 +138,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.37337675012812, -34.731751441984635]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Nro 20 Villa Independencia",
+        "name": "Centro de Salud Nro 20 Villa Independencia",
         "public": true,
         "dependence": "Municipal",
         "address": "Manuel Corvalan",
@@ -151,12 +152,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.36862184709313, -34.73950932079044]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Villa Barceló",
+        "name": "Centro de Salud Villa Barceló",
         "public": true,
         "dependence": "Municipal",
         "address": "Felix Alzaga",
@@ -165,12 +166,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.36451812934693, -34.73473942353314]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Nro 46",
+        "name": "Centro de Salud Nro 46",
         "public": true,
         "dependence": "Municipal",
         "address": "Luís Chorroarin",
@@ -179,23 +180,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.348228432750595, -34.725638155481704]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Gerli",
+        "name": "Centro de Salud Gerli",
         "public": true,
         "dependence": "Municipal",
         "address": "Coronel Burelas",
         "height": "2035"
       },
-      "geometry": { "type": "Point", "coordinates": [-58.3663876, -34.7016773] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3663876, -34.7016773]
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Nro 48 Villa Porá",
+        "name": "Centro de Salud Nro 48 Villa Porá",
         "public": true,
         "dependence": "Municipal",
         "address": "Tte. Coronel Bueras",
@@ -203,13 +207,13 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-58.358064696637626, -34.71037095153304]
-      }
+        "coordinates": [-58.357456100277886, -34.71075320652747]
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Nro 45 Villa Eslovena",
+        "name": "Centro de Salud Nro 45 Villa Eslovena",
         "public": true,
         "dependence": "Municipal",
         "address": "Colon",
@@ -218,12 +222,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.419920248503345, -34.71737548530704]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Dardo Rocha",
+        "name": "Centro de Salud Dardo Rocha",
         "public": true,
         "dependence": "Municipal",
         "address": "Dardo Rocha ",
@@ -232,12 +236,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.40946483735108, -34.719500356860905]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Nro 9 El Triángulo",
+        "name": "Centro de Salud Nro 9 El Triángulo",
         "public": true,
         "dependence": "Municipal",
         "address": "Coronel Osorio",
@@ -246,10 +250,10 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.425365230174805, -34.678090743956474]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "name": "Unidad Sanitaria Villa Jardín",
         "public": true,
@@ -260,10 +264,10 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.43189026525978, -34.67693794755654]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "name": "Unidad Sanitaria Valentín Alsina",
         "public": true,
@@ -274,12 +278,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.40998596300496, -34.671578271471205]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Nro 22 La Maquinita",
+        "name": "Centro de Salud Nro 22 La Maquinita",
         "public": true,
         "dependence": "Municipal",
         "address": "Presidente Raúl Alfonsín ",
@@ -288,12 +292,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.371516855506286, -34.7066175966067]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Ramón Carrillo",
+        "name": "Centro de Salud Ramón Carrillo",
         "public": true,
         "dependence": "Municipal",
         "address": "Marco Avellaneda",
@@ -302,12 +306,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.43201937865193, -34.6927029204881]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Arturo Illía",
+        "name": "Centro de Salud Arturo Illía",
         "public": true,
         "dependence": "Municipal",
         "address": "Emilio Castro",
@@ -316,12 +320,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.423571298295954, -34.68819469438855]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Juan Giardino",
+        "name": "Centro de Salud Juan Giardino",
         "public": true,
         "dependence": "Municipal",
         "address": "Molinedo",
@@ -330,12 +334,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.43411274339787, -34.68513345061614]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Nro 39 Villa Esperanza",
+        "name": "Centro de Salud Nro 39 Villa Esperanza",
         "public": true,
         "dependence": "Municipal",
         "address": "Gobernador Ugarte",
@@ -344,12 +348,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.41498188338117, -34.7201884743192]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Eva Perón",
+        "name": "Centro de Salud Eva Perón",
         "public": true,
         "dependence": "Municipal",
         "address": "Pasaje Eva Perón",
@@ -358,12 +362,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.439149930781376, -34.69615730381363]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
-        "name": "Centro de salud Nro 18 26 de Abril",
+        "name": "Centro de Salud Nro 18 26 de Abril",
         "public": true,
         "dependence": "Municipal",
         "address": "Av. Gral. Pinto",
@@ -372,10 +376,10 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.34832284014543, -34.73799999566271]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "name": "Unidad de Pronta atención (UPA)",
         "public": true,
@@ -383,10 +387,10 @@
         "address": "Osorio ",
         "height": "3000"
       },
-      "geometry": { "type": "Point", "coordinates": [-58.435055, -34.6807824] }
+      "geometry": { "type": "Point", "coordinates": [-58.435055, -34.6807824] },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "name": "Hospital interzonal de agudos Evita",
         "public": true,
@@ -394,10 +398,13 @@
         "address": "Río de Janeiro",
         "height": "1910"
       },
-      "geometry": { "type": "Point", "coordinates": [-58.3998531, -34.6963322] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3998531, -34.6963322]
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "name": "Hospital Zonal General Narciso Lopez",
         "public": true,
@@ -408,10 +415,10 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.38296764173165, -34.70423069287048]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "name": "Hospital Local General de Agudos Dr. Arturo Melo",
         "public": true,
@@ -422,10 +429,10 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.385230829691, -34.72581556137689]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "name": "Hospital Zonal Especializado en Oncología de Lanús",
         "public": true,
@@ -436,7 +443,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-58.38264167900803, -34.703424827121545]
-      }
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Clínica Modelo",
+        "public": false,
+        "address": "Av. Hipólito Yrigoyen",
+        "height": "4835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.39247332706906, -34.71089161074097]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Clínica Estrada",
+        "public": false,
+        "address": "Estrada",
+        "height": "4258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.39526016246644, -34.73276795778966]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Clínica Cruz Blanca",
+        "public": false,
+        "address": "Aristóbulo del Valle",
+        "height": "133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.393611523693515, -34.70455564006575]
+      },
+      "type": "Feature"
     }
   ]
 }

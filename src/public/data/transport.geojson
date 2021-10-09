@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "name": "Estación Lanús",
+        "type": "Trenes",
+        "address": "Hipólito Yrigoyen",
+        "height": "4520"
+      },
+      "geometry": { "type": "Point", "coordinates": [-34.707195, -58.391263] },
+      "_id": "613637515c301dd59344154f",
+      "type": "Feature",
+      "createdAt": "2021-09-06T15:44:17.221Z",
+      "updatedAt": "2021-09-06T15:44:17.221Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Estación Remedios de Escalada",
+        "type": "Trenes",
+        "address": "Hipólito Yrigoyen",
+        "height": "6214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.39358017877595, -34.72710675577347]
+      },
+      "_id": "613637555c301dd593441551",
+      "type": "Feature",
+      "createdAt": "2021-09-06T15:44:21.066Z",
+      "updatedAt": "2021-09-06T15:44:21.066Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Estación Lanús",
+        "type": "Trenes",
+        "address": "29 de Septiembre",
+        "height": "1988"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3906007756313, -34.70741064601744]
+      },
+      "_id": "615f2b94f2a7f1d6d6b9c114",
+      "type": "Feature",
+      "createdAt": "2021-10-07T17:17:08.064Z",
+      "updatedAt": "2021-10-07T17:17:08.064Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Estación Gerli",
+        "type": "Trenes",
+        "address": "Teodoro Sánchez de Bustamante",
+        "height": "299"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.38317935193153, -34.686809839757125]
+      },
+      "_id": "615f2c7df2a7f1d6d6b9c11c",
+      "type": "Feature",
+      "createdAt": "2021-10-07T17:21:01.826Z",
+      "updatedAt": "2021-10-07T17:21:01.826Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Terminal Linea 45",
+        "type": "Colectivos",
+        "address": "14 de Julio",
+        "height": "4100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4050839, -34.7187488]
+      },
+      "_id": "615f2cd5f2a7f1d6d6b9c11e",
+      "type": "Feature",
+      "createdAt": "2021-10-07T17:22:29.705Z",
+      "updatedAt": "2021-10-07T17:22:29.705Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Terminal Linea 9",
+        "type": "Colectivos",
+        "address": " Rivadavia",
+        "height": "3069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4259036, -34.6931057]
+      },
+      "_id": "615f2dd5f2a7f1d6d6b9c120",
+      "type": "Feature",
+      "createdAt": "2021-10-07T17:26:45.886Z",
+      "updatedAt": "2021-10-07T17:26:45.886Z",
+      "__v": 0
+    },
+    {
+      "properties": {
+        "name": "Terminal Linea 100",
+        "type": "Colectivos",
+        "address": "Centenario Uruguayo",
+        "height": "3331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4259036, -34.6931057]
+      },
+      "_id": "615f30ff28c025cada3758a2",
+      "type": "Feature",
+      "createdAt": "2021-10-07T17:40:15.903Z",
+      "updatedAt": "2021-10-07T17:40:15.903Z",
+      "__v": 0
+    }
+  ]
+}
