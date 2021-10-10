@@ -484,6 +484,22 @@
         "coordinates": [-58.393611523693515, -34.70455564006575]
       },
       "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Policlínica Antártida",
+        "public": false,
+        "address": "Ituzaingó",
+        "height": "1354"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -58.3870939,
+            -34.7086607
+        ]
+    },
+    "type": "Feature"
     }
   ]
 }

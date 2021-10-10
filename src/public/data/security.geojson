@@ -1,254 +1,485 @@
 {
   "type": "FeatureCollection",
   "features": [
-    {
-      "properties": {
-        "name": "Comisaría 2da",
-        "tipo": "Comisaría",
-        "address": "Gral. Bernardo O'Higgins",
-        "height": "1861"
+      {
+          "properties": {
+              "name": "Comisaría 2da",
+              "tipo": "Comisaría",
+              "address": "Gral. Bernardo O'Higgins",
+              "height": "1861"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.38728467191639,
+                  -34.70818768648149
+              ]
+          },
+          "_id": "61363b9673a66c2aef7e510c",
+          "type": "Feature",
+          "createdAt": "2021-09-06T16:02:30.062Z",
+          "updatedAt": "2021-09-06T16:02:30.062Z",
+          "__v": 0
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-58.38728467191639, -34.70818768648149]
+      {
+          "properties": {
+              "name": "Bomberos Voluntarios Lanús Este",
+              "tipo": "Cuartel de Bomberos",
+              "address": "Av. Pres. Raúl Alfonsín",
+              "height": "1035"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.38096205181964,
+                  -34.698739221190195
+              ]
+          },
+          "_id": "61363bd673a66c2aef7e5115",
+          "type": "Feature",
+          "createdAt": "2021-09-06T16:03:34.662Z",
+          "updatedAt": "2021-09-06T16:03:34.662Z",
+          "__v": 0
       },
-      "_id": "61363b9673a66c2aef7e510c",
-      "type": "Feature",
-      "createdAt": "2021-09-06T16:02:30.062Z",
-      "updatedAt": "2021-09-06T16:02:30.062Z",
-      "__v": 0
-    },
-    {
-      "properties": {
-        "name": "Bomberos Voluntarios Lanús Este",
-        "tipo": "Cuartel de Bomberos",
-        "address": "Av. Pres. Raúl Alfonsín",
-        "height": "1035"
+      {
+          "properties": {
+              "name": "Comisaría 1ra",
+              "tipo": "Comisaría",
+              "address": "Del Valle Iberlucía",
+              "height": "2818"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.39295924282571,
+                  -34.70402360266506
+              ]
+          },
+          "_id": "61423022e4483ac0f28fafc4",
+          "type": "Feature",
+          "createdAt": "2021-09-15T17:40:50.442Z",
+          "updatedAt": "2021-09-15T17:40:50.442Z",
+          "__v": 0
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-58.38096205181964, -34.698739221190195]
+      {
+          "properties": {
+              "name": "Comisaría 3ra",
+              "tipo": "Comisaría",
+              "address": "Yatay",
+              "height": "553"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.4117628,
+                  -34.6672911
+              ]
+          },
+          "_id": "614230dbe4483ac0f28fafc6",
+          "type": "Feature",
+          "createdAt": "2021-09-15T17:43:55.622Z",
+          "updatedAt": "2021-09-15T17:43:55.622Z",
+          "__v": 0
       },
-      "_id": "61363bd673a66c2aef7e5115",
-      "type": "Feature",
-      "createdAt": "2021-09-06T16:03:34.662Z",
-      "updatedAt": "2021-09-06T16:03:34.662Z",
-      "__v": 0
-    },
-    {
-      "properties": {
-        "name": "Comisaría 1ra",
-        "tipo": "Comisaría",
-        "address": "Del Valle Iberlucía",
-        "height": "2818"
+      {
+          "properties": {
+              "name": "Comisaría 4ta",
+              "tipo": "Comisaría",
+              "address": "Máspero",
+              "height": "99"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.3959101,
+                  -34.7232217
+              ]
+          },
+          "_id": "61423114e4483ac0f28fafc8",
+          "type": "Feature",
+          "createdAt": "2021-09-15T17:44:52.025Z",
+          "updatedAt": "2021-09-15T17:44:52.025Z",
+          "__v": 0
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-58.39295924282571, -34.70402360266506]
+      {
+          "properties": {
+              "name": "Comisaría 5ta",
+              "tipo": "Comisaría",
+              "address": "Warnes",
+              "height": "3077"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.4232624,
+                  -34.6841371
+              ]
+          },
+          "_id": "6142314ee4483ac0f28fafca",
+          "type": "Feature",
+          "createdAt": "2021-09-15T17:45:50.796Z",
+          "updatedAt": "2021-09-15T17:45:50.796Z",
+          "__v": 0
       },
-      "_id": "61423022e4483ac0f28fafc4",
-      "type": "Feature",
-      "createdAt": "2021-09-15T17:40:50.442Z",
-      "updatedAt": "2021-09-15T17:40:50.442Z",
-      "__v": 0
-    },
-    {
-      "properties": {
-        "name": "Comisaría 3ra",
-        "tipo": "Comisaría",
-        "address": "Yatay",
-        "height": "553"
+      {
+          "properties": {
+              "name": "Comisaría 6ta",
+              "tipo": "Comisaría",
+              "address": "Monasterio",
+              "height": "1455"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.3477492,
+                  -34.7320452
+              ]
+          },
+          "_id": "6142317fe4483ac0f28fafcc",
+          "type": "Feature",
+          "createdAt": "2021-09-15T17:46:39.844Z",
+          "updatedAt": "2021-09-15T17:46:39.844Z",
+          "__v": 0
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-58.4117628, -34.6672911]
+      {
+          "properties": {
+              "name": "Comisaría 7ma",
+              "tipo": "Comisaría",
+              "address": "Coronel D’Elía",
+              "height": "1745"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.4087724,
+                  -34.6903199
+              ]
+          },
+          "_id": "614231cbe4483ac0f28fafcf",
+          "type": "Feature",
+          "createdAt": "2021-09-15T17:47:55.062Z",
+          "updatedAt": "2021-09-15T17:47:55.062Z",
+          "__v": 0
       },
-      "_id": "614230dbe4483ac0f28fafc6",
-      "type": "Feature",
-      "createdAt": "2021-09-15T17:43:55.622Z",
-      "updatedAt": "2021-09-15T17:43:55.622Z",
-      "__v": 0
-    },
-    {
-      "properties": {
-        "name": "Comisaría 4ta",
-        "tipo": "Comisaría",
-        "address": "Máspero",
-        "height": "99"
+      {
+          "properties": {
+              "name": "Comisaría 8va",
+              "tipo": "Comisaría",
+              "address": "General Pico",
+              "height": "1835"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.3662043,
+                  -34.7228543
+              ]
+          },
+          "_id": "614231fbe4483ac0f28fafd1",
+          "type": "Feature",
+          "createdAt": "2021-09-15T17:48:43.832Z",
+          "updatedAt": "2021-09-15T17:48:43.832Z",
+          "__v": 0
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-58.3959101, -34.7232217]
+      {
+          "properties": {
+              "name": "Comisaría 9na",
+              "tipo": "Comisaría",
+              "address": "Enrique Fernandez",
+              "height": "3535"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.4216397,
+                  -34.7015136
+              ]
+          },
+          "_id": "61423264e4483ac0f28fafd3",
+          "type": "Feature",
+          "createdAt": "2021-09-15T17:50:28.752Z",
+          "updatedAt": "2021-09-15T17:50:28.752Z",
+          "__v": 0
       },
-      "_id": "61423114e4483ac0f28fafc8",
-      "type": "Feature",
-      "createdAt": "2021-09-15T17:44:52.025Z",
-      "updatedAt": "2021-09-15T17:44:52.025Z",
-      "__v": 0
-    },
-    {
-      "properties": {
-        "name": "Comisaría 5ta",
-        "tipo": "Comisaría",
-        "address": "Warnes",
-        "height": "3077"
+      {
+          "properties": {
+              "name": "Comisaría 10ma",
+              "tipo": "Comisaría",
+              "address": "Coronel Aguilar",
+              "height": "3635"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.3748647,
+                  -34.7366332
+              ]
+          },
+          "_id": "614232cce4483ac0f28fafd5",
+          "type": "Feature",
+          "createdAt": "2021-09-15T17:52:12.417Z",
+          "updatedAt": "2021-09-15T17:52:12.417Z",
+          "__v": 0
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-58.4232624, -34.6841371]
+      {
+          "properties": {
+              "name": "Comisaría de la Mujer",
+              "tipo": "Comisaría de la Mujer",
+              "address": "Coronel Aguilar",
+              "height": "2333"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.388528,
+                  -34.7260079
+              ]
+          },
+          "_id": "614233e7e4483ac0f28fafd7",
+          "type": "Feature",
+          "createdAt": "2021-09-15T17:56:55.295Z",
+          "updatedAt": "2021-09-15T17:56:55.295Z",
+          "__v": 0
       },
-      "_id": "6142314ee4483ac0f28fafca",
-      "type": "Feature",
-      "createdAt": "2021-09-15T17:45:50.796Z",
-      "updatedAt": "2021-09-15T17:45:50.796Z",
-      "__v": 0
-    },
-    {
-      "properties": {
-        "name": "Comisaría 6ta",
-        "tipo": "Comisaría",
-        "address": "Monasterio",
-        "height": "1455"
+      {
+          "properties": {
+              "name": "Bomberos Voluntarios de Lanús Oeste",
+              "tipo": "Cuartel de Bomberos",
+              "address": "Jose María Moreno",
+              "height": "857"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.403625057144396,
+                  -34.70106593833954
+              ]
+          },
+          "_id": "6142352ae4483ac0f28fafd9",
+          "type": "Feature",
+          "createdAt": "2021-09-15T18:02:18.752Z",
+          "updatedAt": "2021-09-15T18:02:18.752Z",
+          "__v": 0
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-58.3477492, -34.7320452]
+      {
+          "properties": {
+              "name": "Destacamento de Bomberos Valentín Alsina",
+              "tipo": "Cuartel de Bomberos",
+              "address": "Chile",
+              "height": "1758"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.4044836,
+                  -34.6652085
+              ]
+          },
+          "_id": "614235c1e4483ac0f28fafdb",
+          "type": "Feature",
+          "createdAt": "2021-09-15T18:04:49.588Z",
+          "updatedAt": "2021-09-15T18:04:49.588Z",
+          "__v": 0
       },
-      "_id": "6142317fe4483ac0f28fafcc",
-      "type": "Feature",
-      "createdAt": "2021-09-15T17:46:39.844Z",
-      "updatedAt": "2021-09-15T17:46:39.844Z",
-      "__v": 0
-    },
-    {
-      "properties": {
-        "name": "Comisaría 7ma",
-        "tipo": "Comisaría",
-        "address": "Coronel D’Elía",
-        "height": "1745"
+      {
+          "properties": {
+              "name": "Destacamento de Bomberos de Remedios de Escalada",
+              "tipo": "Cuartel de Bomberos",
+              "address": "Sebastian Gaboto",
+              "height": "3721"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.4091971,
+                  -34.723453
+              ]
+          },
+          "_id": "6142360ce4483ac0f28fafdd",
+          "type": "Feature",
+          "createdAt": "2021-09-15T18:06:04.726Z",
+          "updatedAt": "2021-09-15T18:06:04.726Z",
+          "__v": 0
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-58.4087724, -34.6903199]
+      {
+          "properties": {
+              "name": "Juzgado Civil N°1 Lanús",
+              "tipo": "Juzgado",
+              "address": "29 de Septiembre",
+              "height": "1890"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.389876,
+                  -34.7064618
+              ]
+          },
+          "_id": "616232f340ee1cc0a132d57f",
+          "type": "Feature",
+          "createdAt": "2021-10-10T00:25:23.964Z",
+          "updatedAt": "2021-10-10T00:25:23.964Z",
+          "__v": 0
       },
-      "_id": "614231cbe4483ac0f28fafcf",
-      "type": "Feature",
-      "createdAt": "2021-09-15T17:47:55.062Z",
-      "updatedAt": "2021-09-15T17:47:55.062Z",
-      "__v": 0
-    },
-    {
-      "properties": {
-        "name": "Comisaría 8va",
-        "tipo": "Comisaría",
-        "address": "General Pico",
-        "height": "1835"
+      {
+          "properties": {
+              "name": "Juzgado De Familia Lanús",
+              "tipo": "Juzgado",
+              "address": "Pichincha",
+              "height": "55"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.3900436,
+                  -34.6952227
+              ]
+          },
+          "_id": "6162332f40ee1cc0a132d581",
+          "type": "Feature",
+          "createdAt": "2021-10-10T00:26:23.834Z",
+          "updatedAt": "2021-10-10T00:26:23.834Z",
+          "__v": 0
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-58.3662043, -34.7228543]
+      {
+          "properties": {
+              "name": "Juzgado Civil Y Comercial N°2 Lanus",
+              "tipo": "Juzgado",
+              "address": "Carlos Tejedor",
+              "height": "283"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.3955726,
+                  -34.7023815
+              ]
+          },
+          "_id": "6162336a40ee1cc0a132d583",
+          "type": "Feature",
+          "createdAt": "2021-10-10T00:27:22.139Z",
+          "updatedAt": "2021-10-10T00:27:22.139Z",
+          "__v": 0
       },
-      "_id": "614231fbe4483ac0f28fafd1",
-      "type": "Feature",
-      "createdAt": "2021-09-15T17:48:43.832Z",
-      "updatedAt": "2021-09-15T17:48:43.832Z",
-      "__v": 0
-    },
-    {
-      "properties": {
-        "name": "Comisaría 9na",
-        "tipo": "Comisaría",
-        "address": "Enrique Fernandez",
-        "height": "3535"
+      {
+          "properties": {
+              "name": "Tribunales de Trabajo de Lanús",
+              "tipo": "Juzgado",
+              "address": "Hipólito Yrigoyen",
+              "height": "3268"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.3900002,
+                  -34.6937407
+              ]
+          },
+          "_id": "616233af40ee1cc0a132d585",
+          "type": "Feature",
+          "createdAt": "2021-10-10T00:28:31.314Z",
+          "updatedAt": "2021-10-10T00:28:31.314Z",
+          "__v": 0
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-58.4216397, -34.7015136]
+      {
+          "properties": {
+              "name": "Poder Judicial Juzgados De Garantías",
+              "tipo": "Juzgado",
+              "address": "Hipólito Yrigoyen",
+              "height": "3940"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.391796,
+                  -34.7004605
+              ]
+          },
+          "_id": "616233d940ee1cc0a132d587",
+          "type": "Feature",
+          "createdAt": "2021-10-10T00:29:13.033Z",
+          "updatedAt": "2021-10-10T00:29:13.033Z",
+          "__v": 0
       },
-      "_id": "61423264e4483ac0f28fafd3",
-      "type": "Feature",
-      "createdAt": "2021-09-15T17:50:28.752Z",
-      "updatedAt": "2021-09-15T17:50:28.752Z",
-      "__v": 0
-    },
-    {
-      "properties": {
-        "name": "Comisaría 10ma",
-        "tipo": "Comisaría",
-        "address": "Coronel Aguilar",
-        "height": "3635"
+      {
+          "properties": {
+              "name": "Juzgado en lo Civil y Comercial Nº 1",
+              "tipo": "Juzgado",
+              "address": "29 de septiembre",
+              "height": "1890"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.389876,
+                  -34.7064618
+              ]
+          },
+          "_id": "6162343b40ee1cc0a132d58a",
+          "type": "Feature",
+          "createdAt": "2021-10-10T00:30:51.095Z",
+          "updatedAt": "2021-10-10T00:30:51.095Z",
+          "__v": 0
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-58.3748647, -34.7366332]
+      {
+          "properties": {
+              "name": "Tribunal de Faltas de la Municipalidad de Lanus",
+              "tipo": "Juzgado",
+              "address": "Llavallol",
+              "height": "333"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.3963255,
+                  -34.7034672
+              ]
+          },
+          "_id": "6162349840ee1cc0a132d58d",
+          "type": "Feature",
+          "createdAt": "2021-10-10T00:32:24.638Z",
+          "updatedAt": "2021-10-10T00:32:24.638Z",
+          "__v": 0
       },
-      "_id": "614232cce4483ac0f28fafd5",
-      "type": "Feature",
-      "createdAt": "2021-09-15T17:52:12.417Z",
-      "updatedAt": "2021-09-15T17:52:12.417Z",
-      "__v": 0
-    },
-    {
-      "properties": {
-        "name": "Comisaría de la Mujer",
-        "tipo": "Comisaría de la Mujer",
-        "address": "Coronel Aguilar",
-        "height": "2333"
+      {
+          "properties": {
+              "name": "Fiscalias De Lanús",
+              "tipo": "Juzgado",
+              "address": "Hipólito Yrigoyen",
+              "height": "3946"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.3917936,
+                  -34.7005306
+              ]
+          },
+          "_id": "616235d540ee1cc0a132d58f",
+          "type": "Feature",
+          "createdAt": "2021-10-10T00:37:41.830Z",
+          "updatedAt": "2021-10-10T00:37:41.830Z",
+          "__v": 0
       },
-      "geometry": { "type": "Point", "coordinates": [-58.388528, -34.7260079] },
-      "_id": "614233e7e4483ac0f28fafd7",
-      "type": "Feature",
-      "createdAt": "2021-09-15T17:56:55.295Z",
-      "updatedAt": "2021-09-15T17:56:55.295Z",
-      "__v": 0
-    },
-    {
-      "properties": {
-        "name": "Bomberos Voluntarios de Lanús Oeste",
-        "tipo": "Cuartel de Bomberos",
-        "address": "Jose María Moreno",
-        "height": "857"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-58.403625057144396, -34.70106593833954]
-      },
-      "_id": "6142352ae4483ac0f28fafd9",
-      "type": "Feature",
-      "createdAt": "2021-09-15T18:02:18.752Z",
-      "updatedAt": "2021-09-15T18:02:18.752Z",
-      "__v": 0
-    },
-    {
-      "properties": {
-        "name": "Destacamento de Bomberos Valentín Alsina",
-        "tipo": "Cuartel de Bomberos",
-        "address": "Chile",
-        "height": "1758"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-58.4044836, -34.6652085]
-      },
-      "_id": "614235c1e4483ac0f28fafdb",
-      "type": "Feature",
-      "createdAt": "2021-09-15T18:04:49.588Z",
-      "updatedAt": "2021-09-15T18:04:49.588Z",
-      "__v": 0
-    },
-    {
-      "properties": {
-        "name": "Destacamento de Bomberos de Remedios de Escalada",
-        "tipo": "Cuartel de Bomberos",
-        "address": "Sebastian Gaboto",
-        "height": "3721"
-      },
-      "geometry": { "type": "Point", "coordinates": [-58.4091971, -34.723453] },
-      "_id": "6142360ce4483ac0f28fafdd",
-      "type": "Feature",
-      "createdAt": "2021-09-15T18:06:04.726Z",
-      "updatedAt": "2021-09-15T18:06:04.726Z",
-      "__v": 0
-    }
+      {
+          "properties": {
+              "name": "Juzgado Civil Y Comercial N° 3",
+              "tipo": "Juzgado",
+              "address": "José Mármol",
+              "height": "20"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  -58.39344,
+                  -34.7146059
+              ]
+          },
+          "_id": "6162361140ee1cc0a132d591",
+          "type": "Feature",
+          "createdAt": "2021-10-10T00:38:41.688Z",
+          "updatedAt": "2021-10-10T00:38:41.688Z",
+          "__v": 0
+      }
   ]
 }

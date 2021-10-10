@@ -160,6 +160,25 @@
       "createdAt": "2021-10-07T17:12:35.150Z",
       "updatedAt": "2021-10-07T17:12:35.150Z",
       "__v": 0
-    }
+    },
+    {
+      "properties": {
+          "name": "Predio Club Porvenir",
+          "address": "Oncativo",
+          "height": "2401"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -58.3901664,
+              -34.7135247
+          ]
+      },
+      "_id": "61622fe140ee1cc0a132d575",
+      "type": "Feature",
+      "createdAt": "2021-10-10T00:12:17.547Z",
+      "updatedAt": "2021-10-10T00:12:17.547Z",
+      "__v": 0
+  }
   ]
 }
