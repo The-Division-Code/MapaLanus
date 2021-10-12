@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458331 26.458334"
+   version="1.1"
+   id="svg1029"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="Ejemplo tradicional hospital.svg">
+  <defs
+     id="defs1023" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-67.185348"
+     inkscape:cy="35.58699"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1026">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54162)">
+    <g
+       transform="matrix(0.35277777,0,0,-0.35277777,-2.9772201,378.62674)"
+       id="g1160">
+      <g
+         id="g981">
+        <path
+           inkscape:connector-curvature="0"
+           id="path320"
+           style="fill:#e9401b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.16091035"
+           d="m 69.480213,279.70987 c 0,13.00478 -10.538984,23.5428 -23.54054,23.5428 V 292.388 c 7.000083,0 12.679092,-5.67209 12.679092,-12.67813 0,-6.99799 -5.679009,-12.67812 -12.679092,-12.67812 v -10.85823 -21.66014 c 0,0 11.109733,17.75967 15.29839,23.74393 9.307698,13.28797 8.24215,21.45256 8.24215,21.45256" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path322"
+           style="fill:#f16a4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.16091035"
+           d="m 45.939673,292.388 v 10.86467 c -12.999947,0 -23.541344,-10.53802 -23.541344,-23.5428 0,0 -1.063618,-8.16459 8.246011,-21.45256 4.188014,-5.98426 15.295333,-23.74393 15.295333,-23.74393 v 21.66014 10.85823 c -7.000887,0 -12.675551,5.68013 -12.675551,12.67812 0,7.00604 5.674664,12.67813 12.675551,12.67813" />
+      </g>
+      <circle
+         r="19.153227"
+         transform="scale(1,-1)"
+         cy="-278.2258"
+         cx="45.939365"
+         id="path977"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.29139066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="text985"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.35847473px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-107.76482391px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e9401b;fill-opacity:1;stroke:none;stroke-width:1.07764828"
+         transform="matrix(0.8281302,0,0,-0.8281302,7.8955899,47.81862)"
+         aria-label="H">
+        <path
+           id="path1127"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';letter-spacing:0px;fill:#e9401b;fill-opacity:1;stroke-width:1.07764828"
+           d="m 57.669926,-291.48805 v 26.52452 h -7.284902 v -10.38566 h -8.891317 v 10.38566 h -7.284903 v -26.52452 h 7.284903 v 9.78792 h 8.891317 v -9.78792 z"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

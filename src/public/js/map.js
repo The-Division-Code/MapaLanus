@@ -4,11 +4,11 @@ window.addEventListener("load", function () {
 
 function onEachFeature(feature, layer) {
   // does this feature have a property named popupContent?
-  // if (feature.properties) {
+  if (feature.properties) {
   return layer.bindPopup(
     `<h3>${feature.properties.name}</h3><span>Dirección: ${feature.properties.address} ${feature.properties.height}</span>`
   );
-  // }
+ }
 }
 // var quilmes = L.marker([-34.730302,  -58.268868]).bindPopup('This is Quilmes, CO.'),
 //     lomas    = L.marker([-34.7572582, -58.4026638]).bindPopup('This is Lomas, CO.'),
@@ -36,19 +36,19 @@ async function setMap() {
   });
 
   var healthIconProvincial = new L.icon({
-    iconUrl: "/img/health.svg",
+    iconUrl: "/img/Hospitales.svg",
     iconSize: [80, 40],
     shadowSize: [68, 95],
     shadowAnchor: [22, 94],
   });
   var healthIconMunicipal = new L.icon({
-    iconUrl: "/img/health2.svg",
+    iconUrl: "/img/Centros_de_salud.svg",
     iconSize: [80, 40],
     shadowSize: [68, 95],
     shadowAnchor: [22, 94],
   });
   var healthIconPrivate = new L.icon({
-    iconUrl: "/img/healthPrivate.svg",
+    iconUrl: "/img/Clinica_privada.svg",
     iconSize: [80, 40],
     shadowSize: [68, 95],
     shadowAnchor: [22, 94],

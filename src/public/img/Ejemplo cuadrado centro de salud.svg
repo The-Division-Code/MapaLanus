@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458331 26.458334"
+   version="1.1"
+   id="svg1029"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="Ejemplo cuadrado centro de salud.svg">
+  <defs
+     id="defs1023" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="41.658588"
+     inkscape:cy="-11.428571"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1026">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54162)">
+    <g
+       id="g1047"
+       transform="translate(-0.26794463,-0.26659833)">
+      <path
+         d="m 8.8599298,285.26293 c -0.733298,0 -1.3266688,-0.59491 -1.3266688,-1.32713 v -8.70551 c 0,-0.73353 0.5933708,-1.32599 1.3266688,-1.32599 h 4.6366142 v -2.22873 H 7.0396843 c -1.0197937,0 -1.8470957,0.82662 -1.8470957,1.84596 v 12.12348 c 0,1.02065 0.827302,1.84733 1.8470957,1.84733 h 3.7698027 l 1.087402,3.60393 1.599655,5.30293 V 285.26293 H 8.8599298"
+         style="fill:#f16a4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.05676559"
+         id="path510"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19.954708,271.67557 h -6.458164 v 2.22873 h 4.637919 c 0.731936,0 1.326442,0.59246 1.326442,1.32599 v 8.70551 c 0,0.73222 -0.594506,1.32713 -1.326442,1.32713 h -4.637919 v 11.13627 l 1.601186,-5.30293 1.087403,-3.60393 h 3.769575 c 1.019567,0 1.846926,-0.82668 1.846926,-1.84733 v -12.12348 c 0,-1.01934 -0.827359,-1.84596 -1.846926,-1.84596"
+         style="fill:#e9401b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.05676559"
+         id="path512"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text985-3"
+         y="288.37418"
+         x="8.1504116"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.17923927px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-38.01703644px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e9401b;fill-opacity:1;stroke:none;stroke-width:0.38017038"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';letter-spacing:0px;fill:#e9401b;fill-opacity:1;stroke-width:0.38017038"
+           y="288.37418"
+           x="8.1504116"
+           id="tspan983-6"
+           sodipodi:role="line">+</tspan></text>
+    </g>
+  </g>
+</svg>
