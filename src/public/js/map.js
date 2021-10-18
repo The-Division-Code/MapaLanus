@@ -23,6 +23,7 @@ let education_url ="/data/education.geojson";
 let health_url = "/data/health.geojson";
 let security_url = "/data/security.geojson";
 let transport_url ="/data/transport.geojson";
+let municipal_dependence_url ="/data/municipalDep.geojson";
 
 //Si deja de funcionar probar con esto
 // async function setMap(healthData) {
@@ -105,6 +106,7 @@ async function setMap() {
   var fDistricts = fetch(districts_url);
   var fCircuit = fetch(electorals_circuit_url);
   var fLocations = fetch(locations_url);
+  var fMunicDep = fetch(municipal_dependence_url);
 
   var arr = Promise.all([
     fClub,
@@ -115,9 +117,10 @@ async function setMap() {
     fPolygonLanus,
     fDistricts,
     fCircuit,
-    fLocations
+    fLocations,
+    fMunicDep
   ])
-    .then(async ([fcl, fed, fhe, fse, ftr, fpl, fdt, fci,flo]) => {
+    .then(async ([fcl, fed, fhe, fse, ftr, fpl, fdt, fci,flo,fmd]) => {
       var fc = await fcl.json();
       var fe = await fed.json();
       var fh = await fhe.json();
@@ -127,7 +130,8 @@ async function setMap() {
       var fd = await fdt.json();
       var fcir = await fci.json();
       var fl = await flo.json();
-      return [fc, fe, fh, fs, ft, fp, fd, fcir, fl];
+      var fm = await fmd.json();
+      return [fc, fe, fh, fs, ft, fp, fd, fcir, fl,fm];
     })
     .then(
       ([
@@ -139,7 +143,8 @@ async function setMap() {
         polygonData,
         districtData,
         circuitData,
-        locationData
+        locationData,
+        municipalDependenceData
       ]) => {
         var club = L.geoJSON(clubData, {
           data: clubData,
@@ -235,6 +240,11 @@ async function setMap() {
           onEachFeature: onEachFeature,
         })
 
+
+        var MunicipalDependence = L.geoJSON(municipalDependenceData, {
+          data: municipalDependenceData,
+          onEachFeature: onEachFeature,
+        })
         // var polygonLanus = L.geoJSON(polygonData, {
         //   data: polygonData,
         //   color: "red",
@@ -249,7 +259,7 @@ async function setMap() {
           fillColor: "silver",
           fillOpacity: 0.3,
           weight: 1,
-        }).addTo(map)
+        })
 
         // var circuitLanus = L.geoJSON(circuitData, {
         //   data: circuitData,
@@ -265,10 +275,11 @@ async function setMap() {
           fillColor: "silver",
           fillOpacity: 0.3,
           weight: 1,
-        })
+        }).addTo(map)
 
         var overLayers = {
           Clubes: club,
+          "Dependencias Municipales": MunicipalDependence,
           "Educación Inicial": initialEducation,
           "Escuelas Primarias": primaryEducation,
           "Escuelas Secundarias": hightSchollEducation,

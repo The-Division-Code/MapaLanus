@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "name": "Palacio Municipal de Lanús",
+        "address": " Hipolito Yrigoyen",
+        "height": "3863"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3926997, -34.6991471]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Concejo Deliberante de Lanús",
+        "address": "9 de Julio",
+        "height": "1647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3853005, -34.7115561]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Desarrollo Social Lanús",
+        "address": "Dr. Melo",
+        "height": "1685"
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.3936315, -34.698215] },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Delegación Municipal Monte Chingolo",
+        "address": "Pitágoras",
+        "height": "4500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3492898, -34.7318839]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Delegación Municipal de Villa Caraza",
+        "address": "Aristóbulo del Valle",
+        "height": "2103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4208299, -34.6961305]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Delegación Municipal de Valentín Alsina",
+        "address": "Tuyutí",
+        "height": "2153 "
+      },
+      "geometry": { "type": "Point", "coordinates": [-58.4032702, -34.678014] },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Delegación Municipal de Remedios de Escalada",
+        "address": "Achaval",
+        "height": "2885"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3830609, -34.7312886]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Clínica Veterinaria Municipal de Lanús",
+        "address": "Pitágoras",
+        "height": "4302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3492898, -34.7318839]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Casa de la Cultura del Municipio de Lanús",
+        "address": "Sarmiento",
+        "height": "1703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.38807517409053, -34.70551808209232]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Museo Juan Piñeiro",
+        "address": "Dr. Melo",
+        "height": "2877"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3945718, -34.7052621]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "CENTRO CULTURAL LEONARDO FAVIO",
+        "address": "25 de Mayo",
+        "height": "131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.3935222, -34.7079773]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "Sede de Licencias de Conducir Lanús",
+        "address": "29 de Septiembre",
+        "height": "3130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.39239669258713, -34.720523338953704]
+      },
+      "type": "Feature"
+    }
+  ]
+}
