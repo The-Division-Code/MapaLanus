@@ -138,6 +138,18 @@
         "coordinates": [-58.39239669258713, -34.720523338953704]
       },
       "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nido Jardín",
+        "address": "J. M. Moreno",
+        "height": "3864"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.4323514, -34.6781838]
+      }
     }
   ]
 }
