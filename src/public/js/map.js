@@ -24,6 +24,7 @@ let health_url = "/data/health.geojson";
 let security_url = "/data/security.geojson";
 let transport_url ="/data/transport.geojson";
 let municipal_dependence_url ="/data/municipalDep.geojson";
+let square_park_url = "/data/square&Park.geojson"
 
 //Si deja de funcionar probar con esto
 // async function setMap(healthData) {
@@ -107,6 +108,7 @@ async function setMap() {
   var fCircuit = fetch(electorals_circuit_url);
   var fLocations = fetch(locations_url);
   var fMunicDep = fetch(municipal_dependence_url);
+  var fsquarePark = fetch(square_park_url)
 
   var arr = Promise.all([
     fClub,
@@ -118,9 +120,10 @@ async function setMap() {
     fDistricts,
     fCircuit,
     fLocations,
-    fMunicDep
+    fMunicDep,
+    fsquarePark
   ])
-    .then(async ([fcl, fed, fhe, fse, ftr, fpl, fdt, fci,flo,fmd]) => {
+    .then(async ([fcl, fed, fhe, fse, ftr, fpl, fdt, fci,flo,fmd,fsp]) => {
       var fc = await fcl.json();
       var fe = await fed.json();
       var fh = await fhe.json();
@@ -131,7 +134,8 @@ async function setMap() {
       var fcir = await fci.json();
       var fl = await flo.json();
       var fm = await fmd.json();
-      return [fc, fe, fh, fs, ft, fp, fd, fcir, fl,fm];
+      var fsp = await fsp.json();
+      return [fc, fe, fh, fs, ft, fp, fd, fcir, fl,fm, fsp];
     })
     .then(
       ([
@@ -144,7 +148,8 @@ async function setMap() {
         districtData,
         circuitData,
         locationData,
-        municipalDependenceData
+        municipalDependenceData,
+        squareParkData
       ]) => {
         var club = L.geoJSON(clubData, {
           data: clubData,
@@ -261,6 +266,16 @@ async function setMap() {
           weight: 1,
         })
 
+        var squareAndPark = L.geoJSON(squareParkData, {
+          data: squareParkData,
+          color: "black",
+          fillColor: "green",
+          fillOpacity: 0.3,
+          weight: 1,
+          onEachFeature:onEachFeature,
+          
+        })
+
         // var circuitLanus = L.geoJSON(circuitData, {
         //   data: circuitData,
         //   color: "red",
@@ -286,6 +301,7 @@ async function setMap() {
           "Escuelas Técnicas": tecnicalHightSchollEducation,
           Universidades: universityEducation,
           "Otros establecimientos educativos": otherEducation,
+          "Parques y plazas": squareAndPark,
           Salud: health,
           Seguridad: security,
           Transporte: transport,
