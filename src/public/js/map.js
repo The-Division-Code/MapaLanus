@@ -69,6 +69,13 @@ async function setMap() {
     shadowSize: [68, 95],
     shadowAnchor: [22, 94],
   });
+  
+    var justiceIcon = new L.icon({
+    iconUrl: "/img/justice.svg",
+    iconSize: [80, 40],
+    shadowSize: [68, 95],
+    shadowAnchor: [22, 94],
+  });
 
   L.tileLayer(
     "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}",
@@ -234,8 +241,8 @@ async function setMap() {
               return L.marker(latlng, { icon: policeIcon });
             } else if (feature.properties.tipo == "Cuartel de Bomberos") {
               return L.marker(latlng, { icon: bombersIcon });
-              // }else{
-              //   return L.marker(latlng,{icon: healthIconPrivate});
+              // }else if (feature.properties.tipo == "Juzgado") {
+              //   return L.marker(latlng,{icon: justiceIcon});
             }
           },
         })
