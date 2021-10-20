@@ -35,180 +35,47 @@ async function setMap() {
   var map = L.map("map", {
     center: [-34.7033363, -58.3953235],
     zoom: 13,
-	"tap": false
   });
 
   var healthIconProvincial = new L.icon({
     iconUrl: "/img/Hospitales.svg",
-    iconSize: [80, 50],
+    iconSize: [80, 40],
     shadowSize: [68, 95],
     shadowAnchor: [22, 94],
   });
   var healthIconMunicipal = new L.icon({
     iconUrl: "/img/Centros_de_salud.svg",
-    iconSize: [80, 50],
+    iconSize: [80, 40],
     shadowSize: [68, 95],
     shadowAnchor: [22, 94],
   });
   var healthIconPrivate = new L.icon({
     iconUrl: "/img/Clinica_privada.svg",
-    iconSize: [80, 50],
+    iconSize: [80, 40],
     shadowSize: [68, 95],
     shadowAnchor: [22, 94],
   });
 
   var policeIcon = new L.icon({
     iconUrl: "/img/police.svg",
-    iconSize: [80, 50],
+    iconSize: [80, 30],
     shadowSize: [68, 95],
     shadowAnchor: [22, 94],
   });
 
   var bombersIcon = new L.icon({
-    iconUrl: "/img/bomber.svg",
-    iconSize: [80, 50],
+    iconUrl: "/img/bombers.svg",
+    iconSize: [80, 40],
     shadowSize: [68, 95],
     shadowAnchor: [22, 94],
   });
   
     var justiceIcon = new L.icon({
     iconUrl: "/img/justice.svg",
-    iconSize: [80, 50],
+    iconSize: [80, 40],
     shadowSize: [68, 95],
     shadowAnchor: [22, 94],
   });
-	
-	var busIcon = new L.icon({
-    iconUrl: "/img/bus.svg",
-    iconSize: [80, 50],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  });
-	
-	var trainIcon = new L.icon({
-    iconUrl: "/img/train.svg",
-    iconSize: [80, 50],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  });
-
-  var districtClubIcon = new L.icon({
-    iconUrl: "/img/districtClub.svg",
-    iconSize: [80, 50],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  });
-
-  var greenSpaceIcon = new L.icon({
-    iconUrl: "/img/greenSpace.svg",
-    iconSize: [80, 50],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  })
-  var StadiumIcon = new L.icon({
-    iconUrl: "/img/stadium.svg",
-    iconSize: [80, 50],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  });
-
-  var headOfficeIcon = new L.icon({
-    iconUrl: "/img/headOffice.svg",
-    iconSize: [80, 50],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  })
-
-  var municipalDependenceIcon = new L.icon({
-    iconUrl: "/img/municipalDependence.svg",
-    iconSize: [80, 50],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  })
-
-  var publicOtherEducationIcon = new L.icon({
-    iconUrl: "/img/otherEducationPrivate.svg",
-    iconSize: [80, 50],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  })
-
-  var privateInitialEducationIcon = new L.icon({
-    iconUrl: "/img/privateInitialEducation.svg",
-    iconSize: [80, 40],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  })
-
-
-  var privatePrimarySchoolIcon = new L.icon({
-    iconUrl: "/img/privatePrimarySchool.svg",
-    iconSize: [80, 40],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  })
-
-  var privateHightSchoolIcon = new L.icon({
-    iconUrl: "/img/privateHightSchool.svg",
-    iconSize: [80, 40],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  })
-
-  var privateTecnicalSchoolIcon = new L.icon({
-    iconUrl: "/img/privateTecnicalSchool.svg",
-    iconSize: [80, 50],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  })
-
-  var privateUniversityIcon = new L.icon({
-    iconUrl: "/img/privateUniversity.svg",
-    iconSize: [80, 50],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  })
-
-  var publicInitialEducationIcon = new L.icon({
-    iconUrl: "/img/publicInitialEducation.svg",
-    iconSize: [80, 40],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  })
-
-  var publicPrimarySchoolIcon = new L.icon({
-    iconUrl: "/img/publicPrimarySchool.svg",
-    iconSize: [80, 40],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  })
-
-  var publicHightSchoolIcon = new L.icon({
-    iconUrl: "/img/publicHightSchool.svg",
-    iconSize: [80, 40],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  })
-
-  
-  var publicTecnicalSchoolIcon = new L.icon({
-    iconUrl: "/img/publicTecnicalSchool.svg",
-    iconSize: [80, 50],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  })
-
-  var publicUniversityIcon = new L.icon({
-    iconUrl: "/img/publicUniversity.svg",
-    iconSize: [80, 50],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  })
-
-
-
-
-
 
   L.tileLayer(
     "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}",
@@ -292,74 +159,56 @@ async function setMap() {
         squareParkData
       ]) => {
         var club = L.geoJSON(clubData, {
+          data: clubData,
           onEachFeature: onEachFeature,
-          pointToLayer: (feature, latlng) => {
-            if(feature.properties.type == "Estadio" ){
-              return L.marker(latlng, { icon: StadiumIcon });
-            }else if(feature.properties.type == "Sede"){
-              return L.marker(latlng, { icon: headOfficeIcon });
-            }
-          }
         }).addTo(map)
 
         var initialEducation = L.geoJSON(educationData, {
           onEachFeature: onEachFeature,
-          pointToLayer: (feature, latlng) => {
-            if(feature.properties.dependence == "Inicial" && feature.properties.public == true){
-              return L.marker(latlng, { icon: publicInitialEducationIcon });
-            }else if(feature.properties.dependence == "Inicial" && feature.properties.public == false){
-              return L.marker(latlng, { icon: privateInitialEducationIcon });
+          filter: (feature, layer) => {
+            if(feature.properties.dependence == "Inicial"){
+              return feature
             }
           }
         })
         var primaryEducation = L.geoJSON(educationData, {
           onEachFeature: onEachFeature,
-          pointToLayer: (feature, latlng) => {
-            if(feature.properties.dependence == "Primaria" && feature.properties.public == true){
-              return L.marker(latlng, { icon: publicPrimarySchoolIcon });
-            }else if(feature.properties.dependence == "Primaria" && feature.properties.public == false){
-              return L.marker(latlng, { icon: privatePrimarySchoolIcon });
+          filter: (feature, layer) => {
+            if(feature.properties.dependence == "Primaria"){
+              return feature
             }
           }
         })
         var hightSchollEducation = L.geoJSON(educationData, {
           onEachFeature: onEachFeature,
-          pointToLayer: (feature, latlng) => {
-            if(feature.properties.dependence == "Secundaria" && feature.properties.public == true){
-              return L.marker(latlng, { icon: publicHightSchoolIcon });
-            }else if(feature.properties.dependence == "Secundaria" && feature.properties.public == false){
-              return L.marker(latlng, { icon: privateHightSchoolIcon });
+          filter: (feature, layer) => {
+            if(feature.properties.dependence == "Secundaria"){
+              return feature
             }
           }
         })
         var tecnicalHightSchollEducation = L.geoJSON(educationData, {
           onEachFeature: onEachFeature,
-          pointToLayer: (feature, latlng) => {
-            if(feature.properties.dependence == "Técnica" && feature.properties.public == true){
-              return L.marker(latlng, { icon: publicTecnicalSchoolIcon });
-            }else if(feature.properties.dependence == "Técnica" && feature.properties.public == false){
-              return L.marker(latlng, { icon: privateTecnicalSchoolIcon });
+          filter: (feature, layer) => {
+            if(feature.properties.dependence == "Técnica" || feature.properties.dependence == "Tecnica"){
+              return feature
             }
           }
         })
         var universityEducation = L.geoJSON(educationData, {
           onEachFeature: onEachFeature,
-          pointToLayer: (feature, latlng) => {
-            if(feature.properties.dependence == "Universitaria" && feature.properties.public == true){
-              return L.marker(latlng, { icon: publicUniversityIcon });
-            }else if(feature.properties.dependence == "Universitaria" && feature.properties.public == false){
-              return L.marker(latlng, { icon: privateUniversityIcon });
+          filter: (feature, layer) => {
+            if(feature.properties.dependence == "Universitaria"){
+              return feature
             }
           }
         })
 
         var otherEducation = L.geoJSON(educationData, {
           onEachFeature: onEachFeature,
-          pointToLayer: (feature, latlng) => {
-            if(feature.properties.dependence == "Otras" && feature.properties.public == true){
-              return L.marker(latlng, { icon: publicOtherEducationIcon });
-            }else if(feature.properties.dependence == "Otras" && feature.properties.public == false){
-              return L.marker(latlng, { icon: publicOtherEducationIcon });
+          filter: (feature, layer) => {
+            if(feature.properties.dependence == "Otras"){
+              return feature
             }
           }
         })
@@ -392,30 +241,21 @@ async function setMap() {
               return L.marker(latlng, { icon: policeIcon });
             } else if (feature.properties.tipo == "Cuartel de Bomberos") {
               return L.marker(latlng, { icon: bombersIcon });
-              }else if (feature.properties.tipo == "Juzgado") {
-               return L.marker(latlng,{icon: justiceIcon});
+              // }else if (feature.properties.tipo == "Juzgado") {
+              //   return L.marker(latlng,{icon: justiceIcon});
             }
-          }
-        });
+          },
+        })
 
         var transport = L.geoJSON(transportData, {
-			//data: transportData,
-          	onEachFeature: onEachFeature,
-        	pointToLayer: function (feature, latlng) {
-            	if (feature.properties.type == "Colectivos") {
-              		return L.marker(latlng, { icon: busIcon });
-           		} else if (feature.properties.type == "Trenes") {
-             		return L.marker(latlng, { icon: trainIcon });
-              	}
-          	}
-        });
+          data: transportData,
+          onEachFeature: onEachFeature,
+        })
 
 
         var MunicipalDependence = L.geoJSON(municipalDependenceData, {
+          data: municipalDependenceData,
           onEachFeature: onEachFeature,
-          pointToLayer: function (feature, latlng) {
-            return L.marker(latlng, { icon: municipalDependenceIcon });
-          }
         })
         // var polygonLanus = L.geoJSON(polygonData, {
         //   data: polygonData,

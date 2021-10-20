@@ -4,6 +4,7 @@
     {
       "properties": {
         "name": "Sede Social Club Lanús",
+        "type":"Sede",
         "address": "Av. 9 de Julio",
         "height": "1680"
       },
@@ -20,6 +21,7 @@
     {
       "properties": {
         "name": "Estadio Ciudad de Lanús - Néstor Díaz Pérez",
+        "type":"Estadio",
         "address": "Ramón Cabrero",
         "height": "2007"
       },
@@ -36,6 +38,7 @@
     {
       "properties": {
         "name": "Lanús Rugby Club",
+        "type":"Estadio",
         "address": "Gral Ferré",
         "height": "2699"
       },
@@ -52,6 +55,7 @@
     {
       "properties": {
         "name": "Polideportivo Club Atlético Lanús",
+        "type":"Sede",
         "address": "Ramón Cabrero",
         "height": "2000"
       },
@@ -68,6 +72,7 @@
     {
       "properties": {
         "name": "Club Atlético Lanús - Anexo Dr Carlos González",
+        "type":"Sede",
         "address": "Ramón Cabrero",
         "height": "1560"
       },
@@ -84,6 +89,7 @@
     {
       "properties": {
         "name": "Club Atlético Lanús, Predio Valentin Alsina.",
+        "type":"Sede",
         "address": "Liniers",
         "height": "3351"
       },
@@ -100,6 +106,7 @@
     {
       "properties": {
         "name": "Estadio Club El Porvenir",
+        "type":"Estadio",
         "address": "Manuel Blanco Encalada",
         "height": "400"
       },
@@ -116,6 +123,7 @@
     {
       "properties": {
         "name": "Club Atlético Victoriano Arenas",
+        "type":"Sede",
         "address": "Paso de Burgos",
         "height": "82"
       },
@@ -132,6 +140,7 @@
     {
       "properties": {
         "name": "El Predio Del C.A. Talleres",
+        "type":"Sede",
         "address": " Barragán",
         "height": "4400"
       },
@@ -148,6 +157,7 @@
     {
       "properties": {
         "name": "Club Atlético Talleres",
+        "type":"Estadio",
         "address": "Timote",
         "height": "3401"
       },
@@ -164,6 +174,7 @@
     {
       "properties": {
           "name": "Predio Club Porvenir",
+          "type":"Sede",
           "address": "Oncativo",
           "height": "2401"
       },
