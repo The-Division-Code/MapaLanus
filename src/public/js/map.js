@@ -125,6 +125,14 @@ async function setMap() {
     shadowSize: [68, 95],
     shadowAnchor: [22, 94],
   })
+  
+
+  var privateOtherEducationIcon = new L.icon({
+    iconUrl: "/img/otherEducationPublic.svg",
+    iconSize: [80, 50],
+    shadowSize: [68, 95],
+    shadowAnchor: [22, 94],
+  })
 
   var publicOtherEducationIcon = new L.icon({
     iconUrl: "/img/otherEducationPrivate.svg",
@@ -359,7 +367,7 @@ async function setMap() {
             if(feature.properties.dependence == "Otras" && feature.properties.public == true){
               return L.marker(latlng, { icon: publicOtherEducationIcon });
             }else if(feature.properties.dependence == "Otras" && feature.properties.public == false){
-              return L.marker(latlng, { icon: publicOtherEducationIcon });
+              return L.marker(latlng, { icon: privateOtherEducationIcon });
             }
           }
         })
