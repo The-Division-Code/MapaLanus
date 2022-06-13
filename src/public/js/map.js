@@ -10,6 +10,13 @@ function onEachFeature(feature, layer) {
   );
  }
 }
+
+let documentPicker = UIDocumentPickerViewController(documentTypes: [String(kUTTypePDF)], in: .import)
+
+documentPicker.delegate = self
+documentPicker.modalPresentationStyle = .overCurrentContext
+present(documentPicker, animated: true, completion: nil)
+
 // var quilmes = L.marker([-34.730302,  -58.268868]).bindPopup('This is Quilmes, CO.'),
 //     lomas    = L.marker([-34.7572582, -58.4026638]).bindPopup('This is Lomas, CO.'),
 //     avellaneda    = L.marker([-34.6648394, -58.3628061]).bindPopup('This is Avellaneda, CO.')
