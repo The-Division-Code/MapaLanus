@@ -486,11 +486,11 @@ async function setMap(healthData) {
 
         //var baseMap = {
           // "Polígono": polygonLanus,
-          //"Barrios": districtsLanus,
+          "Barrios": districtsLanus,
           // "Circuitos Electorales": circuitLanus,
-          //"Localidades": LocationsLanus
+          "Localidades": LocationsLanus
         };
-        L.control.layers(overLayers).addTo(map);
+        L.control.layers(overLayers, baseMap).addTo(map);
       }
     );
   return arr;
