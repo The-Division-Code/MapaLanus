@@ -478,7 +478,7 @@ async function setMap(healthData) {
           "Escuelas Técnicas": tecnicalHightSchollEducation,
           Universidades: universityEducation,
           "Otros establecimientos educativos": otherEducation,
-          "Parques y plazas": squareAndPark,
+          //"Parques y plazas": squareAndPark,
           Salud: health,
           Seguridad: security,
           Transporte: transport,
