@@ -484,7 +484,7 @@ async function setMap(healthData) {
           Transporte: transport,
         };
 
-        //var baseMap = {
+        var baseMap = {
           // "Polígono": polygonLanus,
           "Barrios": districtsLanus,
           // "Circuitos Electorales": circuitLanus,
