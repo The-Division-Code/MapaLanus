@@ -29,7 +29,7 @@ let square_park_url = "/data/square&Park.geojson"
 //Si deja de funcionar probar con esto
 // async function setMap(healthData) {
 
-async function setMap() {
+async function setMap(healthData) {
   let loader = `<div class="loader-wrapper"></div>`;
   document.getElementById("map").innerHTML = loader;
   var map = L.map("map", {
