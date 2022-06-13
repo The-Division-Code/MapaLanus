@@ -151,5 +151,17 @@
         "coordinates": [-58.4323514, -34.6781838]
       }
     }
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cementerio Municipal de Lanús",
+        "address": "Coronel Aguilar",
+        "height": "3302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.377768, -34.734197]
+      }
+    }
   ]
 }
