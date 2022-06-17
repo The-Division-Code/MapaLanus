@@ -421,12 +421,12 @@ async function setMap(healthData) {
         });
 
 
-        // var MunicipalDependence = L.geoJSON(municipalDependenceData, {
-        //   onEachFeature: onEachFeature,
-        //   pointToLayer: function (feature, latlng) {
-        //     return L.marker(latlng, { icon: municipalDependenceIcon });
-        //   }
-        // })
+        var MunicipalDependence = L.geoJSON(municipalDependenceData, {
+          onEachFeature: onEachFeature,
+          pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, { icon: municipalDependenceIcon });
+          }
+        })
                 // var squareAndPark = L.geoJSON(squareParkData, {
         //   data: squareParkData,
         //   color: "black",
