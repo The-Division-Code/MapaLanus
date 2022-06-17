@@ -470,10 +470,10 @@ async function setMap(healthData) {
 
         var overLayers = {
           Clubes: club,
-          // "Dependencias Municipales": MunicipalDependence,
-          "Educación Inicial": initialEducation,
-          "Escuelas Primarias": primaryEducation,
-          "Escuelas Secundarias": hightSchollEducation,
+          "Dependencias Municipales": MunicipalDependence,
+          // "Educación Inicial": initialEducation,
+          // "Escuelas Primarias": primaryEducation,
+          // "Escuelas Secundarias": hightSchollEducation,
           "Escuelas Técnicas": tecnicalHightSchollEducation,
           Universidades: universityEducation,
           "Otros establecimientos educativos": otherEducation,
