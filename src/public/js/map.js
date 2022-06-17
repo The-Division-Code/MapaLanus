@@ -243,7 +243,7 @@ L.control.watermark({ position: 'bottomleft' }).addTo(map);
     "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}",
     {
       attribution:
-        'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> Division Code & Desarrollo i, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+        'Map data &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> Division Code & <a href="https://desarrolloi.org/" target="_blank"> Desarrollo i </a>, Imagery © <a href="https://www.mapbox.com/" target="_blank">Mapbox</a>',
       maxZoom: 19,
       minZoom: 12,
       id: "mapbox/streets-v11",
@@ -253,20 +253,6 @@ L.control.watermark({ position: 'bottomleft' }).addTo(map);
         "sk.eyJ1Ijoibmljb2NhcHV0b2NhaSIsImEiOiJja3RhazVpbzcwMzJhMndvNmZpNGJtbWhrIn0.YV17IMSMs1UQFzyqqhRIdA",
     }
   ).addTo(map);
-  
-  // var searchControl = L.esri.Geocoding.geosearch({
-  //   position: 'topright',
-  //   placeholder: 'Enter an address or place e.g. 1 York St',
-  //   useMapBounds: false,
-  //   providers: [L.esri.Geocoding.arcgisOnlineProvider({
-  //     apikey: apiKey, // replace with your api key - https://developers.arcgis.com
-  //     nearby: {
-  //       lat: -33.8688,
-  //       lng: 151.2093
-  //     }
-  //   })]
-  // }).addTo(map);
-  // var cities = L.layerGroup([quilmes, lomas, avellaneda]);
   var fClub = fetch(club_url);
   var fEducation = fetch(education_url);
   var fHealth = fetch(health_url);
@@ -452,7 +438,7 @@ L.control.watermark({ position: 'bottomleft' }).addTo(map);
           color: "black",
           fillColor: "green",
           fillOpacity: 0.1,
-          weight: 1,
+          weight: 1.5,
           onEachFeature:onEachFeature,
           pointToLayer: function (feature, latlng) {
             return L.marker(feature.getCenter() ,latlng, { icon: municipalDependenceIcon });
