@@ -4,10 +4,14 @@ window.addEventListener("load", function () {
 
 function onEachFeature(feature, layer) {
   // does this feature have a property named popupContent?
-  if (feature.properties) {
+  if (feature.properties && feature.geometry.type != "Polygon") {
   return layer.bindPopup(
     `<h3>${feature.properties.name}</h3><span>Dirección: ${feature.properties.address} ${feature.properties.height}</span>`
   );
+ }else if (feature.properties && feature.geometry.type == "Polygon"){
+  return layer.bindPopup(
+    `<h3>${feature.properties.name}</h3><span>Dirección: ${feature.properties.address}</span>`
+  )
  }
 }
 
@@ -101,12 +105,6 @@ async function setMap(healthData) {
     shadowAnchor: [22, 94],
   });
 
-  var greenSpaceIcon = new L.icon({
-    iconUrl: "/img/greenSpace.svg",
-    iconSize: [80, 50],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  })
   var StadiumIcon = new L.icon({
     iconUrl: "/img/stadium.svg",
     iconSize: [80, 50],
@@ -215,8 +213,29 @@ async function setMap(healthData) {
     shadowAnchor: [22, 94],
   })
 
+  var squareAndParkIcon = new L.icon({
+    iconUrl: "/img/square&Park.svg",
+    iconSize: [80, 50],
+    shadowSize: [68, 95],
+    shadowAnchor: [22, 94],
+  })
 
+  L.Control.Watermark = L.Control.extend({
+    onAdd: function(map) {
+        var img = L.DomUtil.create('img');
 
+        img.src = '/img/Logo completo.png';
+        img.style.width = '200px';
+
+        return img;
+    }
+});
+
+L.control.watermark = function(opts) {
+    return new L.Control.Watermark(opts);
+}
+
+L.control.watermark({ position: 'bottomleft' }).addTo(map);
 
 
 
@@ -427,15 +446,18 @@ async function setMap(healthData) {
             return L.marker(latlng, { icon: municipalDependenceIcon });
           }
         })
-                // var squareAndPark = L.geoJSON(squareParkData, {
-        //   data: squareParkData,
-        //   color: "black",
-        //   fillColor: "green",
-        //   fillOpacity: 0.3,
-        //   weight: 1,
-        //   onEachFeature:onEachFeature,
-          
-        // })
+        
+        var squareAndPark = L.geoJSON(squareParkData, {
+          data: squareParkData,
+          color: "black",
+          fillColor: "green",
+          fillOpacity: 0.1,
+          weight: 1,
+          onEachFeature:onEachFeature,
+          pointToLayer: function (feature, latlng) {
+            return L.marker(feature.getCenter() ,latlng, { icon: municipalDependenceIcon });
+          }
+        })
         // var polygonLanus = L.geoJSON(polygonData, {
         //   data: polygonData,
         //   color: "red",
@@ -444,13 +466,16 @@ async function setMap(healthData) {
         //   weight: 3,
         // }).addTo(map);
 
-        // var districtsLanus = L.geoJSON(districtData, {
-        //   data: districtData,
-        //   color: "red",
-        //   fillColor: "silver",
-        //   fillOpacity: 0.3,
-        //   weight: 1,
-        // })
+
+        var districtsLanus = L.geoJSON(districtData, {
+          data: districtData,
+          color: "red",
+          fillColor: "silver",
+          fillOpacity: 0.3,
+          weight: 1,
+        })
+
+
 
         // var circuitLanus = L.geoJSON(circuitData, {
         //   data: circuitData,
@@ -471,27 +496,29 @@ async function setMap(healthData) {
         var overLayers = {
           Clubes: club,
           "Dependencias Municipales": MunicipalDependence,
-          // "Educación Inicial": initialEducation,
-          // "Escuelas Primarias": primaryEducation,
-          // "Escuelas Secundarias": hightSchollEducation,
+          "Educación Inicial": initialEducation,
+          "Escuelas Primarias": primaryEducation,
+          "Escuelas Secundarias": hightSchollEducation,
           "Escuelas Técnicas": tecnicalHightSchollEducation,
           Universidades: universityEducation,
           "Otros establecimientos educativos": otherEducation,
-          //"Parques y plazas": squareAndPark,
+          "Parques y plazas": squareAndPark,
           Salud: health,
           Seguridad: security,
           Transporte: transport,
         };
 
-        // var baseMap = {
-        //   // "Polígono": polygonLanus,
-        //   "Barrios": districtsLanus,
-        //   // "Circuitos Electorales": circuitLanus,
-        //   "Localidades": LocationsLanus
-        // };
-        L.control.layers(overLayers).addTo(map);
+        var baseMap = {
+          // "Polígono": polygonLanus,
+          "Barrios": districtsLanus,
+          // "Circuitos Electorales": circuitLanus,
+          "Localidades": LocationsLanus
+        };
+        L.control.layers(overLayers, baseMap).addTo(map);
       }
+      
     );
-  return arr;
+
+  // return arr;
 }
 window.onload = setMap();
