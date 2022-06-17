@@ -435,13 +435,13 @@ async function setMap(healthData) {
         //   weight: 3,
         // }).addTo(map);
 
-        var districtsLanus = L.geoJSON(districtData, {
-          data: districtData,
-          color: "red",
-          fillColor: "silver",
-          fillOpacity: 0.3,
-          weight: 1,
-        })
+        // var districtsLanus = L.geoJSON(districtData, {
+        //   data: districtData,
+        //   color: "red",
+        //   fillColor: "silver",
+        //   fillOpacity: 0.3,
+        //   weight: 1,
+        // })
 
         var squareAndPark = L.geoJSON(squareParkData, {
           data: squareParkData,
@@ -484,13 +484,13 @@ async function setMap(healthData) {
           Transporte: transport,
         };
 
-        var baseMap = {
-          // "Polígono": polygonLanus,
-          "Barrios": districtsLanus,
-          // "Circuitos Electorales": circuitLanus,
-          "Localidades": LocationsLanus
-        };
-        L.control.layers(overLayers, baseMap).addTo(map);
+        // var baseMap = {
+        //   // "Polígono": polygonLanus,
+        //   "Barrios": districtsLanus,
+        //   // "Circuitos Electorales": circuitLanus,
+        //   "Localidades": LocationsLanus
+        // };
+        L.control.layers(overLayers).addTo(map);
       }
     );
   return arr;
