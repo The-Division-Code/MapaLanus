@@ -10,6 +10,8 @@ function onEachFeature(feature, layer) {
   );
  }
 }
+
+
 // var quilmes = L.marker([-34.730302,  -58.268868]).bindPopup('This is Quilmes, CO.'),
 //     lomas    = L.marker([-34.7572582, -58.4026638]).bindPopup('This is Lomas, CO.'),
 //     avellaneda    = L.marker([-34.6648394, -58.3628061]).bindPopup('This is Avellaneda, CO.')
@@ -29,9 +31,9 @@ let square_park_url = "/data/square&Park.geojson"
 //Si deja de funcionar probar con esto
 // async function setMap(healthData) {
 
-async function setMap() {
-  let loader = `<div class="loader-wrapper"></div>`;
-  document.getElementById("map").innerHTML = loader;
+async function setMap(healthData) {
+  //let loader = `<div class="loader-wrapper"></div>`;
+  //document.getElementById("map").innerHTML = loader;
   var map = L.map("map", {
     center: [-34.7033363, -58.3953235],
     zoom: 13,
@@ -476,7 +478,7 @@ async function setMap() {
           "Escuelas Técnicas": tecnicalHightSchollEducation,
           Universidades: universityEducation,
           "Otros establecimientos educativos": otherEducation,
-          "Parques y plazas": squareAndPark,
+          //"Parques y plazas": squareAndPark,
           Salud: health,
           Seguridad: security,
           Transporte: transport,
