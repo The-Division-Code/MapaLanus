@@ -490,7 +490,7 @@ L.control.watermark({ position: 'bottomleft' }).addTo(map);
           "Otros establecimientos educativos": otherEducation,
           "Parques y plazas": squareAndPark,
           Salud: health,
-          Seguridad: security,
+          "Seguridad y Justicia": security,
           Transporte: transport,
         };
 

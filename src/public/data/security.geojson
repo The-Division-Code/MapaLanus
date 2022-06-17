@@ -323,7 +323,7 @@
       },
       {
           "properties": {
-              "name": "Juzgado De Familia Lanús",
+              "name": "Juzgado de Familia Lanús",
               "tipo": "Juzgado",
               "address": "Pichincha",
               "height": "55"
@@ -343,7 +343,7 @@
       },
       {
           "properties": {
-              "name": "Juzgado Civil Y Comercial N°2 Lanus",
+              "name": "Juzgado Civil y Comercial N°2 Lanús",
               "tipo": "Juzgado",
               "address": "Carlos Tejedor",
               "height": "283"
@@ -423,7 +423,7 @@
       },
       {
           "properties": {
-              "name": "Tribunal de Faltas de la Municipalidad de Lanus",
+              "name": "Tribunal de Faltas de la Municipalidad de Lanús",
               "tipo": "Juzgado",
               "address": "Llavallol",
               "height": "333"
@@ -443,7 +443,7 @@
       },
       {
           "properties": {
-              "name": "Fiscalias De Lanús",
+              "name": "Fiscalías de Lanús",
               "tipo": "Juzgado",
               "address": "Hipólito Yrigoyen",
               "height": "3946"
@@ -463,7 +463,7 @@
       },
       {
           "properties": {
-              "name": "Juzgado Civil Y Comercial N° 3",
+              "name": "Juzgado Civil y Comercial N° 3",
               "tipo": "Juzgado",
               "address": "José Mármol",
               "height": "20"

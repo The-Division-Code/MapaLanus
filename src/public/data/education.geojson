@@ -5016,7 +5016,7 @@
     },
     {
       "properties": {
-        "name": "Escuela De Emfermería Cruz Roja Lanús",
+        "name": "Escuela de Enfermería Cruz Roja Lanús",
         "public": false,
         "dependence": "Otras",
         "address": "Eva Perón",
@@ -5052,7 +5052,7 @@
     },
     {
       "properties": {
-        "name": "Insituto para la formación e investigación hopitalaria",
+        "name": "Insituto para la formación e investigación hospitalaria",
         "public": false,
         "dependence": "Otras",
         "address": "9 de Julio",
@@ -5111,7 +5111,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-58.39047829142436, -34.73412249078452]
+        "coordinates": [-58.39186942435717, -34.73246874200891]
       },
       "_id": "615dfcaddc808c7f6b9400db",
       "type": "Feature",
