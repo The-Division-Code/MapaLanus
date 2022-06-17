@@ -421,12 +421,21 @@ async function setMap(healthData) {
         });
 
 
-        var MunicipalDependence = L.geoJSON(municipalDependenceData, {
-          onEachFeature: onEachFeature,
-          pointToLayer: function (feature, latlng) {
-            return L.marker(latlng, { icon: municipalDependenceIcon });
-          }
-        })
+        // var MunicipalDependence = L.geoJSON(municipalDependenceData, {
+        //   onEachFeature: onEachFeature,
+        //   pointToLayer: function (feature, latlng) {
+        //     return L.marker(latlng, { icon: municipalDependenceIcon });
+        //   }
+        // })
+                // var squareAndPark = L.geoJSON(squareParkData, {
+        //   data: squareParkData,
+        //   color: "black",
+        //   fillColor: "green",
+        //   fillOpacity: 0.3,
+        //   weight: 1,
+        //   onEachFeature:onEachFeature,
+          
+        // })
         // var polygonLanus = L.geoJSON(polygonData, {
         //   data: polygonData,
         //   color: "red",
@@ -442,16 +451,6 @@ async function setMap(healthData) {
         //   fillOpacity: 0.3,
         //   weight: 1,
         // })
-
-        var squareAndPark = L.geoJSON(squareParkData, {
-          data: squareParkData,
-          color: "black",
-          fillColor: "green",
-          fillOpacity: 0.3,
-          weight: 1,
-          onEachFeature:onEachFeature,
-          
-        })
 
         // var circuitLanus = L.geoJSON(circuitData, {
         //   data: circuitData,
@@ -471,7 +470,7 @@ async function setMap(healthData) {
 
         var overLayers = {
           Clubes: club,
-          "Dependencias Municipales": MunicipalDependence,
+          // "Dependencias Municipales": MunicipalDependence,
           "Educación Inicial": initialEducation,
           "Escuelas Primarias": primaryEducation,
           "Escuelas Secundarias": hightSchollEducation,
