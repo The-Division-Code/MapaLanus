@@ -242,7 +242,7 @@ L.control.watermark({ position: 'bottomleft' }).addTo(map);
   L.tileLayer(
     // "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", // Mapbox
     // 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', Open Street map pelado
-    'https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png', // Stadia Map
+    'https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png?api_key={accessToken}', // Stadia Map
     {
       attribution:
         'Map &copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org">OpenMapTiles</a>, <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a>, Data &copy Division Code & &copy <a href="https://desarrolloi.org/" target="_blank"> Desarrollo i </a>',
@@ -253,6 +253,8 @@ L.control.watermark({ position: 'bottomleft' }).addTo(map);
       zoomOffset: -1,
       accessToken:
         "sk.eyJ1Ijoibmljb2NhcHV0b2NhaSIsImEiOiJja3RhazVpbzcwMzJhMndvNmZpNGJtbWhrIn0.YV17IMSMs1UQFzyqqhRIdA",
+      // accessToken:
+      //   "sk.eyJ1Ijoibmljb2NhcHV0b2NhaSIsImEiOiJja3RhazVpbzcwMzJhMndvNmZpNGJtbWhrIn0.YV17IMSMs1UQFzyqqhRIdA",
     }
   ).addTo(map);
   var fClub = fetch(club_url);
