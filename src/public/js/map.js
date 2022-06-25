@@ -240,10 +240,12 @@ L.control.watermark({ position: 'bottomleft' }).addTo(map);
 
 
   L.tileLayer(
-    "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}",
+    // "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", // Mapbox
+    // 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', Open Street map pelado
+    'https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png', // Stadia Map
     {
       attribution:
-        'Map data &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> Division Code & <a href="https://desarrolloi.org/" target="_blank"> Desarrollo i </a>, Imagery © <a href="https://www.mapbox.com/" target="_blank">Mapbox</a>',
+        'Map &copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org">OpenMapTiles</a>, <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a>, Data &copy Division Code & &copy <a href="https://desarrolloi.org/" target="_blank"> Desarrollo i </a>',
       maxZoom: 19,
       minZoom: 12,
       id: "mapbox/streets-v11",
