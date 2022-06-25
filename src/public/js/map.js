@@ -4,12 +4,18 @@ window.addEventListener("load", function () {
 
 function onEachFeature(feature, layer) {
   // does this feature have a property named popupContent?
-  if (feature.properties) {
+  if (feature.properties && feature.geometry.type != "Polygon") {
   return layer.bindPopup(
     `<h3>${feature.properties.name}</h3><span>Dirección: ${feature.properties.address} ${feature.properties.height}</span>`
   );
+ }else if (feature.properties && feature.geometry.type == "Polygon"){
+  return layer.bindPopup(
+    `<h3>${feature.properties.name}</h3><span>Dirección: ${feature.properties.address}</span>`
+  )
  }
 }
+
+
 // var quilmes = L.marker([-34.730302,  -58.268868]).bindPopup('This is Quilmes, CO.'),
 //     lomas    = L.marker([-34.7572582, -58.4026638]).bindPopup('This is Lomas, CO.'),
 //     avellaneda    = L.marker([-34.6648394, -58.3628061]).bindPopup('This is Avellaneda, CO.')
@@ -29,9 +35,9 @@ let square_park_url = "/data/square&Park.geojson"
 //Si deja de funcionar probar con esto
 // async function setMap(healthData) {
 
-async function setMap() {
-  let loader = `<div class="loader-wrapper"></div>`;
-  document.getElementById("map").innerHTML = loader;
+async function setMap(healthData) {
+  //let loader = `<div class="loader-wrapper"></div>`;
+  //document.getElementById("map").innerHTML = loader;
   var map = L.map("map", {
     center: [-34.7033363, -58.3953235],
     zoom: 13,
@@ -99,12 +105,6 @@ async function setMap() {
     shadowAnchor: [22, 94],
   });
 
-  var greenSpaceIcon = new L.icon({
-    iconUrl: "/img/greenSpace.svg",
-    iconSize: [80, 50],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  })
   var StadiumIcon = new L.icon({
     iconUrl: "/img/stadium.svg",
     iconSize: [80, 50],
@@ -121,6 +121,14 @@ async function setMap() {
 
   var municipalDependenceIcon = new L.icon({
     iconUrl: "/img/municipalDependence.svg",
+    iconSize: [80, 50],
+    shadowSize: [68, 95],
+    shadowAnchor: [22, 94],
+  })
+  
+
+  var privateOtherEducationIcon = new L.icon({
+    iconUrl: "/img/otherEducationPublic.svg",
     iconSize: [80, 50],
     shadowSize: [68, 95],
     shadowAnchor: [22, 94],
@@ -205,8 +213,29 @@ async function setMap() {
     shadowAnchor: [22, 94],
   })
 
+  var squareAndParkIcon = new L.icon({
+    iconUrl: "/img/square&Park.svg",
+    iconSize: [80, 50],
+    shadowSize: [68, 95],
+    shadowAnchor: [22, 94],
+  })
 
+  L.Control.Watermark = L.Control.extend({
+    onAdd: function(map) {
+        var img = L.DomUtil.create('img');
 
+        img.src = '/img/Logo completo.png';
+        img.style.width = '200px';
+
+        return img;
+    }
+});
+
+L.control.watermark = function(opts) {
+    return new L.Control.Watermark(opts);
+}
+
+L.control.watermark({ position: 'bottomleft' }).addTo(map);
 
 
 
@@ -214,7 +243,7 @@ async function setMap() {
     "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}",
     {
       attribution:
-        'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+        'Map data &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> Division Code & <a href="https://desarrolloi.org/" target="_blank"> Desarrollo i </a>, Imagery © <a href="https://www.mapbox.com/" target="_blank">Mapbox</a>',
       maxZoom: 19,
       minZoom: 12,
       id: "mapbox/streets-v11",
@@ -224,20 +253,6 @@ async function setMap() {
         "sk.eyJ1Ijoibmljb2NhcHV0b2NhaSIsImEiOiJja3RhazVpbzcwMzJhMndvNmZpNGJtbWhrIn0.YV17IMSMs1UQFzyqqhRIdA",
     }
   ).addTo(map);
-  
-  // var searchControl = L.esri.Geocoding.geosearch({
-  //   position: 'topright',
-  //   placeholder: 'Enter an address or place e.g. 1 York St',
-  //   useMapBounds: false,
-  //   providers: [L.esri.Geocoding.arcgisOnlineProvider({
-  //     apikey: apiKey, // replace with your api key - https://developers.arcgis.com
-  //     nearby: {
-  //       lat: -33.8688,
-  //       lng: 151.2093
-  //     }
-  //   })]
-  // }).addTo(map);
-  // var cities = L.layerGroup([quilmes, lomas, avellaneda]);
   var fClub = fetch(club_url);
   var fEducation = fetch(education_url);
   var fHealth = fetch(health_url);
@@ -359,7 +374,7 @@ async function setMap() {
             if(feature.properties.dependence == "Otras" && feature.properties.public == true){
               return L.marker(latlng, { icon: publicOtherEducationIcon });
             }else if(feature.properties.dependence == "Otras" && feature.properties.public == false){
-              return L.marker(latlng, { icon: publicOtherEducationIcon });
+              return L.marker(latlng, { icon: privateOtherEducationIcon });
             }
           }
         })
@@ -417,6 +432,18 @@ async function setMap() {
             return L.marker(latlng, { icon: municipalDependenceIcon });
           }
         })
+        
+        var squareAndPark = L.geoJSON(squareParkData, {
+          data: squareParkData,
+          color: "black",
+          fillColor: "green",
+          fillOpacity: 0.1,
+          weight: 1.5,
+          onEachFeature:onEachFeature,
+          pointToLayer: function (feature, latlng) {
+            return L.marker(feature.getCenter() ,latlng, { icon: municipalDependenceIcon });
+          }
+        })
         // var polygonLanus = L.geoJSON(polygonData, {
         //   data: polygonData,
         //   color: "red",
@@ -424,6 +451,7 @@ async function setMap() {
         //   fillOpacity: 0.3,
         //   weight: 3,
         // }).addTo(map);
+
 
         var districtsLanus = L.geoJSON(districtData, {
           data: districtData,
@@ -433,15 +461,7 @@ async function setMap() {
           weight: 1,
         })
 
-        var squareAndPark = L.geoJSON(squareParkData, {
-          data: squareParkData,
-          color: "black",
-          fillColor: "green",
-          fillOpacity: 0.3,
-          weight: 1,
-          onEachFeature:onEachFeature,
-          
-        })
+
 
         // var circuitLanus = L.geoJSON(circuitData, {
         //   data: circuitData,
@@ -470,7 +490,7 @@ async function setMap() {
           "Otros establecimientos educativos": otherEducation,
           "Parques y plazas": squareAndPark,
           Salud: health,
-          Seguridad: security,
+          "Seguridad y Justicia": security,
           Transporte: transport,
         };
 
@@ -482,7 +502,9 @@ async function setMap() {
         };
         L.control.layers(overLayers, baseMap).addTo(map);
       }
+      
     );
-  return arr;
+
+  // return arr;
 }
 window.onload = setMap();
