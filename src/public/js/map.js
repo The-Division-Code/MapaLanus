@@ -120,7 +120,7 @@ async function setMap(healthData) {
   })
 
   var municipalDependenceIcon = new L.icon({
-    iconUrl: "/img/municipalDependence.svg",
+    iconUrl: "/img/municipalDependence1.svg",
     iconSize: [80, 50],
     shadowSize: [68, 95],
     shadowAnchor: [22, 94],
