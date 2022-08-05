@@ -35,7 +35,7 @@ let square_park_url = "/data/square&Park.geojson"
 //Si deja de funcionar probar con esto
 // async function setMap(healthData) {
 
-async function setMap(healthData) {
+async function setMap(arr) {
   //let loader = `<div class="loader-wrapper"></div>`;
   //document.getElementById("map").innerHTML = loader;
   var map = L.map("map", {
@@ -120,7 +120,7 @@ async function setMap(healthData) {
   })
 
   var municipalDependenceIcon = new L.icon({
-    iconUrl: "/img/municipalDependence.svg",
+    iconUrl: "/img/municipalDependence1.svg",
     iconSize: [80, 50],
     shadowSize: [68, 95],
     shadowAnchor: [22, 94],
@@ -509,6 +509,6 @@ L.control.watermark({ position: 'bottomleft' }).addTo(map);
       
     );
 
-  // return arr;
+  return arr;
 }
 window.onload = setMap();
