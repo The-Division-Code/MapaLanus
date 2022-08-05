@@ -120,7 +120,7 @@ async function setMap(arr) {
   })
 
   var municipalDependenceIcon = new L.icon({
-    iconUrl: "/img/municipalDependence1.svg",
+    iconUrl: "/img/municipalDependence2.svg",
     iconSize: [80, 50],
     shadowSize: [68, 95],
     shadowAnchor: [22, 94],
